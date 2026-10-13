@@ -1,0 +1,31 @@
+name: Actualizar noticias del blog
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # cada 6 horas
+  workflow_dispatch: {}       # botón "Run workflow" para correrlo a mano
+permissions:
+  contents: write
+concurrency: noticias
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: main }
+      - name: Rama de datos
+        run: |
+          git clone --depth 1 --branch noticias "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data \
+          || (mkdir data && cd data && git init -b noticias && git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git")
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Buscar noticias
+        run: python main/scripts/fetch_news.py data/noticias.json
+      - name: Guardar
+        run: |
+          cd data
+          git config user.name "Robot de noticias OEI"
+          git config user.email "actions@github.com"
+          git add noticias.json
+          git diff --cached --quiet && echo "sin cambios" && exit 0
+          git commit -m "Noticias $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push origin noticias
