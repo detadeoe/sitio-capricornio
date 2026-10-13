@@ -6,17 +6,37 @@ import json, re, sys, html, urllib.parse, urllib.request, datetime, email.utils
 import xml.etree.ElementTree as ET
 
 TEMAS = [
-    ("mineria",    "Minería en México",          'minería México OR "industria minera" México'),
-    ("proyectos",  "Nuevos proyectos mineros",   '"nueva mina" OR "proyecto minero" OR "exploración minera" OR "inversión minera" México'),
-    ("acero",      "Siderurgia y acero",         'siderurgia OR acerera OR "industria del acero" México'),
-    ("bajio",      "Industria en el Bajío",      'Guanajuato OR Irapuato OR Bajío industria OR inversión OR planta'),
-    ("clientes",   "Grandes clientes",           'Peñoles OR Fresnillo OR Pemex OR "Grupo México" OR Ternium OR Minera Saucito'),
+    ("minas",      "Nuevas minas y proyectos",      '"nueva mina" OR "proyecto minero" OR "construcción de mina" OR "exploración minera" OR "inicia operaciones" mina México'),
+    ("plantas",    "Nuevas plantas e inversiones",  '"nueva planta" OR "ampliación de planta" OR "inversión industrial" OR "parque industrial" México'),
+    ("acero",      "Acero: ampliaciones",           'acerera OR siderúrgica inversión OR ampliación OR "nueva planta" OR "alto horno" México'),
+    ("licitaciones","Licitaciones y contratos",     'licitación OR "adjudica contrato" OR "contrato de mantenimiento" minería OR Pemex OR CFE OR industrial'),
+    ("jugadores",  "Grandes jugadores",             'Peñoles OR Fresnillo OR "Grupo México" OR Ternium OR "Minera Frisco" OR "First Majestic" inversión OR proyecto OR mina'),
+    ("bajio",      "Guanajuato y Bajío",            'Guanajuato OR Irapuato OR Celaya OR León OR Querétaro OR "San Luis Potosí" OR Zacatecas nueva planta OR inversión OR mina OR construcción'),
 ]
+# Palabras que indican oportunidad de negocio (peso) y palabras a descartar
+OPORTUNIDAD = {
+    r"nueva mina|nuevo proyecto|proyecto minero|mina nueva": 4, r"construcci[oó]n|construir[aá]?|edificar": 3,
+    r"inversi|invertir|invierte|millones de d[oó]lares|mdd|mdp|millones": 3, r"empleos": 1, r"ampliaci[oó]n|expansi[oó]n|ampl[ií]a": 3,
+    r"licitaci[oó]n|contrato|adjudica|concurso": 3, r"nueva planta|planta nueva|parque industrial|nave industrial": 4,
+    r"arranque|inicia(r[aá])? operaciones|inaugura|pone en marcha|reactiva|reapertura": 3,
+    r"exploraci[oó]n|permiso|autoriza|aprueba|manifestaci[oó]n de impacto": 2, r"proyecto": 1, r"mina|minera|minero": 1,
+    r"acerera|sider[uú]rgica|acero|fundici[oó]n|alto horno": 1, r"mantenimiento|maquinaria|equipo|gr[uú]a": 1,
+}
+DESCARTAR = r"asesin|homicid|balacera|narco|secuestr|desaparec|fútbol|futbol|liga mx|elecci[oó]n|morena|senador|diputad|horóscopo|clima hoy|farándula|celebridad|ley ind[ií]gena"
+CERCA = r"guanajuato|irapuato|celaya|le[oó]n|salamanca|silao|baj[ií]o|quer[eé]taro|san luis potos[ií]|aguascalientes|zacatecas|jalisco|michoac[aá]n"
+
+def puntuar(x):
+    t = x["t"].lower()
+    if re.search(DESCARTAR, t): return -1, False
+    s = sum(w for pat, w in OPORTUNIDAD.items() if re.search(pat, t))
+    return s, bool(re.search(CERCA, t))
+
 POR_TEMA = 30
+MIN_PUNTOS = 2
 UA = {"User-Agent": "Mozilla/5.0 (OEI noticias; +https://capricornioirapuato.com)"}
 
 def rss_url(q):
-    return "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:14d", "hl": "es-419", "gl": "MX", "ceid": "MX:es-419"})
+    return "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:21d", "hl": "es-419", "gl": "MX", "ceid": "MX:es-419"})
 
 def parse(xml_bytes):
     root = ET.fromstring(xml_bytes)
@@ -53,7 +73,12 @@ def main(path):
         for x in sorted(items, key=lambda x: x["d"], reverse=True):
             k = norm(x["t"])
             if k in seen: continue
-            seen.add(k); uniq.append(x)
+            seen.add(k)
+            p, cerca = puntuar(x)
+            if p < MIN_PUNTOS: continue
+            x["o"] = p
+            if cerca: x["c"] = 1
+            uniq.append(x)
         data["temas"].append({"id": key, "nombre": nombre, "items": uniq[:POR_TEMA]})
         total += len(uniq[:POR_TEMA])
         print(key, len(uniq[:POR_TEMA]))

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Noticias de la industria · Óleo Hidráulica Especializada de Irapuato</title>
-<meta name="description" content="Noticias diarias de minería, nuevos proyectos mineros, siderurgia e industria en el Bajío, seleccionadas por Óleo Hidráulica Especializada de Irapuato (Capricornio).">
+<meta name="description" content="Radar diario de nuevas minas, plantas industriales, ampliaciones, licitaciones e inversiones en México y el Bajío, seleccionado por Óleo Hidráulica Especializada de Irapuato (Capricornio).">
 <link rel="canonical" href="https://capricornioirapuato.com/blog.html">
 <meta name="theme-color" content="#0F1115">
 <meta property="og:title" content="Noticias de la industria · Capricornio"><meta property="og:image" content="https://capricornioirapuato.com/og-image.jpg">
@@ -56,6 +56,13 @@ h1 span{color:var(--or)}
 .empty{border:1.5px dashed var(--line2);border-radius:22px;padding:44px 20px;text-align:center;color:var(--mut)}
 .sk{background:linear-gradient(90deg,#171A20,#1E2228,#171A20);background-size:200% 100%;animation:sk 1.2s infinite;border-radius:20px;height:150px}
 @keyframes sk{to{background-position:-200% 0}}
+.hidden{display:none!important}
+#radar{display:flex;flex-direction:column;gap:12px;padding:20px;border-radius:24px;border:1px solid rgba(255,121,0,.35);background:linear-gradient(160deg,rgba(255,121,0,.10),rgba(23,26,32,.6) 60%)}
+#radar .card{background:#14171C}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;padding:4px 8px;border-radius:999px;border:1px solid}
+.tag.op{color:#FFB27A;border-color:rgba(255,121,0,.5);background:rgba(255,121,0,.1)}
+.tag.ce{color:#9FD3EE;border-color:rgba(159,211,238,.45);background:rgba(159,211,238,.08)}
 .note{font-size:.8rem;color:#6B7480;line-height:1.6;border-top:1px solid #22262D;padding-top:18px}
 @media (max-width:760px){
  nav a:not(.cta):not(.on){display:none}
@@ -74,15 +81,16 @@ h1 span{color:var(--or)}
 </div></header>
 <main>
   <div>
-    <span class="k">Blog · Noticias de la industria</span>
-    <h1>El pulso de la <span>industria</span></h1>
-    <p class="lead">Lo más reciente en minería, nuevos proyectos, siderurgia e industria del Bajío, actualizado automáticamente varias veces al día.</p>
+    <span class="k">Blog · Radar de la industria</span>
+    <h1>Radar de <span>oportunidades</span></h1>
+    <p class="lead">Nuevas minas, plantas, ampliaciones, licitaciones e inversiones en México y el Bajío, seleccionadas y actualizadas automáticamente varias veces al día.</p>
   </div>
   <div class="meta"><span class="live"><i></i>Actualización automática</span><span id="upd"></span></div>
   <div class="bar">
     <div class="tabs" id="tabs" role="tablist"></div>
     <input class="search" id="q" type="search" placeholder="Buscar noticia, mina, empresa…" autocomplete="off">
   </div>
+  <section id="radar" class="hidden"><div class="rh"><span class="k">Lo más prometedor de la semana</span></div><div class="grid" id="rgrid"></div></section>
   <div class="grid" id="grid"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div>
   <p class="note">Las noticias provienen de medios de comunicación externos a través de Google Noticias; los titulares y su contenido son responsabilidad de cada medio. Óleo Hidráulica Especializada de Irapuato no tiene relación con las empresas o proyectos mencionados.</p>
 </main>
@@ -100,23 +108,31 @@ h1 span{color:var(--or)}
     return out.sort(function(a,b){ return (b.d||'').localeCompare(a.d||''); }); }
   function tabs(){
     var h='<button class="tab'+(cur==='todas'?' on':'')+'" data-t="todas">Todas</button>';
-    data.temas.forEach(function(t){ h+='<button class="tab'+(cur===t.id?' on':'')+'" data-t="'+t.id+'">'+esc(t.nombre)+'<b>'+t.items.length+'</b></button>'; });
+    data.temas.forEach(function(t){ if(!t.items.length) return; h+='<button class="tab'+(cur===t.id?' on':'')+'" data-t="'+t.id+'">'+esc(t.nombre)+'<b>'+t.items.length+'</b></button>'; });
     $('tabs').innerHTML=h;
     $('tabs').querySelectorAll('.tab').forEach(function(b){ b.onclick=function(){ cur=b.getAttribute('data-t'); tabs(); render(); }; });
+  }
+  function card(x,top){
+    var tg=(x.o>=5?'<span class="tag op">Oportunidad</span>':'')+(x.c?'<span class="tag ce">Cerca de nosotros</span>':'');
+    return '<a class="card'+(top?' top':'')+'" href="'+esc(x.u)+'" target="_blank" rel="noopener noreferrer"><span class="src"><span>'+esc(x.s||'Noticia')+'</span><span>'+esc(hace(x.d))+'</span></span>'+(tg?'<span class="tags">'+tg+'</span>':'')+'<span class="t">'+esc(x.t)+'</span><span class="go">Leer nota completa ↗</span></a>';
+  }
+  function radar(){
+    var wk=Date.now()-7*86400000, l=all().filter(function(x){ return x.d && new Date(x.d).getTime()>wk; });
+    l.sort(function(a,b){ return ((b.o||0)+(b.c?2:0))-((a.o||0)+(a.c?2:0)) || (b.d||'').localeCompare(a.d||''); });
+    l=l.slice(0,6); if(!l.length) return;
+    $('rgrid').innerHTML=l.map(function(x){ return card(x,false); }).join(''); $('radar').classList.remove('hidden');
   }
   function render(){
     var list = cur==='todas' ? all() : data.temas.filter(function(t){return t.id===cur;})[0].items.map(function(x){return Object.assign({tema:''},x);});
     var q=$('q').value.trim().toLowerCase();
     if(q) list=list.filter(function(x){ return (x.t+' '+x.s).toLowerCase().indexOf(q)>-1; });
     if(!list.length){ $('grid').innerHTML='<div class="empty" style="grid-column:1/-1">No hay noticias que coincidan.</div>'; return; }
-    $('grid').innerHTML=list.slice(0,60).map(function(x,i){
-      return '<a class="card'+(i===0&&!q?' top':'')+'" href="'+esc(x.u)+'" target="_blank" rel="noopener noreferrer"><span class="src"><span>'+esc(x.s||'Noticia')+'</span><span>'+esc(hace(x.d))+'</span></span><span class="t">'+esc(x.t)+'</span><span class="go">Leer nota completa ↗</span></a>';
-    }).join('');
+    $('grid').innerHTML=list.slice(0,60).map(function(x){ return card(x,false); }).join('');
   }
   $('q').oninput=render;
   fetch(FUENTE+(FUENTE.indexOf('?')<0?'?':'&')+'v='+Math.floor(Date.now()/600000),{cache:'no-store'})
     .then(function(r){ if(!r.ok) throw 0; return r.json(); })
-    .then(function(j){ data=j; $('upd').textContent='Última actualización: '+hace(j.actualizado); tabs(); render(); })
+    .then(function(j){ data=j; $('upd').textContent='Última actualización: '+hace(j.actualizado); tabs(); radar(); render(); })
     .catch(function(){ $('grid').innerHTML='<div class="empty" style="grid-column:1/-1">Las noticias se están actualizando. Intente de nuevo en unos minutos.</div>'; });
 })();
 </script>
