@@ -6,12 +6,12 @@ import json, re, sys, html, urllib.parse, urllib.request, datetime, email.utils
 import xml.etree.ElementTree as ET
 
 TEMAS = [
-    ("minas",      "Nuevas minas y proyectos",      '("nueva mina" OR "proyecto minero" OR "construcción de mina" OR "exploración minera" OR "reactivar mina" OR "inicia operaciones") México'),
-    ("plantas",    "Nuevas plantas e inversiones",  '"nueva planta" OR "ampliación de planta" OR "inversión industrial" OR "parque industrial" México'),
-    ("acero",      "Acero: ampliaciones",           'acerera OR siderúrgica inversión OR ampliación OR "nueva planta" OR "alto horno" México'),
-    ("licitaciones","Licitaciones y contratos",     '(licitación OR "adjudica contrato" OR "contrato de mantenimiento") (minera OR Pemex OR CFE OR industrial OR planta) México'),
-    ("jugadores",  "Grandes jugadores",             'Peñoles OR Fresnillo OR "Grupo México" OR Ternium OR "Minera Frisco" OR "First Majestic" inversión OR proyecto OR mina'),
-    ("bajio",      "Guanajuato y Bajío",            '(Guanajuato OR Irapuato OR Celaya OR Salamanca OR Silao OR Querétaro OR "San Luis Potosí" OR Zacatecas OR Aguascalientes) (planta OR mina OR "parque industrial" OR inversión industrial)'),
+    ("minas",      "Minería",      '("nueva mina" OR "proyecto minero" OR "construcción de mina" OR "exploración minera" OR "reactivar mina" OR "inicia operaciones") México'),
+    ("plantas",    "Inversiones industriales",  '"nueva planta" OR "ampliación de planta" OR "inversión industrial" OR "parque industrial" México'),
+    ("acero",      "Acero",           'acerera OR siderúrgica inversión OR ampliación OR "nueva planta" OR "alto horno" México'),
+    ("licitaciones","Licitaciones",     '(licitación OR "adjudica contrato" OR "contrato de mantenimiento") (minera OR Pemex OR CFE OR industrial OR planta) México'),
+    ("jugadores",  "Empresas del sector",             'Peñoles OR Fresnillo OR "Grupo México" OR Ternium OR "Minera Frisco" OR "First Majestic" inversión OR proyecto OR mina'),
+    ("bajio",      "Bajío",            '(Guanajuato OR Irapuato OR Celaya OR Salamanca OR Silao OR Querétaro OR "San Luis Potosí" OR Zacatecas OR Aguascalientes) (planta OR mina OR "parque industrial" OR inversión industrial)'),
 ]
 # Palabras que indican oportunidad de negocio (peso) y palabras a descartar
 OPORTUNIDAD = {
