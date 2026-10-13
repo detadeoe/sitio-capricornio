@@ -1,9 +1,9 @@
 {
-"actualizado": "2026-10-13T19:36:27Z",
+"actualizado": "2026-10-13T19:40:28Z",
 "temas": [
 {
 "id": "minas",
-"nombre": "Nuevas minas y proyectos",
+"nombre": "Minería",
 "items": [
 {
 "t": "Inicia exploración minera en Los Reyes, al sur de Jiménez",
@@ -67,7 +67,7 @@
 },
 {
 "id": "plantas",
-"nombre": "Nuevas plantas e inversiones",
+"nombre": "Inversiones industriales",
 "items": [
 {
 "t": "Más allá de los aranceles, ArcelorMittal México acelera inversiones para producir 5.3 millones de toneladas de acero",
@@ -286,7 +286,7 @@
 },
 {
 "id": "acero",
-"nombre": "Acero: ampliaciones",
+"nombre": "Acero",
 "items": [
 {
 "t": "Gómez Urrutia: AHMSA recuperará nivel en 15 años, $3 mil MDD",
@@ -432,7 +432,7 @@
 },
 {
 "id": "licitaciones",
-"nombre": "Licitaciones y contratos",
+"nombre": "Licitaciones",
 "items": [
 {
 "t": "Pemex: Adjudicación directa de contratos de salud a Atlantis",
@@ -481,7 +481,7 @@
 },
 {
 "id": "jugadores",
-"nombre": "Grandes jugadores",
+"nombre": "Empresas del sector",
 "items": [
 {
 "t": "Mina Naica: Peñoles estudia la viabilidad de reactivar operaciones en Saucillo - El Heraldo de Chihuahua",
@@ -535,13 +535,6 @@
 "c": 1
 },
 {
-"t": "En Arizona, Grupo México pone en marcha camiones de acarreo autónomos",
-"s": "ExtraConfidencial",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWkxNEZZS1dUS1hlR1ZadjJrM1JsWWVlMmV0Unc5cXNpSUkxdUZlTllHVVdvUE8ta2cyZm5BU3ptMld4TUxSWVpyMURibG1HSEFtdk9MWHM4VEVONUhxZE1VQ1Q5dHp6OEVVUVlvYjdidm5DMi1VNWtra1FOb1E4M1NIZnBGMHRDVlFQSlJNOEFpend6VWgtbk1YeTFrYnAzbC1LbDZwdXI2STVE?oc=5",
-"d": "2026-09-30T15:09:03Z",
-"o": 3
-},
-{
 "t": "Orisiyvo: más de 9 millones de onzas de oro y un proyecto que busca llegar al corazón del yacimiento",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemhoS3dHdnhmN2VzV0kya3hpcW1ORlU5Y1NTQTEyU2M4TmJMS29xamR6Z1daS0otRHVaWnQ5VDFwTWRiNEdrM0FpaFRDTjJRTm1yNnNZTm9YQ3EwS0lIZ2lMbEpkcHVfbU9Jb3hjTXFGSGNubzdqVUVnalVSeFByM2VQVkZHeExWbmpqSXB0QUpZaUxKb05SZ1R1MWpyWmdURUpGTlUzbi1Wck1LVzhhak0zVG9UZ2lBWXNVemRKVUJWZm1XeUZkbG9KQmhjajVDMTBKdWpJc1hFczloMGRWbA?oc=5",
@@ -559,7 +552,7 @@
 },
 {
 "id": "bajio",
-"nombre": "Guanajuato y Bajío",
+"nombre": "Bajío",
 "items": [
 {
 "t": "Marcelo Ebrard destaca avances de inversión minera en Zacatecas",
@@ -576,6 +569,13 @@
 "d": "2026-10-10T19:22:21Z",
 "o": 3,
 "c": 1
+},
+{
+"t": "Industria automotriz en México: vehículos eléctricos crecen 43.6% y autopartes atraen más inversión - Blog | GPI NEWS",
+"s": "Guanajuato Puerto Interior",
+"u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUFUdTJKeFd4QnpfaUEteVY0WUFJcmdCeU5YcVhncndmSVJZc3daOWtfdTVxTU01akJEcVpoZ2dkSzVtS1FpYWc3T2duUl9FS0NQMnROcFczQ2ZxT0pTbEt1alJ6Rjc3WmthVEtGU2lmcGNFZ1JRU3piaHIyOU1idEJyRldsWmdrZ1Q3T1h4b3JKQVIwYnhBa2puUW9wSmtHQzJKM0s2V043dHZjeVVVd0kwNTFxaFlxUnZObEx1R041MUxpRVE2VWdPYjRnamo3VGo2MExsV1VNdnZUWVJhZmZVQTlmeXgta1Vr?oc=5",
+"d": "2026-10-09T23:05:16Z",
+"o": 3
 },
 {
 "t": "Expo Industrial impulsa negocios e inversiones",
