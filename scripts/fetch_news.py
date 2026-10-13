@@ -6,10 +6,10 @@ import json, re, sys, html, urllib.parse, urllib.request, datetime, email.utils
 import xml.etree.ElementTree as ET
 
 TEMAS = [
-    ("minas",      "Nuevas minas y proyectos",      '"nueva mina" OR "proyecto minero" OR "construcción de mina" OR "exploración minera" OR "inicia operaciones" mina México'),
+    ("minas",      "Nuevas minas y proyectos",      '("nueva mina" OR "proyecto minero" OR "construcción de mina" OR "exploración minera" OR "reactivar mina" OR "inicia operaciones") México'),
     ("plantas",    "Nuevas plantas e inversiones",  '"nueva planta" OR "ampliación de planta" OR "inversión industrial" OR "parque industrial" México'),
     ("acero",      "Acero: ampliaciones",           'acerera OR siderúrgica inversión OR ampliación OR "nueva planta" OR "alto horno" México'),
-    ("licitaciones","Licitaciones y contratos",     'licitación OR "adjudica contrato" OR "contrato de mantenimiento" minería OR Pemex OR CFE OR industrial'),
+    ("licitaciones","Licitaciones y contratos",     '(licitación OR "adjudica contrato" OR "contrato de mantenimiento") (minera OR Pemex OR CFE OR industrial OR planta) México'),
     ("jugadores",  "Grandes jugadores",             'Peñoles OR Fresnillo OR "Grupo México" OR Ternium OR "Minera Frisco" OR "First Majestic" inversión OR proyecto OR mina'),
     ("bajio",      "Guanajuato y Bajío",            'Guanajuato OR Irapuato OR Celaya OR León OR Querétaro OR "San Luis Potosí" OR Zacatecas nueva planta OR inversión OR mina OR construcción'),
 ]
@@ -23,11 +23,14 @@ OPORTUNIDAD = {
     r"acerera|sider[uú]rgica|acero|fundici[oó]n|alto horno": 1, r"mantenimiento|maquinaria|equipo|gr[uú]a": 1,
 }
 DESCARTAR = r"asesin|homicid|balacera|narco|secuestr|desaparec|fútbol|futbol|liga mx|elecci[oó]n|morena|senador|diputad|horóscopo|clima hoy|farándula|celebridad|ley ind[ií]gena"
-CERCA = r"guanajuato|irapuato|celaya|le[oó]n|salamanca|silao|baj[ií]o|quer[eé]taro|san luis potos[ií]|aguascalientes|zacatecas|jalisco|michoac[aá]n"
+CERCA = r"guanajuato|irapuato|celaya|le[oó]n,? gto|le[oó]n guanajuato|salamanca|silao|baj[ií]o|quer[eé]taro|san luis potos[ií]|aguascalientes|zacatecas|michoac[aá]n"
+
+EXTRANJERO = r"per[uú]|\bminem\b|argentin|chile|colombia|bolivia|ecuador|espa[ñn]a|canarias|ciudadreal|castilla|andaluc|provincia de|\bnoa\b|neuqu[eé]n|mendoza|r[ií]o negro|venezuel|guatemal|honduras|brasil"
+FUENTES_FUERA = r"facebook|tiktok|youtube|instagram|\.ar$|\.pe$|\.es$|\.cl$|\.co$|rumbo minero|lt9|editorial rn|canarias7|la raz[oó]n$|tendencia de noticia"
 
 def puntuar(x):
     t = x["t"].lower()
-    if re.search(DESCARTAR, t): return -1, False
+    if re.search(DESCARTAR, t) or re.search(EXTRANJERO, t) or re.search(FUENTES_FUERA, (x.get("s") or "").lower()): return -1, False
     s = sum(w for pat, w in OPORTUNIDAD.items() if re.search(pat, t))
     return s, bool(re.search(CERCA, t))
 
