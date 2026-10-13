@@ -25,7 +25,7 @@ OPORTUNIDAD = {
 DESCARTAR = r"asesin|homicid|balacera|narco|secuestr|desaparec|fútbol|futbol|liga mx|elecci[oó]n|morena|senador|diputad|horóscopo|clima hoy|farándula|celebridad|ley ind[ií]gena"
 CERCA = r"guanajuato|irapuato|celaya|le[oó]n,? gto|le[oó]n guanajuato|salamanca|silao|baj[ií]o|quer[eé]taro|san luis potos[ií]|aguascalientes|zacatecas|michoac[aá]n"
 
-EXTRANJERO = r"costa rica|panam[aá]|estados unidos|texas|canad[aá]|per[uú]|\bminem\b|argentin|chile|colombia|bolivia|ecuador|espa[ñn]a|canarias|ciudadreal|castilla|andaluc|provincia de|\bnoa\b|neuqu[eé]n|mendoza|r[ií]o negro|venezuel|guatemal|honduras|brasil"
+EXTRANJERO = r"costa rica|nicaragua|san juan prepara|los azules|galicia|paradela|panam[aá]|estados unidos|texas|canad[aá]|per[uú]|\bminem\b|argentin|chile|colombia|bolivia|ecuador|espa[ñn]a|canarias|ciudadreal|castilla|andaluc|provincia de|\bnoa\b|neuqu[eé]n|mendoza|r[ií]o negro|venezuel|guatemal|honduras|brasil"
 FUENTES_FUERA = r"facebook|tiktok|youtube|instagram|\.ar$|\.pe$|\.es$|\.cl$|\.co$|rumbo minero|lt9|editorial rn|canarias7|la raz[oó]n$|tendencia de noticia"
 
 INDUSTRIA = r"mina|miner|planta|industr|acer[oa]|sider[uú]rg|fundici|manufactur|f[aá]brica|pemex|cfe|refiner|nave|automotr|energ[eé]t|gasoducto|el[eé]ctric|maquinaria|metal|cobre|plata|oro\b|zinc|litio|hidr[aá]ulic|cementer|ternium|arcelor|ahmsa|pe[ñn]oles|fresnillo|grupo m[eé]xico|frisco|majestic|tren|ferrocarril|puerto|presa|acueducto"
