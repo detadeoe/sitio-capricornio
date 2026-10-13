@@ -11,7 +11,7 @@ TEMAS = [
     ("acero",      "Acero: ampliaciones",           'acerera OR siderúrgica inversión OR ampliación OR "nueva planta" OR "alto horno" México'),
     ("licitaciones","Licitaciones y contratos",     '(licitación OR "adjudica contrato" OR "contrato de mantenimiento") (minera OR Pemex OR CFE OR industrial OR planta) México'),
     ("jugadores",  "Grandes jugadores",             'Peñoles OR Fresnillo OR "Grupo México" OR Ternium OR "Minera Frisco" OR "First Majestic" inversión OR proyecto OR mina'),
-    ("bajio",      "Guanajuato y Bajío",            'Guanajuato OR Irapuato OR Celaya OR León OR Querétaro OR "San Luis Potosí" OR Zacatecas nueva planta OR inversión OR mina OR construcción'),
+    ("bajio",      "Guanajuato y Bajío",            '(Guanajuato OR Irapuato OR Celaya OR Salamanca OR Silao OR Querétaro OR "San Luis Potosí" OR Zacatecas OR Aguascalientes) (planta OR mina OR "parque industrial" OR inversión industrial)'),
 ]
 # Palabras que indican oportunidad de negocio (peso) y palabras a descartar
 OPORTUNIDAD = {
@@ -25,12 +25,15 @@ OPORTUNIDAD = {
 DESCARTAR = r"asesin|homicid|balacera|narco|secuestr|desaparec|fútbol|futbol|liga mx|elecci[oó]n|morena|senador|diputad|horóscopo|clima hoy|farándula|celebridad|ley ind[ií]gena"
 CERCA = r"guanajuato|irapuato|celaya|le[oó]n,? gto|le[oó]n guanajuato|salamanca|silao|baj[ií]o|quer[eé]taro|san luis potos[ií]|aguascalientes|zacatecas|michoac[aá]n"
 
-EXTRANJERO = r"per[uú]|\bminem\b|argentin|chile|colombia|bolivia|ecuador|espa[ñn]a|canarias|ciudadreal|castilla|andaluc|provincia de|\bnoa\b|neuqu[eé]n|mendoza|r[ií]o negro|venezuel|guatemal|honduras|brasil"
+EXTRANJERO = r"costa rica|panam[aá]|estados unidos|texas|canad[aá]|per[uú]|\bminem\b|argentin|chile|colombia|bolivia|ecuador|espa[ñn]a|canarias|ciudadreal|castilla|andaluc|provincia de|\bnoa\b|neuqu[eé]n|mendoza|r[ií]o negro|venezuel|guatemal|honduras|brasil"
 FUENTES_FUERA = r"facebook|tiktok|youtube|instagram|\.ar$|\.pe$|\.es$|\.cl$|\.co$|rumbo minero|lt9|editorial rn|canarias7|la raz[oó]n$|tendencia de noticia"
+
+INDUSTRIA = r"mina|miner|planta|industr|acer[oa]|sider[uú]rg|fundici|manufactur|f[aá]brica|pemex|cfe|refiner|nave|automotr|energ[eé]t|gasoducto|el[eé]ctric|maquinaria|metal|cobre|plata|oro\b|zinc|litio|hidr[aá]ulic|cementer|ternium|arcelor|ahmsa|pe[ñn]oles|fresnillo|grupo m[eé]xico|frisco|majestic|tren|ferrocarril|puerto|presa|acueducto"
 
 def puntuar(x):
     t = x["t"].lower()
     if re.search(DESCARTAR, t) or re.search(EXTRANJERO, t) or re.search(FUENTES_FUERA, (x.get("s") or "").lower()): return -1, False
+    if not re.search(INDUSTRIA, t): return 0, False
     s = sum(w for pat, w in OPORTUNIDAD.items() if re.search(pat, t))
     return s, bool(re.search(CERCA, t))
 
