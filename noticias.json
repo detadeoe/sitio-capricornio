@@ -1,10 +1,17 @@
 {
-"actualizado": "2026-10-13T19:40:28Z",
+"actualizado": "2026-10-14T04:51:14Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "La nueva mina de oro de la FIFA ya no está en la televisión",
+"s": "Elplural.com",
+"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHVJQmt6N2pqMXBxNmpvRU1uM2JaQlNpaV9peW4tcmY0YVlJRlowZWpUSnNjNHNqdDBfYkZ0TFRrbElNcDR6ZjZTRFRCcFZqVlZGTnF1RTZuR19EUUNnd3Q0VEFEeWIxcFNHOWdVN3N6a0Jwa19ncy1lSG5xckF4UFk5WFU2TWRYWkc00gGQAUFVX3lxTE5PYTF3elBwYlFqY05VZnV4SkhwZ3RFRzFnby1TRWVXT3ppQkpFQnRUTWhlRWN3WmRRekRQcWlOUWR3YW9BR2gtMG1fXzRkXzRUN0JjNDhPdlpsMjRFSXVsTThndHItYUxOeWF4WHQwTFAyYVRMVG9yQUJOUkJYMG9ydVlIbjVUNGEzRmphbjI5UA?oc=5",
+"d": "2026-10-14T04:00:00Z",
+"o": 5
+},
 {
 "t": "Inicia exploración minera en Los Reyes, al sur de Jiménez",
 "s": "Quadratín Michoacán",
@@ -50,13 +57,6 @@
 "o": 3
 },
 {
-"t": "Rio Grande amplía Winston y confirma mineralización de hasta 35,9 g/t de oro en Nuevo México",
-"s": "Revista Digital Minera REDIMIN",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0I3SzFGY2N1bmgtS0ptTFpGNlFpSmJNZE4yVWNwTnRMd2VmdTlzcWVDdnhiQWJlTF96QXR3Z0lDOGxwNWIxdDBQZTdOeUNFRlJ6bkhIRl91UkdWdDVPdVNydW5Ua19jeXFaVDRTV3ctVHFSblNLVUhXYmlROWtEZ3JudTJDTjJrdC1BanlNUC1US2kzc1VldVJrbVVRRkttTXNJcW9uMEtyTEJEWlFIanNyTFcydw?oc=5",
-"d": "2026-10-01T22:26:10Z",
-"o": 4
-},
-{
 "t": "Mirage inicia operaciones en Guaymas y perfila al puerto como HUB logístico del pacífico",
 "s": "El Imparcial",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTGs5VWFieFh0S1VpaVVSQnpiWkhaZjFzTVVyYnJBRWdrNDJUSVNNdHk0QzQ1b3ZEc0JPYXpNeERXaTlOOUZvQ2ZFc3BhUE5YaEo3bXBVeGRsemstS3JySXlHMjdCZ0RidGZYVDYxTEp5R0RXTloybVNmcnlHQllIYzRXTTBrOHZRZzBZUDE4SGlfYXhuelJ2TWx1andpOWtPUkhNSThKNk9Cckx5dlJwcGZsbjktTWpfWndHbzVyTlRQdWNRU2ZXeWk1eDEzbEc30gHrAUFVX3lxTE9UcmFTajJlNVNuWng1eU5FS2h2ak04WDk5cjF3MzUwLWtha3FHcEZ5YjNyTG5Eb3FOQkJYYUpiRFRMUTMyNXlER3lJWDNvMGp2M1VvZnNobS0xd0h0UTR3VlgxTWJkOThCSFRNWDBtVFh4N1NRYmFkclowT3pXS3hNQlJwNTQyMHBwQkpVWmhiS3R5YW9JdURNWTQ2VUt6R1UzMEdNU1A1TmZBdWVhXzV4RTEyYjg3anpPNHlKdG96QjFOOXNPNS1IaUludVpUMnhYTlV1c2w0SThQMllCam1ZX1dWa3BjejUwVlU?oc=5",
@@ -69,6 +69,27 @@
 "id": "plantas",
 "nombre": "Inversiones industriales",
 "items": [
+{
+"t": "Arcosa invierte 2,100 millones de pesos en nueva planta en Castaños",
+"s": "PostaMx",
+"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmdkWXE4UU1yYkdBZ0NTa0dCalVXWGF4MVBRVVdtdEJ6ZUNUaUk5TXBwdzNheXVjekVHNlNqNGdNd3dXYkJ0czJRSTN6Y2Y2aVJiYUZpTmw3b0JURDVHMzNiWDZFcHNlcDItd0kzQ3FXeGJBZFhNNTB0T1diZk5Qa1o4dEhIYXdibWVDeTZOdF94R3YtUkFpWDdVVjlkaWp2MGk2NTktQVUybW55c2dz0gG0AUFVX3lxTE4zejVsVzhhZERmdWNKSGZQc01GMll3M0xhelRmTjNmbXlFVVhfZzJaN3VMUWFJQ1JEclV2WTkyamNMMGFSeFJ2ZlpDSXF3aDg1SjhMQXBobFc5eTRaU1hvV0EzWS05TXhsYXlmM3I1LWNCTFMxTGp1SkMzaFRXekZhZzdvaVNuVURjLU50WTBXZjMxN29wRnRielA2MXh6S0tILTdPQ2lYaXZPUG9yRFVvV3BYSw?oc=5",
+"d": "2026-10-14T02:46:00Z",
+"o": 7
+},
+{
+"t": "Clausuran Autódromo Monclova por despojo en parque industrial",
+"s": "estrelladigital.com.mx",
+"u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tN2xseXE2cEdUTVZvT0I5c2hMSWhBb002M2RUNUpnakhNdi1Sc0JwVVNGWnprdUFaM04xZ0I1S3RTMW8yVjVraVdUcWZOOURvSndFT2hOZ0ZxQkNTVGxKYkk4Y3dXa2Z0RTNyYm5nb08tODdp?oc=5",
+"d": "2026-10-13T23:21:38Z",
+"o": 4
+},
+{
+"t": "Chava Santos impulsa la inversión industrial en Huamantla; arranca construcción de Color Link México",
+"s": "E-Tlaxcala",
+"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVN2TDU2blUyNW5XWTg1LVNoeE9YZldGUFJZbUh6MnZnRzVNTjZPTXBlOW8xWU5SaWJSWWNuYmdzcG5HS3ptLS1zaFJTSDk2WFI1X1oxLTVVTWpjSkktbG1vS0xWRjQxMmJ6NllURGxxbzNfSm5FZzdCX2lwQUsybEFFSkZRZ1JoN0VLa29oem10YjY4R1JPUHNtcDVEaUUxTkgzLXNoQnhoOV9hSGw2UU01bjV0eERYSDdqdldXSlUyYXRHemhuenVPTFZvV3d6bnc?oc=5",
+"d": "2026-10-13T22:55:35Z",
+"o": 6
+},
 {
 "t": "Más allá de los aranceles, ArcelorMittal México acelera inversiones para producir 5.3 millones de toneladas de acero",
 "s": "El Cronista",
@@ -204,13 +225,6 @@
 "o": 4
 },
 {
-"t": "Elpidio Díaz mantendrá bloqueo a empresa Alberana hasta que le paguen 9 mdp",
-"s": "Hipócrita Lector",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW1kX1JjV3QyYW1IMkNEMWtpNE5hU0JGc3lZenRtS3JqeXNOWm1pTjBBRUE0WWx1U2hPbEhtbk9zM25rSDRNRklUTVNOUXBNYTM1SFlrQndBYmc3SEFwUGlUV2RLSzRxU1lBeXh6MzRqa1VwX0tvampsWnl0NGxTbEFKSzFGZzBra2lhQVdaLVpIeWlHX2pRU2oyWjNVUG9xdXhaT1EwanZ4Q0ZSZnA5N1l3?oc=5",
-"d": "2026-10-01T23:38:09Z",
-"o": 3
-},
-{
 "t": "Incorpora Ayuntamiento de Puebla al Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
 "s": "Reto Diario",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3otLWFkeFVJN1NoY1BieUEzc1lCdlVxZHdQTG5jRXFBM3QweWJSdkViNElXOVZueWxNUTE5ZEVyVkhUQi1XbUVqZi1HdHdoa3lCTkxudzZFRzRVQVI3QkJEMFVibFFoWkhQMURFbzJVSFFPVWJwRmxlQnMtRmFOUjVBODR5NC1TWmFnTXdic0RpZXF5SmdLTXMyZFBSSkViWkR4a1dGdUlTRzRMNEJ0cURQMHZfeHEzb0pBWlZSQ1NUQnZpUUtxZXYyWURJb1Vp?oc=5",
@@ -267,20 +281,6 @@
 "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTBnRDYtc0Z5cUV5SXdpbVE5QlRZalN4cklzSURBYVZvS2JyTVU5V2RDR0N4cUZ1RDBiRUtpMmJLUC13VnplNlRaWmczWkFaMWw0OUtsUkpiTDlsV1VnSVYwQ01WZjVBYU5wSGlEbTVNMF9USGF2MnE0TXhjSkJOeE1PQ2V4SlJHLVBCSDJpNC1sN1l4SUxzVUVNZmhIRy1pSlJj?oc=5",
 "d": "2026-10-01T07:00:00Z",
 "o": 7
-},
-{
-"t": "Empresa aguascalentense VOLMEX prepara una nueva etapa de crecimiento; tendrán nueva planta en Jesús María",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd1Uya2phUVQ3TDd0dTh1ZTFhdm1VUTV2eGV0ZG1nRDM1QTdjWFJncDhuOHlEV2ktcE14SXBWSVdvZm40dG9XalhuVW5WWThOM2ZEOWZlMDBYaXFvMTlYMFJLb0stWWtpNXlNZzNpSE1tdXYtRXc1enJrSFN5azhYTzJhQ2lSbzVRX1pTOTQwZDY5NGhkdjlxSGlMOTk1VGVrYWNUS2x2QThQdVNYRnNaR2R6RXM5MVZnTnk1LVcyOVg0ZVUwdWhLeDhzeHRiVkRGMmN2NDVUd3JDN19hWUNF?oc=5",
-"d": "2026-10-01T07:00:00Z",
-"o": 4
-},
-{
-"t": "Zapotlán perfila polo industrial con inversión de 10 mil millones",
-"s": "MILENIO",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1NVTThQZDd0RVlQM1ZVVjNmTTZJTi15c1ZKdmFOOU1iS0twc180dUM1U3RfMW03aUlYeWRKRTJCeFdlQ1BBSkFLazBmTXMzWS1naTluZ2o1OVNWUHhNN3VPdlB3akdwSExSaUQ3bV9ac05uVW9CTFJlQWF3N2FXQ1hCVkJIYVpMclB2UjdXQzNNY2lYbWfSAZYBQVVfeXFMT29ZbEk4aHVGZWp0TXlYUDVBR3huSUc0a3dfOTQyT0tkalZWejFjY2pCYmdQYVgzSE5kZ09RSkxyU1c4bjNHV0k1MGVSNkpRNlZYQ3A3TnloU21IalBXOVU3al9FaVB4VW9zOHRTMF9GQ2dyTjlmSS1tQk5rUHRvVjYxWmlNMm1Uck9ZRWUzQ0tSckpUWkxn?oc=5",
-"d": "2026-10-01T07:00:00Z",
-"o": 3
 }
 ]
 },
@@ -288,6 +288,13 @@
 "id": "acero",
 "nombre": "Acero",
 "items": [
+{
+"t": "ArcelorMittal México apunta a producir 5.3 millones de toneladas de acero en 2029",
+"s": "PostaMx",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajlfTk5wa040YmdsRjRSbDM0dTJhbW5EeXlUbTh1SlFDQWExVXY3Yk9RdWl5cXpVZDQ1cFQ2TWFkZFYyampVd3Vyb0E4R3pseTZicHpnR01yRkJFcnF0VmdTaHE0OTNSNGZwZUJiWUVMVElDbVAwWHpGSUVHRG1KcEJwOF94Y1JaRWp6WS1qYmIxLXVTempnckx5akZIenJ6cExFRG1MU2JQTDVEaWExeUFHY9IBuAFBVV95cUxQNVowNGphQ3BLdEVJdVRaQ3JCZzZ6a0VtV2hZYmtkZmxObUV0d1l0YTFNRDdEb1ZUb3hYcVdHVXlFaTc0RnRHcktGRGpEX0ZnMnBkamNmMURYamdKWUs1Nkc1MXNOMW5ZMFJRRmM3V3V1N0ViWTJvVEFZeVdFRUVrNTIyZG1iYXFVYzNSQUZCdzdwMXBSLVBJUjc0SjBVbk9YdlFkWEROcGE3a01seTFlSUs4eXR1NWQw?oc=5",
+"d": "2026-10-14T04:05:00Z",
+"o": 4
+},
 {
 "t": "Gómez Urrutia: AHMSA recuperará nivel en 15 años, $3 mil MDD",
 "s": "https://estrelladigital.com.mx/",
@@ -305,7 +312,7 @@
 {
 "t": "Casi 20 mil familias dependían de AHMSA y MINOSA, pero reactivar ambas empresas requeriría una inversión millonaria y un plan de hasta 15 años, según Napoleón Gómez Urrutia",
 "s": "El Imparcial",
-"u": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOcFotZFhtLVJzNV9fUmFVMHZYU2w2em1fcFk1WnlXcUl5SmhvQXZ0TjI1MEUtQzJLUFZ1WTk3LWVaWExyYzR4T2x1UldXc2JIbk9xdklTYmdDTHhPdU9wTWZodFppQ2c5eTBaOWVMWDlZTWhpWVZoVk5vRGZmdFZoN25fNDZvcGw5cHdNWWdLelRPNEZPUjYyWkswSTFuQk5yR1N0d0Y3cndiOGp0VDFwSk1ITnB0cDI1YzlydkZqQnlyZHJkaG1DQTNwcFdha0ZrblR6Y2hreWtidmo0bUkwOGVGYTNlRFlLaWNCeE5WMWxfc1RTR2xvUmwxWTJORndndTBiRmc1TkxFS2tSclJvVUFYZ2ZsLWUwSjBkZWxNNUtuckRXc3lnN0t1Qkd5Z29wbGpEYmlCZTlzdEp6RmxkYW9BOVM1aWRLalMwNG9tcVVhV3phLVNUQdIB2AJBVV95cUxOcFotZFhtLVJzNV9fUmFVMHZYU2w2em1fcFk1WnlXcUl5SmhvQXZ0TjI1MEUtQzJLUFZ1WTk3LWVaWExyYzR4T2x1UldXc2JIbk9xdklTYmdDTHhPdU9wTWZodFppQ2c5eTBaOWVMWDlZTWhpWVZoVk5vRGZmdFZoN25fNDZvcGw5cHdNWWdLelRPNEZPUjYyWkswSTFuQk5yR1N0d0Y3cndiOGp0VDFwSk1ITnB0cDI1YzlydkZqQnlyZHJkaG1DQTNwcFdha0ZrblR6Y2hreWtidmo0bUkwOGVGYTNlRFlLaWNCeE5WMWxfc1RTR2xvUmwxWTJORndndTBiRmc1TkxFS2tSclJvVUFYZ2ZsLWUwSjBkZWxNNUtuckRXc3lnN0t1Qkd5Z29wbGpEYmlCZTlzdEp6RmxkYW9BOVM1aWRLalMwNG9tcVVhV3phLVNUQQ?oc=5",
+"u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbXVsdzNYbjNWUnpQeEVpdTZyX2xkSi12VXgyYUFjb2xYbnY5SEROQzd2MWc3RVo3RTc0WjJNcTNXRjZGRWFaMzBncEItMk55MS11OFptTGJERGJtX2xnMF93VTFQdjZDYWtIaDVaUjBMeHJZSUZ6S25mSUhYemRZcHlKYnlCdjFzdWVCVTlRcXJZVWlQMnJwakJ4V3BGVmNMMHI0ZnhYdHFHZjQ3UlF4YkdxTkE1QUg2TmVVNGpVeXBzelhPajRHVHZfMFJYb1E0UmZTM0dNb2ZVYjQ3eDdJM1NhNkR2RFI4Rk1wX3lWWFJzVWlJQ0NTVkdSeHpfRENFNlFua2M4OC1tbjgzMDdEMDZraWF1UDBWRFphcldoUHhTZFBHdUkzVTVsU3VRYW1YMEo5YzlDZjlPSmE0NXfSAdgCQVVfeXFMTnBaLWRYbS1SczVfX1JhVTB2WFNsNnptX3BZNVp5V3FJeUpob0F2dE4yNTBFLUMyS1BWdVk5Ny1lWlhMcmM0eE9sdVJXV3NiSG5PcXZJU2JnQ0x4T3VPcE1maHRaaUNnOXkwWjllTFg5WU1oaVlWaFZOb0RmZnRWaDduXzQ2b3BsOXB3TVlnS3pUTzRGT1I2MlpLMEkxbkJOckdTdHdGN3J3YjhqdFQxcEpNSE5wdHAyNWM5cnZGakJ5cmRyZGhtQ0EzcHBXYWtGa25UemNoa3lrYnZqNG1JMDhlRmEzZURZS2ljQnhOVjFsX3NUU0dsb1JsMVkyTkZ3Z3UwYkZnNU5MRUtrUnJSb1VBWGdmbC1lMEowZGVsTTVLbnJEV3N5ZzdLdUJHeWdvcGxqRGJpQmU5c3RKekZsZGFvQTlTNWlkS2pTMDRvbXFVYVd6YS1TVEE?oc=5",
 "d": "2026-10-13T03:48:57Z",
 "o": 6
 },
@@ -352,11 +359,11 @@
 "o": 3
 },
 {
-"t": "Gobierno de Coahuila anima a empresa interesada en AHMSA a adquirirla y ofrece facilitar su reactivación",
-"s": "MILENIO",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczk4ak9naXlCcm44WkVaTGVOT0NrRjhrSUZvbG1iY3IxNGM3N1FNQk5YMG9yMFR4WjI5RDU0UUMxc0pTLVpiR3JUYUZscndWR2NEVE5Ibk90YXB4MnExQTBfWkNGMm9TX0czRl9TVEZVZ2VDV3RMeHdNQ2JpdkE1TUxxV25wZTYxWXFsV21n0gGOAUFVX3lxTE9BRldrRlZmTUtrNkJlbE1fUWFLWVQwWnZpaFA3MEF1SXpkd0FMUm9lbXhLYW51aWlkLXNQZUZnMGM3eE5ZVHZHekhkdkpCWmVWSFhhcEhQblQ4UFBPZEtzbkpiTTd5dnZnUmQ3bDlEQVltNHdPYUtKNnozTEdzLU5YOXM4WW14NVZZeU15N1E?oc=5",
-"d": "2026-10-02T07:00:00Z",
-"o": 3
+"t": "Trump pretende construir un gasoducto en Alaska con una multimillonaria inversión de Corea del Sur",
+"s": "La Opinión",
+"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYU1feXpwWWUyRWw1QTUwZ0pOcGUyVHBtUjVSM01MdzRzV1NGNzFKMHNTQ1MwLWtnUndvNVE5amV0Q2p6WUFVZ1VGeFB5cUh4SXpUUnE2cUZfQ21qS2p5d3gtcW9Bc3hZWFJCNGJEYkZqUlNacWFiVVBhX1BmQXpMWDZlYlk5U18wSEJPNy1qa052WTA0LTBzcUU0bXZSeTd2NEhVd3FoaGhwN1QxUVRqWkRCMUhKbFRWSW9jZWlvRDV3X1N6RTVWY1Btd2Q?oc=5",
+"d": "2026-10-01T04:34:05Z",
+"o": 6
 },
 {
 "t": "Trump anuncia planta siderúrgica de 15 mil millones de dólares en Iowa",
@@ -467,7 +474,7 @@
 "t": "CRT alista licitación de 40 MHz para el 5G industrial y abre la puerta al capital extranjero",
 "s": "El Economista",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV21xc2xQQm1OZVNOQVFPQk43RXlTWGNveUpHR3d1LVBQNzhKa1M4NUgzUktpV2NWQnN0RlpHb3p3Y1RPQjBXNHAyX0VCeTYwY2FhcUd5T205OEhCTm5KNWpEWC1kcFFjMlluQ1Zjb3VCclNRRXFpdjhVamZrTE9GTVhUSkozNm5CSUEzVHlKRWI3RDc5S0VGX3ZPR21lZ0Z3eFpVSG1ZQ0NpSE5qSEc0OHdNNTFPUWNHdzJiNUNtaWNTMlNMbkloeTFZR1Z4N1Nx0gHWAUFVX3lxTE03LXVsUmRQVGQwNGl1cjlpenpnV1A2enJsNm4xME9WMW9oLTVENl80TzF2cHhSNF9WZ3R4Qnd2S2p6SVltUTduSVNoT1hLN1hDMHFlTmtTOW02VTdnX1A0dVItbGU2ZXQtZWQxU3pyZjhaeUhtY3VHd0pqNWpyZnFMd1Y5N3E0eXNpb05QM1c5eHMtZ1V6OVExdy1TdXNUZGUtemlFYU05RTJfcm9vN0VlUDJYUzdLLTg1NzZvbjFHYVdicFM4NU9YSnJUdU9VYktmZG5pSHc?oc=5",
-"d": "2026-10-05T16:19:58Z",
+"d": "2026-10-05T07:00:00Z",
 "o": 3
 },
 {
@@ -496,13 +503,6 @@
 "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFWajhFMGZRRVE5LXN5ODhXaVZVenBNajJmb3VqWEkxY0tFMWNEeHI5Q01lZE5aOTRDUkg5Q1ZhcHFrbUxEVktTc3plZDFranRrc0I4T19ySmgtbXVHVVhMTWVuNlNZVVRoM0lrdVIyZHF2NVBuWFNQbncwa3NYZXRNWDVQRmxYZF93MlI3RmJVZTFxc1hfM3BkbHltVUxUNEpXbURDVHdDcnQ0MHRBQk1sM3N6c3VLYTlRemI1YzhnZDZrRVNZdlF3bHBxdVJnbnV6eU5XSU5jSzg?oc=5",
 "d": "2026-10-10T00:34:54Z",
 "o": 3
-},
-{
-"t": "Logra Cerro de Oro de Álamos Gold permisos ambientales",
-"s": "B15 Digital",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVBMVktXY3poVjdrdjdtZjMwRG5SblJXUFZqSDVSbG5qYUlOZ2JtR3RVbXpDUmo5TVAyX1BPUV9xMUdHYng4OGRpN0QyMlk5VU9IMUpMMG5meUt0dVpveVo1V1RTRkFRQ2xrTk4xN1dRSFVvQnBGTHFXdkRUbm5oZlFlTV9UQ2UwbzRqWEE0eWptcEl3ZEFjXw?oc=5",
-"d": "2026-10-09T21:23:49Z",
-"o": 2
 },
 {
 "t": "Ternium invierte 4,000 mdd en nueva acería en México",
@@ -555,6 +555,22 @@
 "nombre": "Bajío",
 "items": [
 {
+"t": "¿Qué industrias reciben más inversión extranjera en San Luis Potosí?",
+"s": "Líder Empresarial",
+"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWQzQmw2SGVDYkxDaXpvOHMzMVVOSWx4UjkwMlpkaENEZWM0ZGI3RE10bGdDV1dSbmwwQWVNVU9Ea2c3aHNyWkRTckZnU0JrbW1tVnY0eWlWN1M2LXhyUDM4bFhEYm0xQ01LVHlQdk95TUlFVFMyc3kyWDN3eWF4bzR4dDV3Tk94OXY2OHlvMFg4a0VuZXRKWnhVX2tPUEZVOWc?oc=5",
+"d": "2026-10-14T03:42:07Z",
+"o": 3,
+"c": 1
+},
+{
+"t": "Querétaro podría ampliar sus oportunidades industriales con nueva estrategia México-Asia",
+"s": "MexicoIndustry",
+"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzFlY0lMLWJwemJuUFVNRUVwdmZTY2lQWHRST1hHMkpOOTlTTjVfV3Fra19Yc21sRlRiRHE5SXZnZDNFNTlyTGpLYkZIQnBzTXVydkxRblctaVQwcTRvWWVReXdUMk9FNXpkcnMzY1dNYnZ6b3VSdWtSV3dWTC1ISnFDVEhEOVZRRHpKOUNySnVkZlNFVDhzN0pRSGl0bWs3RHBCalZKVWVQX29PVDkxNTFReXpkTFlBWllZT3dGRmg?oc=5",
+"d": "2026-10-13T14:30:00Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Marcelo Ebrard destaca avances de inversión minera en Zacatecas",
 "s": "El Horizonte",
 "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmx1aG9hQ2VhQ3c1NEVhZURBMHN0a3J1UmNFUUt1ZjJZUHNlNmF0Q1JWWlRMT3ZXdFZxdHpDZ2NpcDhyODh1ODFYenpxTFlnS1NlMldPUV92RjQ5cGZqUXFPM2hIM1RUTzU0R1VXdVBGaTlBbEhsMGV5ZGRiSXdmNmVMXzFiYlNzZER1RTlDMk9ERWJOeTJUNGRjVDR6dnVBNzFfdmdqVUZOYUJOdEFR?oc=5",
@@ -569,13 +585,6 @@
 "d": "2026-10-10T19:22:21Z",
 "o": 3,
 "c": 1
-},
-{
-"t": "Industria automotriz en México: vehículos eléctricos crecen 43.6% y autopartes atraen más inversión - Blog | GPI NEWS",
-"s": "Guanajuato Puerto Interior",
-"u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUFUdTJKeFd4QnpfaUEteVY0WUFJcmdCeU5YcVhncndmSVJZc3daOWtfdTVxTU01akJEcVpoZ2dkSzVtS1FpYWc3T2duUl9FS0NQMnROcFczQ2ZxT0pTbEt1alJ6Rjc3WmthVEtGU2lmcGNFZ1JRU3piaHIyOU1idEJyRldsWmdrZ1Q3T1h4b3JKQVIwYnhBa2puUW9wSmtHQzJKM0s2V043dHZjeVVVd0kwNTFxaFlxUnZObEx1R041MUxpRVE2VWdPYjRnamo3VGo2MExsV1VNdnZUWVJhZmZVQTlmeXgta1Vr?oc=5",
-"d": "2026-10-09T23:05:16Z",
-"o": 3
 },
 {
 "t": "Expo Industrial impulsa negocios e inversiones",
@@ -614,14 +623,6 @@
 "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOGFzam9fVlVSdWZ6bGlERk56SHBFbWZPNGpnY1BRS19CNHMtdnlxbzhadmlsSkVMZkYxaW42STNPQnY3U2tTZjExckZxWkVHSlpMTDdaSzJ1amRNZlZ5QWNEV1p4cVFDS1J5MWJWbnNGOERIelh0eTZzTWRZelZERXhDY0xSVW42MmYxTGZSUnowSUFUMkNDZi1IWGpZOUh5ZXN4WjJWVXhScHdPY1hXR3Zsc0pkeDNs?oc=5",
 "d": "2026-10-04T03:58:00Z",
 "o": 3
-},
-{
-"t": "Martinrea invierte 50 mdd en ampliación de planta en Silao con una prensa de 3,000 toneladas",
-"s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM29sbGFlWG83QU9XY0Zjc0tmbVJVU01xdVdBX3VZaFA2LTcwUWNEeDZxWW4zSmR0OWdKRHVTQzc0NV9qck0zVTF5QnN3T3NBMm1zbm93WlJZdXdCOTJGN1BLcnFzbXc4TUFjN3QxYmJ3RVl0dzFDZFIxZkFlYUZ1d1UxWG0weFlhMDdOTEF0UjcyRzl1THA0TzJpMHBsbEhVV2xJQW5DQ09WOFJCUXpqSHRuU0hMMWZIeV8xcU0xTVlxU25VS1JmVjJ0dHVpQQ?oc=5",
-"d": "2026-10-01T20:06:35Z",
-"o": 6,
-"c": 1
 },
 {
 "t": "Explosión de pipa en parque industrial al sur de Aguascalientes deja un trabajador sin vida",
