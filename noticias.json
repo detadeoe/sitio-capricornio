@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-10-14T11:49:41Z",
+"actualizado": "2026-10-14T17:08:41Z",
 "temas": [
 {
 "id": "minas",
@@ -69,6 +69,14 @@
 "id": "plantas",
 "nombre": "Inversiones industriales",
 "items": [
+{
+"t": "¿Qué fabricará SINO Manufacturing en su nueva planta de Querétaro?",
+"s": "Líder Empresarial",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2FrMU1iZ0kxRXpqamNHOFhQU3hDX1d4OElzQl9GWnZoRmpFRGhWZGZBWExCQUFwVDVZWUlWNmFYYmM4WWZsNVNoLVhwVGR6cmpXT0cteEhWSmZIYkpIWDllNlJISW8yQTZ3SDQzdXI3UkpyLUJZdDlJS0VPYk8xbDR4ZGNHbFVOU2taYTd3aU85eWszWHN1UzE0UTRhLTg?oc=5",
+"d": "2026-10-14T14:30:50Z",
+"o": 4,
+"c": 1
+},
 {
 "t": "Arcosa invierte 2,100 millones de pesos en nueva planta en Castaños",
 "s": "PostaMx",
@@ -225,13 +233,6 @@
 "o": 4
 },
 {
-"t": "Manolo Jiménez y Miguel Riquelme inauguran el nuevo Parque Industrial VYNMSA Torreón",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNVRvR0dQcWFPY2Q0Z2RwaUItNkV1Nnpfa2FUeDlKRXYwZklpSnRmVzJjc2tfMHgxNFpfSjI3QVVUX1g0WGdBS3JpcjdqNmNQNlUxWURvd0RpOHZNMzkwWGNqa3h0QWl6NHVIMnRkNjdhZlV2N3NyT3hRTUY4Tmd6ODBVYTNvWmVGel85M0ViSWlJc1FwRkZJQXFKRGhwQkpYWWVtMzVuNTNDZzd3VGJMaDlVbGc2Y05oNkQxdnhsaXJGSkpvMHZEXzdiVXFySms?oc=5",
-"d": "2026-10-01T21:50:46Z",
-"o": 7
-},
-{
 "t": "Incorpora alcalde Pepe Chedraui el Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
 "s": "Urbano Puebla",
 "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVk1YczhUN2pKZHRHajJ0ejZRbm1Ud0tTRWQwa3dwZTFwdlNPLTdCM1BtY1BINEZPUE5HZXloQ0w3UEhBUmUtSS1DS3llXzdGLW1xNlNhN2RHQ1dKRWthblMtaUFyaENJYVpYeUFyeC1tMUJqc0ExNUJZXzRDUzRGOXpHMG5Cbk9TSnpHWTg4ZWZ2cmpJaFJxYW90REUzbjJPZkQ2VnYzQVdjVnNnTUxJVndBTkNaQ3pWWXB4M0FfV2VvUmxhY1J0Tk1naw?oc=5",
@@ -276,11 +277,11 @@
 "o": 7
 },
 {
-"t": "Empresa aguascalentense VOLMEX prepara una nueva etapa de crecimiento; tendrán nueva planta en Jesús María",
+"t": "Manolo Jiménez y Miguel Riquelme inauguran el nuevo Parque Industrial VYNMSA Torreón",
 "s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd1Uya2phUVQ3TDd0dTh1ZTFhdm1VUTV2eGV0ZG1nRDM1QTdjWFJncDhuOHlEV2ktcE14SXBWSVdvZm40dG9XalhuVW5WWThOM2ZEOWZlMDBYaXFvMTlYMFJLb0stWWtpNXlNZzNpSE1tdXYtRXc1enJrSFN5azhYTzJhQ2lSbzVRX1pTOTQwZDY5NGhkdjlxSGlMOTk1VGVrYWNUS2x2QThQdVNYRnNaR2R6RXM5MVZnTnk1LVcyOVg0ZVUwdWhLeDhzeHRiVkRGMmN2NDVUd3JDN19hWUNF?oc=5",
+"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNVRvR0dQcWFPY2Q0Z2RwaUItNkV1Nnpfa2FUeDlKRXYwZklpSnRmVzJjc2tfMHgxNFpfSjI3QVVUX1g0WGdBS3JpcjdqNmNQNlUxWURvd0RpOHZNMzkwWGNqa3h0QWl6NHVIMnRkNjdhZlV2N3NyT3hRTUY4Tmd6ODBVYTNvWmVGel85M0ViSWlJc1FwRkZJQXFKRGhwQkpYWWVtMzVuNTNDZzd3VGJMaDlVbGc2Y05oNkQxdnhsaXJGSkpvMHZEXzdiVXFySms?oc=5",
 "d": "2026-10-01T07:00:00Z",
-"o": 4
+"o": 7
 }
 ]
 },
@@ -338,13 +339,6 @@
 "o": 3
 },
 {
-"t": "Gerdau Corsa inaugura planta recicladora en Tlaquepaque para procesar 60 mil toneladas de chatarra al año",
-"s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1NrX0pqWTdRT1p1VjlYSHBvdkpEbE9xdEp0TWZ1RlNNNUZBRjA4M0lFcjRKZEp5Z0ZBdDRPeDUxSlJzZmd5Rkd4OEJwTXZ5OTc5LVZ4U0NaV2d5a2tUazFfUnBYUUgwRHR3NkZnMWs1cGNmRVhubHhSNmtBNUdWZnpzYjUwaEFhZEctWkROQzB3UG9vZi1xbUdvTmo2b2V3UFVoYmg4bTlJTnlPVVFDLWt4cTM5QVVSREJrQ0V4ajhvSUJkelpWaDZnYXlLM3FnbjE0THhkamFGZDdBOEk0?oc=5",
-"d": "2026-10-05T07:00:00Z",
-"o": 3
-},
-{
 "t": "Trump pretende construir un gasoducto en Alaska con una multimillonaria inversión de Corea del Sur",
 "s": "La Opinión",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYU1feXpwWWUyRWw1QTUwZ0pOcGUyVHBtUjVSM01MdzRzV1NGNzFKMHNTQ1MwLWtnUndvNVE5amV0Q2p6WUFVZ1VGeFB5cUh4SXpUUnE2cUZfQ21qS2p5d3gtcW9Bc3hZWFJCNGJEYkZqUlNacWFiVVBhX1BmQXpMWDZlYlk5U18wSEJPNy1qa052WTA0LTBzcUU0bXZSeTd2NEhVd3FoaGhwN1QxUVRqWkRCMUhKbFRWSW9jZWlvRDV3X1N6RTVWY1Btd2Q?oc=5",
@@ -391,6 +385,13 @@
 "s": "eltiempomx.com",
 "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzAzX1A5OGtzSmVwOXViMS1NZzF3TldkaFpXZ0szcURKUGxMcVNxa1NfTUtUT2p1Y2NXVm04SlZwWTFVZjM1NV9kbF9FZy15bDJ1VEN1SHZXTGpERDZObVVFcngzZ0o3NVdTWG0yaE00ZlNJcEw0T01mM1k1TzZqaHVyRENkTmlYVmxSTVJGQTJDUVgxcXdidmlOUVTSAZABQVVfeXFMTzJYamdPYkt6ejdNZlR4aGp5M3lBQjk4c3NfS3gwMlF6dlFDS1pKYktzTERuY3Z2OGQtWkFVYjBfZnAzaHU3UDFnRUYzZlBIVkc5NjM0Vmp6X3Zrbk1yNlZRbTJMMnQ4ZHlnMWFMcGNIc0R0YzI5d0p1NTF5U0RhRjdPeHdCbDlIbDZvMUJ1ZUlz?oc=5",
 "d": "2026-09-27T07:00:00Z",
+"o": 3
+},
+{
+"t": "Surge oferta de 1,400 mdd por AHMSA; aún debe presentar garantía",
+"s": "La Crónica de Hoy",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDBZc29KZjRMVl9vOGJFQnVVcWQ4NFVlWHJBcHVyakUyWFZ4Z0VGdGdLQXUyWjdSdDlGRnZWbFRWYm44bmd2Rl9sejJKczdodXFPMi1VYXQycTM2M0tpMk00WndPdjZzUjJSQ3U0SE9BVjEzMXZUQ21uZk1tZEVyRWZjRFQ1aXNhQnFmdnRiMjdpOVJmZ3hTaWw1RWVoUGpRaUY5d0pOUllzZGk3OGc?oc=5",
+"d": "2026-09-25T07:00:00Z",
 "o": 3
 },
 {
@@ -491,11 +492,11 @@
 "o": 3
 },
 {
-"t": "Ternium cumple 20 años en NYSE y avanza expansión de 4,000 millones de dólares",
-"s": "El Cronista",
-"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGZYdjhTZWRoMFo3dHdES1M3Z1hiUi00aFlEYWVMcVBONmhabHhPeXJrZmowejZiRzNUdVo2S2ZISTl2ektvc1Q0SHRZN21GcDFfblJvTmJMZmhFeDdYczhrWU9JLWcxMFhrUDFzU3JWM3NhSHVsSHFYWXlZcmxWalBRS3RGVk9JYVg1UjBHVXI0QXg0ZTVaem9fX0Zmam5HYjQ3SnRRRGN0SzNJczNCN19aM2Ztb3h5clBmUkZHd1I1ZmJlSlNjRkhGd0ZhaTQ3LV8xQlV6cWZjWEhmekpjbjFNRmNKWng0VUR2WWdzcHdKR29RRFdEaThqVmZzd9IBmAJBVV95cUxPTnNuYjJ6QkNvbTAya3pialZ6dFNsd0NHM1cwdUZPM0VQQVhEd3Jta19rR1dTRFFJMFVuZTF1aDl2ek5BX0pTVzFOVFRMUUxBQjg4eHdUa1B2WF9BZE9qblJLM0hTT2VBbmRSQktkWnZlZWpuY3VqVUZTakc0eUt4eTRIeDJSa29jcXdINFAzbnZtSGptLW9nbDBCdHo0X0dEZWFQOXRLd2YzQ0JZSnF5Q0M5M0w4NWVVNUFRUm90bDFVZWJEcUowWlF5d3FWLUNOQVJ6NVlfM0QwYUVOM1RrMUQxajkxckM5UW5GWjRUMFdwSDQ4WHdPM184S3gzdHRFSU9XaDNjQ1VuR0hZb1JXYlNqajZ2WXVH?oc=5",
-"d": "2026-10-08T22:05:14Z",
-"o": 6
+"t": "Ternium invierte 4,000 mdd en nueva acería en México",
+"s": "Energy21",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa0loY1A2eTFmNDRNN2w1UFB0QzQ3eVdyTHRyclk3c2IyVGFySUtSQ0xxYkhLejhiT2dSMTVhdnF0RXZVWWh5RXVVbXNKeG9iMldjeUQ1TnBTanNlQUJRR2RUdldkMDZsaGdRS0FFNVpqTXVvck9yb2RlNEtsaG1OSmRR?oc=5",
+"d": "2026-10-09T00:27:03Z",
+"o": 3
 },
 {
 "t": "INVIERTE GOBIERNO DE ZACATECAS 19.3 MDP EN CALLES DE FRESNILLO",
@@ -533,13 +534,6 @@
 "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1A0TFU2bUdOekdNT3h6Y3hFTFZPM2FNdkphbnB5U3FQX3lHeE1ranlPSHBJSkx4WE55aFhwcnR4YnpycVYxWmJWeTlMR1FndDRNX1EwcUM1cUswTE9QcXZVazBNUWlkaGh0QWRBQXZSWFhRVG5PZGhodWR4RldhVkhuTW95SU45U0hsME52MmNPQ3J4SW96ZkZzUG9WR0JwV1p2VDJYbVJiZEhuVjMwbXNPVGE2ek5rV05JT1JBOFF4bnlHdW1lYXdR?oc=5",
 "d": "2026-09-29T07:00:00Z",
 "o": 2
-},
-{
-"t": "Caborca inaugura monumento dedicado a las mujeres mineras",
-"s": "Reporte Indigo",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMG9qNmp3TGJHQnlPeWJPNFJUanpPZjFMYkRIa2tDR2ticFFNTFpqeXNJSE1nblpKUU5seG1JdTJ0OHZRaHlTSTlvdnRLVFZmZ2E1UzRXbkVzRGpfSXdzUnAxOTJBNDBwMzZqVTRQYXg3dXZYVTcwdmtWWEU0Qkpkb1VUeGtHdXJCZDhQS1BFdGQ5MkNYbk82bjFEVms1YlR1bHNUZWwxYjJZVEhFSV8tenV1ZVItQdIBuwFBVV95cUxOLWVQZGY5U0xGbS0yUHBEWHdSNEpBTVFESmxxNUZ1dDFCbDFxNER5aEdOcnN4UWNvenhOYmdGTTUyNnpIc0hzR2x3VTZWMGE3LU9EbnRrU3VIZ1RqYjI2VlJEeEJJemxjNHE5R2tLU2lXcFBZc1ZzV3FwbGFMdHQ1alpOZEI4N1FEdVNtdjRzOFdkMUJ1QmJmOFZzc1MyWkIxU2FtRlh6SzJ3QmZRa0R1Y0NmYk5uNmU3dnNV?oc=5",
-"d": "2026-09-25T07:00:00Z",
-"o": 4
 }
 ]
 },
@@ -547,6 +541,14 @@
 "id": "bajio",
 "nombre": "Bajío",
 "items": [
+{
+"t": "¿Qué fabricará SINO Manufacturing en su nueva planta de Querétaro?",
+"s": "Líder Empresarial",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2FrMU1iZ0kxRXpqamNHOFhQU3hDX1d4OElzQl9GWnZoRmpFRGhWZGZBWExCQUFwVDVZWUlWNmFYYmM4WWZsNVNoLVhwVGR6cmpXT0cteEhWSmZIYkpIWDllNlJISW8yQTZ3SDQzdXI3UkpyLUJZdDlJS0VPYk8xbDR4ZGNHbFVOU2taYTd3aU85eWszWHN1UzE0UTRhLTg?oc=5",
+"d": "2026-10-14T14:30:50Z",
+"o": 4,
+"c": 1
+},
 {
 "t": "¿Qué industrias reciben más inversión extranjera en San Luis Potosí?",
 "s": "Líder Empresarial",
