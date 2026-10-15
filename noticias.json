@@ -1,10 +1,24 @@
 {
-"actualizado": "2026-10-15T16:59:16Z",
+"actualizado": "2026-10-15T21:21:53Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "Mineras de tierras raras respaldan anuncio de Trump sobre exploración minera en Groenlandia",
+"s": "Revista Digital Minera REDIMIN",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHZBOWg5Z1JaRmM5U0ZnQXUtclZvcXZCblI3bFNqSHJrak4wcFBNbDdqUUswQVBqUnBZT2dzT1Y3WWtlbWN3dWZwdWxoTm0weTlkQlZDMjZOMHJWRkI2MzBCNkVwUVNnZG9LY0N4Yld1enA4NEZJeENtOEpLbHo3S0N1d3ZNTXE4NmRFWWVtcl8zMG5EcVhSd3pqMW15ZGoyRGF4cXBtSmR6S25sakN1VGtBdWc?oc=5",
+"d": "2026-10-15T19:54:39Z",
+"o": 3
+},
+{
+"t": "Nuevo proyecto minero genera preocupación en Umán",
+"s": "Ahora Tabasco Noticias",
+"u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORGZzMVIzNjNYUzRydzZ3bUhIZ1p1UHBkYmE4XzNQSFR2bnlDSnJYREpKWFExNDhFMWw1TmVTNDJ6VlBNOGVha2V5V0RETG5MdDFFeGt6UlVNWEJSeWJLOU9fUWhCa3g0MnlYM1JuR0ZWOHNtUDNUSVM2MDlic1FtWA?oc=5",
+"d": "2026-10-15T19:42:44Z",
+"o": 6
+},
 {
 "t": "Heliostar Metals asegura permiso regulatorio para minería subterránea de oro en Guerrero",
 "s": "Minería en Línea",
@@ -77,6 +91,27 @@
 "nombre": "Inversiones industriales",
 "items": [
 {
+"t": "Pilgrim’s invierte 720 millones de pesos en nueva planta de alimentos en Gómez Palacio",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3lDakE5Vk9zd1ctcElnSk8zYmp1QzhNMkRGRHFqRDgtT2xwTHYwUHRzYmowSjhPTDl2S1ZGS3BaeDhTcHA3cjFGdFlJSGFyZ3BhYWtRLWtMUFVoM0pNbElGZzd4YWFTUmw0TjRIVHNrZDI3cXBBZy16OE9WUVZmZDU3U05WUUl5XzVOOHVSUnowZU5mRWVEQnVDUFNCRjNCZ1lsQU9PWTVjS21QWFdSZGVFTXF4Mi1oMDEwdGRIOVVydGZwd3VBSC1oMlNsX0dB?oc=5",
+"d": "2026-10-15T21:16:43Z",
+"o": 7
+},
+{
+"t": "Arcosa destinó 2,100 millones de pesos a nueva planta galvanizadora en Coahuila",
+"s": "Tu Interfaz de Negocios",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnpGTWVKX08xdlhkbFFES2tCM3VmbDUyaERxQ0FYNmdlSExXdzVNTlp1QS1QRXN2RFNFQ1FnVllOY1F3NnJuOUduMi1XVHhqbDE5bnREOWtaQ3hIdm94NUlFbmdkN0tsMUg4dGlHSUJCZWc4UTgwZ3RYb2NEWEVlX21xeDRQOE1ER2lWd2JPQ0VwMjUxcEJGLTZOYmRJeVZlbjVTNDNfVWV6TjdzWnFRYzJRVENxVkZwRS1jdQ?oc=5",
+"d": "2026-10-15T20:58:38Z",
+"o": 7
+},
+{
+"t": "Rifel invierte 100 millones de dólares en nueva planta en México",
+"s": "Milenio",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFRSc1NlUWZLNXZNd0stRkYxTzRZdC1wN1JDVExJRy0zOGZyUUc1d0txRUhmZDR1U1Rsd3hXUW1wZU45WnRZSF93ZGM0NEg5UVhRWF9BNFNENERVNmljX3lGelN2d1V3RXZsQ2pJdEczNVlfSEZacGFKN2Z4SFVSR1hiRFpLeHhH0gGIAUFVX3lxTE14VFJzU2VRZks1dk13Sy1GRjFPNFl0LXA3UkNUTElHLTM4ZnJRRzV3S3FFSGZkNHVTVGx3eFdRbXBlTjladFlIX3dkYzQ0SDlRWFFYX0E0U0Q0RFU2aWNfeUZ6U3Z3VXdFdmxDakl0RzM1WV9IRlpwYUo3ZnhIVVJHWGJEWkt4eEc?oc=5",
+"d": "2026-10-15T17:53:00Z",
+"o": 7
+},
+{
 "t": "Frenan seguridad y electricidad nuevas inversiones industriales",
 "s": "El Diario de Coahuila",
 "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXo2cV9xb1ByT1ptUFprRzh5b1ZjaGJoTk5mYlRiWjNfTFVHWGMzQjJmSjdJT2x2Qm5Na01yRWZ6V3ZrNnlkMVRTMzgyVldRV1hxRG56RGlsVE5CU2taSnVfT1VIUUxqS3RvQ3kwWU4tY19UbmctdEFRWDc0cmt6cktlblhJazlTdmRUVXZlU2o5Z1o3LWRhZHB4VTlZQzlsQmZCVFlFS0tBRnM1SFE?oc=5",
@@ -127,20 +162,6 @@
 "o": 4
 },
 {
-"t": "ArcelorMittal México busca producir 5.3 millones de toneladas de acero anuales para 2029",
-"s": "Telediario",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVBPeDc5TW52M2ZWUkdHMm9NSmx3ZDdmSjZTWjRpLXljUEltYm5LaWlGNVNORUxSdWdvVmRzb2J5Y1IwX0lPeFFMN3NDLVBhSkJOb2hxd3JySmJNaXJYRVQ2emlPYmZFcFY4YllkcXJCUkpUYUhSRFpRNFdpa3M5Q1FxSXB0VE54akdUd2JqTEZid9IBkgFBVV95cUxQbmpLdHVVT2lQaTI2REZfb1d2c0RrdlNibXhralJOV211QjNidHV2eHpQTWpZVzRiamxwWk41YjlmamdaVTk4NEt6c0VicEFLS1NvbjdhcE9lVXl2eGtZa1Izempla0drV21PNlJWOEF5aEJ0bDRzSnhkTmRIWUV4SlU4dzdVdnpxVjN1ZGtWN1JUZw?oc=5",
-"d": "2026-10-12T23:00:00Z",
-"o": 4
-},
-{
-"t": "Aseguran 90 hectáreas del Parque Industrial Futura de Monclova",
-"s": "eltiempomx.com",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGJtX2hBVVVNbUVwQUJhTFhiVmRKQkJpTzY4bXlCdGRFQ3RoWkMxNk1GSjNVNlZiTjh3MjVPdWwtSXZ4NjBwWUprd08zbE40MEE2ZjVGQ0lFZlBuZURRRUVIX1hPTjM0V2hWalplRUhnUjNPNHZfUlNvTnFBaXpUQ1d0ZVdsa2FUWnQ4LXVTNnVwQ3FOM3lHRHVjQWZpRTdnSTA4emdB0gGaAUFVX3lxTE9KZjBhZHdyOXdOSUpxTFJIaHp1VHc0RzlpYktGOHRHc1BpOVN4SDFlS3NKMXNnTWJaRGtKOXcyNTRuX1hpQ3R4V1pCVml4NjJaNmlRUzFCR2I1cDhzdjBCbzBHbDlsQzk0dDYzcURCQUVyLTVuejFaN19GblJYWnhGM0tsSWIwZ2s3NVZaRU9KWnI3a2ExUmV0NGc?oc=5",
-"d": "2026-10-12T22:50:38Z",
-"o": 4
-},
-{
 "t": "Nestlé duplicará inversión en México con nueva planta en Veracruz",
 "s": "dairynews.today",
 "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdvaTBUMHZzX0pfZ3dKb0lSeU1fNXRCQW1zb09kY21rTXNaSWJ4ZmI5cE1yWnBxUnczbkV5S0hxYXVxVUFEUERyd09DM2JZYjNDMkI4SGpQRlNxSUpGb0ZrY0g1OGdBRF9weklkWWpNcXVYMng0TEREdDRZV3A3NVhLRlpOOTdVZkpNal9vWlVKc0VpSXRRZE9MLXhLdnNCSTJQSWIzUE5pXzJI?oc=5",
@@ -166,13 +187,6 @@
 "s": "Industry & Energy Magazine",
 "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE9PTGEzUlZTUGZtTGk3TldKaUtvcXBoSzVXS3VtUVN2QWI5bzh6VGhVVWx6WkE0OV92TWV2d0J6SDVrSEN6MWFYd2Nlems5ZVhPa3lqdEZVbDZibkVEOERQSlYxWEE5ZEFBcU5lcmNCNGhmYjlpVDlQSWVDT2IwdjkwRjBJV3VQTHNjSHpMdTFRQThVZDk5Y3RhNzdVajRYcGVmYVFaUEluVEpKLTNB?oc=5",
 "d": "2026-10-06T15:58:51Z",
-"o": 4
-},
-{
-"t": "Anuncian nueva planta tratadora para Los Planes tras años de reclamos",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjdHdklDLXUtOUxrZ0tneU56YjEtRG9tdUltWm1adGZxeXRDdkh5UVNhVDd0TElfeDVyRWpVTkRzTjR3Y0RHbzdaYjFldXVKeUlaUUtabkgyRmotczRhWTBkUzhOOW5tWHRnSWpMb0RSTlBMWjREd3dYNmdrcWFQTE5DbzFxNGI2bk45bXIwVjZScy1nc3RxQy13SXVYM3R5cm9JYjBGZjAxMUxWUFR6dDNYUWVVN3FGM2xHV21n?oc=5",
-"d": "2026-10-06T07:00:00Z",
 "o": 4
 },
 {
@@ -254,13 +268,6 @@
 "o": 4
 },
 {
-"t": "Elpidio Díaz mantendrá bloqueo a empresa Alberana hasta que le paguen 9 mdp",
-"s": "Hipócrita Lector",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW1kX1JjV3QyYW1IMkNEMWtpNE5hU0JGc3lZenRtS3JqeXNOWm1pTjBBRUE0WWx1U2hPbEhtbk9zM25rSDRNRklUTVNOUXBNYTM1SFlrQndBYmc3SEFwUGlUV2RLSzRxU1lBeXh6MzRqa1VwX0tvampsWnl0NGxTbEFKSzFGZzBra2lhQVdaLVpIeWlHX2pRU2oyWjNVUG9xdXhaT1EwanZ4Q0ZSZnA5N1l3?oc=5",
-"d": "2026-10-01T23:38:09Z",
-"o": 3
-},
-{
 "t": "Incorpora alcalde Pepe Chedraui el Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
 "s": "Urbano Puebla",
 "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVk1YczhUN2pKZHRHajJ0ejZRbm1Ud0tTRWQwa3dwZTFwdlNPLTdCM1BtY1BINEZPUE5HZXloQ0w3UEhBUmUtSS1DS3llXzdGLW1xNlNhN2RHQ1dKRWthblMtaUFyaENJYVpYeUFyeC1tMUJqc0ExNUJZXzRDUzRGOXpHMG5Cbk9TSnpHWTg4ZWZ2cmpJaFJxYW90REUzbjJPZkQ2VnYzQVdjVnNnTUxJVndBTkNaQ3pWWXB4M0FfV2VvUmxhY1J0Tk1naw?oc=5",
@@ -288,6 +295,13 @@
 "d": "2026-10-01T07:00:00Z",
 "o": 11,
 "c": 1
+},
+{
+"t": "Abren nueva planta de Lego en Ciénega de Flores y resaltan apoyo para inversión de 400 mdd",
+"s": "Milenio",
+"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTBnRDYtc0Z5cUV5SXdpbVE5QlRZalN4cklzSURBYVZvS2JyTVU5V2RDR0N4cUZ1RDBiRUtpMmJLUC13VnplNlRaWmczWkFaMWw0OUtsUkpiTDlsV1VnSVYwQ01WZjVBYU5wSGlEbTVNMF9USGF2MnE0TXhjSkJOeE1PQ2V4SlJHLVBCSDJpNC1sN1l4SUxzVUVNZmhIRy1pSlJj0gGjAUFVX3lxTE1OcDlGdUxpMEhHXzJaN0U1T202eU9KV080TWxSOGowTVNaeDUyUkF6dEJPTHBSd2p3WnF2eTIwa3hxOFk2ZkFyOUlaY2VPVTBzaFBQMFRYR3JzSXJmWHk0VU9SYUkwNk81NkZSY0RLTjl0OVdhYmJ4czIzOUNxVERWQWgzRmowNHpJZmw2SUVxU3hEbjhoLUNtRXhid2hLdTJQaUE?oc=5",
+"d": "2026-10-01T07:00:00Z",
+"o": 7
 }
 ]
 },
@@ -317,9 +331,9 @@
 "o": 6
 },
 {
-"t": "Va ArcelorMittal por 5.3 millones de toneladas anuales para el 2029",
-"s": "Milenio",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW5QMkp2NkRvTGRBS1cxWmozckZkUUVJOTg5eUJldUMzNjdpQkQ0aG1VUEUxR2ZTZjF4S1BIelBjbWJoWllLZ1paMlZFQnRlMDJTYmM3MXNhTTc2MWFmdnBYbDc3dTl1Z3JvV1BwQXU0TGQycEUwdnlDaFVRZXFtYnItRWMyTWvSAYcBQVVfeXFMT29RVDZIQ3poNDF3Z3I2S1I0VkpCX0xITFYxWWZVQ3g0a3dLeEZBZHdHQ052SGZxTVJlOTNrYTJydWRCV2t0cVQ4Y0ZwQndUb1BtUjEwcTVyeXQ4YldwOWM4Sk0tUUxTOTNjUXdXRVItcmFFVmpuOG9Dd0FNWUFpY1JDZlhwVERZ?oc=5",
+"t": "ArcelorMittal busca producción de 5.3 millones de toneladas para 2029",
+"s": "MILENIO",
+"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW5QMkp2NkRvTGRBS1cxWmozckZkUUVJOTg5eUJldUMzNjdpQkQ0aG1VUEUxR2ZTZjF4S1BIelBjbWJoWllLZ1paMlZFQnRlMDJTYmM3MXNhTTc2MWFmdnBYbDc3dTl1Z3JvV1BwQXU0TGQycEUwdnlDaFVRZXFtYnItRWMyTWs?oc=5",
 "d": "2026-10-13T12:37:00Z",
 "o": 3
 },
@@ -338,6 +352,13 @@
 "o": 4
 },
 {
+"t": "ArcelorMittal México busca producir 5.3 millones de toneladas de acero anuales para 2029",
+"s": "Telediario",
+"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVBPeDc5TW52M2ZWUkdHMm9NSmx3ZDdmSjZTWjRpLXljUEltYm5LaWlGNVNORUxSdWdvVmRzb2J5Y1IwX0lPeFFMN3NDLVBhSkJOb2hxd3JySmJNaXJYRVQ2emlPYmZFcFY4YllkcXJCUkpUYUhSRFpRNFdpa3M5Q1FxSXB0VE54akdUd2JqTEZid9IBkgFBVV95cUxQbmpLdHVVT2lQaTI2REZfb1d2c0RrdlNibXhralJOV211QjNidHV2eHpQTWpZVzRiamxwWk41YjlmamdaVTk4NEt6c0VicEFLS1NvbjdhcE9lVXl2eGtZa1Izempla0drV21PNlJWOEF5aEJ0bDRzSnhkTmRIWUV4SlU4dzdVdnpxVjN1ZGtWN1JUZw?oc=5",
+"d": "2026-10-12T23:00:00Z",
+"o": 4
+},
+{
 "t": "Rescate de AHMSA requiere 3 mil mdd y 15 años; ‘el gobierno debe intervenir’: Napoleón Gómez Urrutia",
 "s": "El Financiero",
 "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONXVMUjF6bnJsZE9HbXh4YVFHRnIzR3F3TE1UWHY2R2tIYmZ2SGtiTU5PM2l6YWRsYTVIbWZyaS14N0lpWW9PcV90VmNhU1o0ajluVEl6cm5kbUw3TXFBSzI5cEtscnNpQWg4bVl5d2t3OUxRamRTeDhZZVZlTHY0ek14OWZZVVR5NVR6TEo4Y29zLWx0NmVUTmwzZWZLS193X2J1dXNacEF5aF9udUQxMUNpM3B1UTdwY0stSWRTZzFXVFlTUnVTb2hITVVjbnZjWE91THlQbG95d3M3MmUxeWJOcw?oc=5",
@@ -350,6 +371,13 @@
 "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa0loY1A2eTFmNDRNN2w1UFB0QzQ3eVdyTHRyclk3c2IyVGFySUtSQ0xxYkhLejhiT2dSMTVhdnF0RXZVWWh5RXVVbXNKeG9iMldjeUQ1TnBTanNlQUJRR2RUdldkMDZsaGdRS0FFNVpqTXVvck9yb2RlNEtsaG1OSmRR?oc=5",
 "d": "2026-10-09T00:27:03Z",
 "o": 3
+},
+{
+"t": "Ternium cumple 20 años en NYSE y avanza expansión de 4,000 millones de dólares",
+"s": "El Cronista",
+"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGZYdjhTZWRoMFo3dHdES1M3Z1hiUi00aFlEYWVMcVBONmhabHhPeXJrZmowejZiRzNUdVo2S2ZISTl2ektvc1Q0SHRZN21GcDFfblJvTmJMZmhFeDdYczhrWU9JLWcxMFhrUDFzU3JWM3NhSHVsSHFYWXlZcmxWalBRS3RGVk9JYVg1UjBHVXI0QXg0ZTVaem9fX0Zmam5HYjQ3SnRRRGN0SzNJczNCN19aM2Ztb3h5clBmUkZHd1I1ZmJlSlNjRkhGd0ZhaTQ3LV8xQlV6cWZjWEhmekpjbjFNRmNKWng0VUR2WWdzcHdKR29RRFdEaThqVmZzd9IBmAJBVV95cUxPTnNuYjJ6QkNvbTAya3pialZ6dFNsd0NHM1cwdUZPM0VQQVhEd3Jta19rR1dTRFFJMFVuZTF1aDl2ek5BX0pTVzFOVFRMUUxBQjg4eHdUa1B2WF9BZE9qblJLM0hTT2VBbmRSQktkWnZlZWpuY3VqVUZTakc0eUt4eTRIeDJSa29jcXdINFAzbnZtSGptLW9nbDBCdHo0X0dEZWFQOXRLd2YzQ0JZSnF5Q0M5M0w4NWVVNUFRUm90bDFVZWJEcUowWlF5d3FWLUNOQVJ6NVlfM0QwYUVOM1RrMUQxajkxckM5UW5GWjRUMFdwSDQ4WHdPM184S3gzdHRFSU9XaDNjQ1VuR0hZb1JXYlNqajZ2WXVH?oc=5",
+"d": "2026-10-08T22:05:14Z",
+"o": 6
 },
 {
 "t": "México acelera inversión para asegurar soberanía energética",
@@ -525,6 +553,13 @@
 "d": "2026-10-06T16:00:00Z",
 "o": 6,
 "c": 1
+},
+{
+"t": "Orisiyvo: más de 9 millones de onzas de oro y un proyecto que busca llegar al corazón del yacimiento",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemhoS3dHdnhmN2VzV0kya3hpcW1ORlU5Y1NTQTEyU2M4TmJMS29xamR6Z1daS0otRHVaWnQ5VDFwTWRiNEdrM0FpaFRDTjJRTm1yNnNZTm9YQ3EwS0lIZ2lMbEpkcHVfbU9Jb3hjTXFGSGNubzdqVUVnalVSeFByM2VQVkZHeExWbmpqSXB0QUpZaUxKb05SZ1R1MWpyWmdURUpGTlUzbi1Wck1LVzhhak0zVG9UZ2lBWXNVemRKVUJWZm1XeUZkbG9KQmhjajVDMTBKdWpJc1hFczloMGRWbA?oc=5",
+"d": "2026-09-29T07:00:00Z",
+"o": 4
 },
 {
 "t": "A pesar de la delincuencia, industria minera genera 19 mil empleos directos en el país",
