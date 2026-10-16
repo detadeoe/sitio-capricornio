@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-10-16T11:21:10Z",
+"actualizado": "2026-10-16T16:37:19Z",
 "temas": [
 {
 "id": "minas",
@@ -69,14 +69,6 @@
 "o": 9
 },
 {
-"t": "Gobierno de Guanajuato no tiene trámites por proyecto minero Sinda",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXdaVHBZdTNySE1SNlAtV1RjR1VpMWw3Q3BRWTRKSHBSQkZiajVLRUl4dnlrTGhkbUtwaWFCc0ZzR1B5TnJCS3ZNeFFpN0VZM3JhYjdqSXZfOFNMWS1NaEdCNTE0ZDhrOUNiNEp5WkhBZXduZFZuRU1GWUpXWXJSNC0tN2trakdSUElrMUdLd20zVWNnSUUtVWRGWHJWQVZmVkFGOEsxVVplUmUtVnRXTnRBb1RsMGs3MENpaF9ucGFSTS0tYXFIRW9UdHh2WFItYWx2SA?oc=5",
-"d": "2026-10-02T07:00:00Z",
-"o": 6,
-"c": 1
-},
-{
 "t": "Chevrolet Toro en Zacatecas inicia operaciones con Grupo CR3",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXFYVjFPc2hFU3htZzZoNUZoUEpLbl9MRjNUblJrTmFmSDZZSHFZbkR2VEVXcGJELVM5cXREZlM3d0o1UmJTdHBfMngwZUc4MHZDajQxdU1yTnhtOVVXSjdKNjVEZl9OLVRLZE1SWnM0aGtQWUpULURrX1BaM1hNamxRVWt1V2xzbEdsY1hGUjU3Q0pZSFllTE9aT0xNVzR4WHQxU3VyMFVySUpCelVscUF0YjI?oc=5",
@@ -97,6 +89,13 @@
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTGs5VWFieFh0S1VpaVVSQnpiWkhaZjFzTVVyYnJBRWdrNDJUSVNNdHk0QzQ1b3ZEc0JPYXpNeERXaTlOOUZvQ2ZFc3BhUE5YaEo3bXBVeGRsemstS3JySXlHMjdCZ0RidGZYVDYxTEp5R0RXTloybVNmcnlHQllIYzRXTTBrOHZRZzBZUDE4SGlfYXhuelJ2TWx1andpOWtPUkhNSThKNk9Cckx5dlJwcGZsbjktTWpfWndHbzVyTlRQdWNRU2ZXeWk1eDEzbEc30gHrAUFVX3lxTE9UcmFTajJlNVNuWng1eU5FS2h2ak04WDk5cjF3MzUwLWtha3FHcEZ5YjNyTG5Eb3FOQkJYYUpiRFRMUTMyNXlER3lJWDNvMGp2M1VvZnNobS0xd0h0UTR3VlgxTWJkOThCSFRNWDBtVFh4N1NRYmFkclowT3pXS3hNQlJwNTQyMHBwQkpVWmhiS3R5YW9JdURNWTQ2VUt6R1UzMEdNU1A1TmZBdWVhXzV4RTEyYjg3anpPNHlKdG96QjFOOXNPNS1IaUludVpUMnhYTlV1c2w0SThQMllCam1ZX1dWa3BjejUwVlU?oc=5",
 "d": "2026-09-27T07:00:00Z",
 "o": 3
+},
+{
+"t": "Vecinos de una localidad de California organizaron una campaña para frenar un proyecto minero cerca de zonas residenciales",
+"s": "Infobae",
+"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObnZmekZ0dFZfLU9WRWVwZjZJbm9vNERoc21OT0JWZnZkbHdrNW1KR1UzU2xQMEFrMHJtR1B4NjZESjJQNmxPcnp0dzVUbDdzbEI1Yjd0c3puM1dmSU1KMG9mS0hoZWcteC0xUThEOC02c1MxdGhPY082d0dBcHlyY0FiSnNxUTRjeF9qcm9UaXRtSlZPTFBDNlFnR215VjJCMVFka1RlOGQ1aEtRYU5hdWp3YlZRZm5hOW5oR2d2M09IUldpeDgxWEprNXdWYmxTekpjaldQczBJcnA0MXU4cHVPcTFaemdfSlRQT2lPYWhYbHRyWjNVdnZ1QS13Nmt2NVlz0gGeAkFVX3lxTE5SczVRYmpDX1c0Z0hqM1NnOTg0c1JTSXNQMXp1X2J5OGdwLUktV29OLWwwTnNLUFdlbkhFMDV5V0lxbDdwSm9WT2NmMFFETkFnQXVJWU52R2RRQ2V6T0UwRGlrcVBHYTZTX1R2VmhBRDNzUWZUdDJVN19SNTVaSF9VcktpM0xacTBVZmNEUlJBczFTY0JGck15dVNsc1dOQlpTeERLNlNBQmFhWnQ2NDFJSW5sZFRoSV82NFJGY0VTdmJuaUJTb0Z4Y3lCclNvM3paVE9OVkNfLUpncUxOaWt1eDR5d29sSjN2V0lxQ2VqYWNtMlBpMlFtS3o5RmVtbXBfOXVNRHlxSWJMdEtETWZ3TjZ1UV9BLVBabVRVU0E?oc=5",
+"d": "2026-09-27T07:00:00Z",
+"o": 6
 }
 ]
 },
@@ -108,7 +107,7 @@
 "t": "Proyecta JMAS nuevo pozo en Parque Industrial de Parral para reducir tandeo de agua",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTdaTEQtRzdUaml4QTNZRkFiWVlKamNGZGhlSW9DNWVtYVlSb2dfYXZEOWVZOXRxY0VGcTBLSG5rMnZHT1djM0tMajBobnJuUURON1BmOExJQU9ZTlA4ZVFaU3pqYl81MWJKQVhxUW45b2l5NHp2dGw2MmF0ZTF5ODQ5V0gyWkF4c09qZjRISmhZWDItYm5GaVpsX2I4Qlc5UzNGdzJfN3hIbldxTWJlaHBtc0dXRzFPOGZmVmswUTk0WFpjanFibi0yMA?oc=5",
-"d": "2026-10-16T11:05:55Z",
+"d": "2026-10-16T11:13:16Z",
 "o": 4
 },
 {
@@ -275,13 +274,6 @@
 "o": 7
 },
 {
-"t": "VYNMSA inaugura parque industrial en Torreón con inversión de 800 MDP",
-"s": "Cluster Industrial",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeENOV3EyQUh6WjMwRUx2YUlaRWtsSEszUVJVRnBXTDJpYTdSNHdmeWV2cHB6UUNSd3h3U1QtaGxsQ1hocGhFbkl3QUl3RjlGWFBrMGd6Q3QtWEI0SVNXd2tFY2ZndE9CeGZlaDFkbjdDbzlpSGRYa0RoWlk2SVVmZ0FQRzJOR1VpOHV5MzlhbjU1a0NYdmdmVk9hVVRLNWd4aElnSkNB?oc=5",
-"d": "2026-10-02T21:15:56Z",
-"o": 10
-},
-{
 "t": "HiRef invierte más de 200 mdp en su primera planta de manufactura en México",
 "s": "Tu Interfaz de Negocios",
 "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWhBYnpsVmtIX1dNeUhjdnNHUnFnbTlCS19CbWdXRHdvM1NocExuY2owZURVYkcxNlJvMTdFb25hZEFfalMxYm9JM182Ty10X0JoTFZjODlGNnFCVTJjWUs1eF9MWEtWOW0tbDRkQnJjVmtaTzNVUEpDaUI3Q0N3eFo5NFR5U2JTWDhDUlFzaEQzRjNienVsZkVCNm1zekExTHBnVWY2OGV0aWo5RGZacWY4ZFZxSlk?oc=5",
@@ -315,6 +307,14 @@
 "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QTG5BWU9WMTgxZlg3QTdtbHB4WUxUM0RIbFBZcElNeHRhd0JYY2hmWW02RmFfbHVJa0tPSzRyMndHdzVJZ3FkRkMzUWR4MnhUMWdFSE9JaEhEQ3JmLXlrYW4yTzlhVm85MWNwZFhYLUlfVzI3bnNuYXo5UkxOQjhzVEpPSjZSUDY5ckdlaDZpMC1ZS2MxS1RZTUJtLWY3ZmVwRllWSWdFMWNXQW5GbU1uSW9KWEdJQTdfaGFNV0tfcC1BcVFCSFlLTnhkRHJjdnVmNdIB2gFBVV95cUxOVFE3UzZHQnZVYjVLSTVqTVNhLXlOZl9CcnpLWG80OVJSSjMwdTJzVkVUOFhkNDBJejFPalRRbE1VZlVFaUNseDJUblhJVklSNUYxa29vZlFxNlpEczM4ODlOWFBpQ2traGRHS1dVRWlRVmVUS3djZ0gyX2QtMDNvUHNLS2pLaU9vUVBzMkljZXA1OHFSbE5KckR5WWRfWHdGdG5FTENuWS1wQTVyMm5MZ3F6WEdDbEYwZUlmVm9CeW0zYkZEcW1lOFk2c3ctQzJubWF0U3NWdmpTZw?oc=5",
 "d": "2026-10-01T07:00:00Z",
 "o": 7
+},
+{
+"t": "Empresa de Aguascalientes anuncia construcción de nueva planta; atraerá inversión y más empleos",
+"s": "El Universal",
+"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEtaMTgtRnMxdFhEVGZGYmJKYVpEWWlQZkhvV051eHMzeGJ6V2JHZnNNdHAta1lYaE5uYzlCSkxDU1hYTEdEeS01UmRFNkR5LTZvNUV0QnZURk13NVBlQ0hWLVFxYVRRN2E4ZmV3enRyQVNjTzQ0Ym12UG5LUkhvakVhck1sSnptS0QtelZPczVOQ1RIYWZYdjdNelNQU1hZY1p2VHkyd1F4TjVSRURRSTNqc3hFNEwzQzdyVDUxOHpsRHlVVEV1OUFwM1U0TXfSAeMBQVVfeXFMUHd0M21pQmVtUnpYSk9fTEdhTGpmNTNKbHRVdENLbC1kZTJObnh6ZGF2WmdfcGVYMEtsWkF1MUE1QlJPYzZEVW5HTnFWVmNXdmtqMGF6aHRWdlJNaUtBd2RZVlJ2NTJkMHNxNG02MFVSVHFoWTR5T3VzTHlGS2JLanVVLWRYUWJSZ2p5anVCci0ydHZmUWxrZXBQU0lVdkpadGMzZTVIUjFmVXF6YmhzMFo1Y203UDExVG1SYXRBeEVCLXhFVjBCUi10NlNRT2RyM1ZseHhDVXNjWGZ4aXJVcDlzQ00?oc=5",
+"d": "2026-10-01T07:00:00Z",
+"o": 11,
+"c": 1
 }
 ]
 },
@@ -407,18 +407,18 @@
 "o": 4
 },
 {
-"t": "Conferencia completa en español Donald Trump hoy: inversión para la planta de acero más grande en la historia",
-"s": "Univision",
-"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlBINmZJQWo0aUhDRnlTXy1lM1FMOXJIalB4czBDRUF1eFpyRVcwc0VmMG9TZ3lXM25CbzgybTBWdXlZWkwxd0JVay12eXR4ZG0wSFQ4WG5GMWlSSVY0VnBJS1NEajFLand1RV93WUxGRnBVXzlOdTBsbWItbi1FclJtemVpVW0xWG43V3JqckdybkdjZFVpSVotZHY0OExJMmE1Wm5NUUZtc3lUdE1wSS1JVVpYeUZ1bmJ0akI4aWxpOWVQeVppLVVhLTc0dGE5cUhyV19rVjhPaFJSZW9ncGJ0VQ?oc=5",
-"d": "2026-09-28T07:00:00Z",
-"o": 4
-},
-{
 "t": "Trump anuncia una inversión de USD 15.000 millones para construir una planta siderúrgica en Iowa",
 "s": "Infobae",
 "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzk2eDhsWWR3b1ZyS2twQkFoemRuWnB1aGxmZU45VWhUWk1RNGExaHR4ZV82V2xMYVp1dXRPZmo1YnA2aVpEYVpmR1FiM1V5a0dfdUpfQXpLTzRjRDBUcGRLYXBDdG9XUjdBV0E0R29mMmhReVdQQVdsdzhyM2IxbDZ3MktVY0t6dHYxM0lqQzFzaWlRbEJQLVVMV0VmVXZQN01vTlk2OUxJWXJmM3hTdy10VUo2TzNyTTRnc05zOTFHUWEyTHdrTzhIUHVfSGpTZU9LdlpySVp3VWgxQnM40gH6AUFVX3lxTE5HUDRpSXhyNVgxTXZvc2ZXd0M0Q1ZmMVVHWmxGUUZaQWI1M0p6bmx0VHVZUTZCcmNTVndoc3JyMUtNSlJzZ2ZVRE82R2xydi1JU1BsaURkODVfdUdxUDhjRC1aRmFmdVBXM3RZejNwTXBaZFJLMFZkcTJ6VktlUFJSZ0toY091YzgtcGUzRUluN0k4RmZRcDI2T01Yci11ZG9GcUNvVl9SYkRYUDJMSDB3SUxEZDJKeEg5RFdnaVk3cG94ZWlIZ2hROVpDODRSbzRNTWtiMURyQzZEUmJkNXQ3NkgxbnV5Q2NsaDhzaHBNMFU2ODR4R0MzcXc?oc=5",
 "d": "2026-09-28T07:00:00Z",
 "o": 7
+},
+{
+"t": "Conferencia completa en español Donald Trump hoy: inversión para la planta de acero más grande en la historia",
+"s": "Univision",
+"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlBINmZJQWo0aUhDRnlTXy1lM1FMOXJIalB4czBDRUF1eFpyRVcwc0VmMG9TZ3lXM25CbzgybTBWdXlZWkwxd0JVay12eXR4ZG0wSFQ4WG5GMWlSSVY0VnBJS1NEajFLand1RV93WUxGRnBVXzlOdTBsbWItbi1FclJtemVpVW0xWG43V3JqckdybkdjZFVpSVotZHY0OExJMmE1Wm5NUUZtc3lUdE1wSS1JVVpYeUZ1bmJ0akI4aWxpOWVQeVppLVVhLTc0dGE5cUhyV19rVjhPaFJSZW9ncGJ0VQ?oc=5",
+"d": "2026-09-28T07:00:00Z",
+"o": 4
 },
 {
 "t": "Coparmex ve oportunidad para reactivar AHMSA y Monclova",
@@ -467,6 +467,13 @@
 "id": "jugadores",
 "nombre": "Empresas del sector",
 "items": [
+{
+"t": "México destraba permisos y acerca minas por US$2.700 millones a construcción -",
+"s": "Dipromin",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzQ4ZnloV2xWU01oazEweDV3VW9oRXRqbmE0MFBwN3JBZ1FsWmZMVmtHbWlBT0V4UEtQYUNIb1RXeEpZcjJ3NFFzNXc3NWg5bXF2M0VhazBULThZdlBHSEx1SDFPblRxSV9qblRlOHU1UnRJelRpTWtJVXdPTEdYRlQ3WEMydVpjeVlMN3hTMFg5THAzS01QZk5QLTV2SXNVY08tUThBb0o1M2ZZNmZrYmdwc0RHWTJmREE?oc=5",
+"d": "2026-10-13T22:58:01Z",
+"o": 9
+},
 {
 "t": "Mina Naica: Peñoles estudia la viabilidad de reactivar operaciones en Saucillo - El Heraldo de Chihuahua",
 "s": "El Sol de México",
@@ -565,14 +572,6 @@
 "s": "Líder Empresarial",
 "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWQzQmw2SGVDYkxDaXpvOHMzMVVOSWx4UjkwMlpkaENEZWM0ZGI3RE10bGdDV1dSbmwwQWVNVU9Ea2c3aHNyWkRTckZnU0JrbW1tVnY0eWlWN1M2LXhyUDM4bFhEYm0xQ01LVHlQdk95TUlFVFMyc3kyWDN3eWF4bzR4dDV3Tk94OXY2OHlvMFg4a0VuZXRKWnhVX2tPUEZVOWc?oc=5",
 "d": "2026-10-14T03:42:07Z",
-"o": 3,
-"c": 1
-},
-{
-"t": "Zacatecas atrae inversiones millonarias y fortalece su minería",
-"s": "La Chispa",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDhUYldnU1VWMkJRMF81VVBRc3p2UndjbzNfc0VtVlJuMGUzTFlPZ1U5djd5ZnZmWGVIczViT3R4THRBNnVQblQ0TkEtUjRmZVlzUlpxYmYtMWxFWW9EcDgwRXU2cUs1cGFYaklmVnFoMTRYWHEteFh5UDFmQ1hrYzFrLTBjR1hOdE44?oc=5",
-"d": "2026-10-10T22:50:11Z",
 "o": 3,
 "c": 1
 },
