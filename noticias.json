@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-10-16T16:37:19Z",
+"actualizado": "2026-10-16T21:05:49Z",
 "temas": [
 {
 "id": "minas",
@@ -27,18 +27,18 @@
 "o": 3
 },
 {
+"t": "Mineras de tierras raras respaldan anuncio de Trump sobre exploración minera en Groenlandia",
+"s": "Revista Digital Minera REDIMIN",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHZBOWg5Z1JaRmM5U0ZnQXUtclZvcXZCblI3bFNqSHJrak4wcFBNbDdqUUswQVBqUnBZT2dzT1Y3WWtlbWN3dWZwdWxoTm0weTlkQlZDMjZOMHJWRkI2MzBCNkVwUVNnZG9LY0N4Yld1enA4NEZJeENtOEpLbHo3S0N1d3ZNTXE4NmRFWWVtcl8zMG5EcVhSd3pqMW15ZGoyRGF4cXBtSmR6S25sakN1VGtBdWc?oc=5",
+"d": "2026-10-15T19:54:39Z",
+"o": 3
+},
+{
 "t": "Nuevo proyecto minero genera preocupación en Umán",
 "s": "Ahora Tabasco Noticias",
 "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORGZzMVIzNjNYUzRydzZ3bUhIZ1p1UHBkYmE4XzNQSFR2bnlDSnJYREpKWFExNDhFMWw1TmVTNDJ6VlBNOGVha2V5V0RETG5MdDFFeGt6UlVNWEJSeWJLOU9fUWhCa3g0MnlYM1JuR0ZWOHNtUDNUSVM2MDlic1FtWA?oc=5",
 "d": "2026-10-15T19:42:44Z",
 "o": 6
-},
-{
-"t": "Heliostar Metals asegura permiso regulatorio para minería subterránea de oro en Guerrero",
-"s": "Minería en Línea",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHV0ZG1LMHlzYkcxbmpNRnRmWkRFa3k4VFhaTldQcVNVMkttZWdla1luVndLclZfbk12S1dIbGQwMjdoS2hHaXBlcE9CaVAwaXd2YXQ2b2NJSFQ1c1h3bG9JbkxiSXQzVUdKUThIZktmaVR3R3RXakYzQV9WUkxRaDhzTThLR1FTc25Lck5seGIxb3M1Z0xvZ191WER0dUZlRTVqMTU4UUFwRjNwTV9JX2ozRW1kREdCWnJzd1JmSE9Zdw?oc=5",
-"d": "2026-10-15T00:47:45Z",
-"o": 2
 },
 {
 "t": "DHL Freight inicia operaciones regulares con un eléctrico SuperPanther eTopas 600 en Países Bajos",
@@ -53,6 +53,13 @@
 "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHVJQmt6N2pqMXBxNmpvRU1uM2JaQlNpaV9peW4tcmY0YVlJRlowZWpUSnNjNHNqdDBfYkZ0TFRrbElNcDR6ZjZTRFRCcFZqVlZGTnF1RTZuR19EUUNnd3Q0VEFEeWIxcFNHOWdVN3N6a0Jwa19ncy1lSG5xckF4UFk5WFU2TWRYWkc00gGQAUFVX3lxTE5PYTF3elBwYlFqY05VZnV4SkhwZ3RFRzFnby1TRWVXT3ppQkpFQnRUTWhlRWN3WmRRekRQcWlOUWR3YW9BR2gtMG1fXzRkXzRUN0JjNDhPdlpsMjRFSXVsTThndHItYUxOeWF4WHQwTFAyYVRMVG9yQUJOUkJYMG9ydVlIbjVUNGEzRmphbjI5UA?oc=5",
 "d": "2026-10-14T04:00:00Z",
 "o": 5
+},
+{
+"t": "LiPU inicia operaciones en Matehuala; ¿cómo funcionará el servicio para la industria automotriz?",
+"s": "Eje Central",
+"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXlCRmhnN09ZWDgxekVKc1didlFVQV9UQTc3VnFabHVlTU1iZDJoYkxTSzliUEhWNGMxMk84dHR2WE1MemhFWDNCLXJINWpLd25VbGs4ZFdyU3NoR2VBazJmTFI4Z090enRJaFRIU0pfaGtkSTk5YnBXS1ZhekRkRHR0dXNOek15Zzl3M0FvOU1hQUpXVVU5VndOWTgtRVZzdnVTdm9uM2RTaTVmMmwzWUZtRGRBYWdIN3hvTFpUM21UaEJmWFdJUWowRFVzaThf?oc=5",
+"d": "2026-10-12T17:53:37Z",
+"o": 3
 },
 {
 "t": "Nueva exploración minera en Jiménez abriría posibilidades de empleos y desarrollo económico en la región",
@@ -104,10 +111,32 @@
 "nombre": "Inversiones industriales",
 "items": [
 {
+"t": "Busca Rifel superar mil 500 empleos en Querétaro con nueva planta",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSS1OeU1mQ3E1bXR5R3lzUG9FSjRNTVU5TUM2a3RKRE94Rld6azBpQTlISFJ3Z3JKNnB4UzczYTNqbGt0UDh6WnFLdWxIZDljcHAxZWJ2c3ZCQkhBQmlsT1VGU1hhYVdvZlQ2RENmWXRNako1WjdEeHpwUkE0eG1IN19LZVdZRXBLWWNXUEU2UkZmZ1RnNXlrWldVWlFlR0Q2Z0xHb0szaDlGbEZ5RkR2cHk1UzlmLUQ5N1FpRQ?oc=5",
+"d": "2026-10-16T20:15:00Z",
+"o": 5,
+"c": 1
+},
+{
+"t": "Alistan destrucción de túnel para robo de combustible en parque industrial de Atitalaquia",
+"s": "El Universal",
+"u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUm9IZW5tSXpmTDJHekd4azNoWkFQME1jN01DQTVybnpJeUotM21iYUZzbmY0OWVXeUR3TzRiYkEzODQ1R2JiZ3FNX3ZCNUh4amVuVkItVG8xZnJrVmJrR2FjSXFrUlgwT2JZZi1keXhVS2VsYTE1SnN5aUZ2V2RHU2VuQ1NsZWoxcjBaaElfbTNkVmdUM3pMMlhTVDY0V0tySmRsdExWTi1GNzZBdElTdzY3RWkwRE54NmZJeTJzTFVWV0wybGNNc2MzSERqZlBjMUYzMDRER0lvSE9tZ19zaHRtVXBOQ3JVRkdsUERnQkdESmI4bWZlX2M4WEpXcWpPaFI0YtIBmAJBVV95cUxQazEtWE1NT0NtM1pPcVgtc0xiUEhLQV9SNFBmckhkZm5IWlpXa3J2V1R2akJ2TEs2eUt6WmJTWkJRbDRKYkNDTk1na08yanEtMi1FTm1TMVNDU1lOWU1NMHNaSUtEck9PLUNrLUdndnJ1UlZYRlpKY1dRTXNFeUxLZGstV0tDbnJPQzc2TUtBOVRWellieU5kalZGZ195TVdlNDltcklOSWgxS2JnMjNXdzNXYXRZbnJ4NFV6dG5Bc2d5eWlIMjdrQlJaZVpJc3gyNVFvN0J2MjM5eVVSbEpKRUdON3BGaHo2c1Z4QkI4VGZFQUliMUhCVktBMEVhX3VoelhwdnFzZ3ZLMzlTLXZUYlV5b3IxaHlt?oc=5",
+"d": "2026-10-16T19:46:47Z",
+"o": 4
+},
+{
 "t": "Proyecta JMAS nuevo pozo en Parque Industrial de Parral para reducir tandeo de agua",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTdaTEQtRzdUaml4QTNZRkFiWVlKamNGZGhlSW9DNWVtYVlSb2dfYXZEOWVZOXRxY0VGcTBLSG5rMnZHT1djM0tMajBobnJuUURON1BmOExJQU9ZTlA4ZVFaU3pqYl81MWJKQVhxUW45b2l5NHp2dGw2MmF0ZTF5ODQ5V0gyWkF4c09qZjRISmhZWDItYm5GaVpsX2I4Qlc5UzNGdzJfN3hIbldxTWJlaHBtc0dXRzFPOGZmVmswUTk0WFpjanFibi0yMA?oc=5",
-"d": "2026-10-16T11:13:16Z",
+"d": "2026-10-16T17:03:45Z",
+"o": 4
+},
+{
+"t": "Hallan a hombre sin vida sobre banqueta frente a parque industrial en Piedras Negras",
+"s": "vanguardia.com.mx",
+"u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFRYQ2xvSTE0c3ZuR3BOdkxoNnpfUTZQMzdjSFBvQ1ZNd3paQnEwaXJOd3RPQXNfUzBGSVB4VW5lSG5zSjJjOWE5M0xtYTZxLUJsamNGMU93YktucUFkWGtSWFdOM3pXZ0g0N3hyc1pHS1daM0U0Q2VVOHlMaGM4OU03dGZDcVZMbG9rYU5WcXJOZEdCYU12T0hxZW10TWRxUkljUzF3ZVVDLWZwRU1iNS11c0NIbEs0aDhGZGtYNUl6R3NySllOSFVJV0NrU0lPZy1la2RzaWNNOXBLcVE?oc=5",
+"d": "2026-10-16T17:00:05Z",
 "o": 4
 },
 {
@@ -127,7 +156,7 @@
 {
 "t": "Arcosa destinó 2,100 millones de pesos a nueva planta galvanizadora en Coahuila",
 "s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnpGTWVKX08xdlhkbFFES2tCM3VmbDUyaERxQ0FYNmdlSExXdzVNTlp1QS1QRXN2RFNFQ1FnVllOY1F3NnJuOUduMi1XVHhqbDE5bnREOWtaQ3hIdm94NUlFbmdkN0tsMUg4dGlHSUJCZWc4UTgwZ3RYb2NEWEVlX21xeDRQOE1ER2lWd2JPQ0VwMjUxcEJGLTZOYmRJeVZlbjVTNDNfVWV6TjdzWnFRYzJRVENxVkZwRS1jdQ?oc=5",
+"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGs3eFkySXNNeFQ0bFBUU0dCLXczT0F1UjFFdGN0Ulo3MXoxMW90ZFotaXRzc3pIOGVfaWZHcXJDZHE5MFhUYXNpYlhlelBUSTc1WlJ1am9ncmxZQ2RMQ1J1dTBKaFVfNmtJUGMwb2FQcHpsR3RqNnNOb1VyQjJFb1pGZm51dDd0NXBqQk5EZGJjTHZYYmdNOHlpNG13S253MFIxTVE1UUdETU1tYXY1ckQ2NGM5RXkwRmtN?oc=5",
 "d": "2026-10-15T20:58:38Z",
 "o": 7
 },
@@ -180,13 +209,6 @@
 "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmdkWXE4UU1yYkdBZ0NTa0dCalVXWGF4MVBRVVdtdEJ6ZUNUaUk5TXBwdzNheXVjekVHNlNqNGdNd3dXYkJ0czJRSTN6Y2Y2aVJiYUZpTmw3b0JURDVHMzNiWDZFcHNlcDItd0kzQ3FXeGJBZFhNNTB0T1diZk5Qa1o4dEhIYXdibWVDeTZOdF94R3YtUkFpWDdVVjlkaWp2MGk2NTktQVUybW55c2dz0gG0AUFVX3lxTE4zejVsVzhhZERmdWNKSGZQc01GMll3M0xhelRmTjNmbXlFVVhfZzJaN3VMUWFJQ1JEclV2WTkyamNMMGFSeFJ2ZlpDSXF3aDg1SjhMQXBobFc5eTRaU1hvV0EzWS05TXhsYXlmM3I1LWNCTFMxTGp1SkMzaFRXekZhZzdvaVNuVURjLU50WTBXZjMxN29wRnRielA2MXh6S0tILTdPQ2lYaXZPUG9yRFVvV3BYSw?oc=5",
 "d": "2026-10-14T02:46:00Z",
 "o": 7
-},
-{
-"t": "Clausuran Autódromo de Monclova por denuncia de despojo; es predio adjunto al Parque Industrial Futura",
-"s": "vanguardia.com.mx",
-"u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaHFIR00yYnM1TTIwN0M0YktiM3BESHRJdWJqWVNIVUNjQzRrV1JwVFJJX1MyRnRXb0lxLXNWbV9TbkFKZ29aeEJiNDJiY2lrcEttYUxNNEVZQ1ZfSTR1eDZoWkxha1Z4VF9aMkR5R0gxeV9LVUZMREowRzFrdFc1NloyYVFmUkxtLWVUOHRad1pTZlBrTWJoYXYtVjNsVm9qcGJHRzJqd1lOTnVYTlRXX2liTkc0ZksteHo3SzlUNU92SUl2VGpXU2lhYnhuMThkOVFJYlFzSktseVBScXMzTkM2SURCY0lNODNfaw?oc=5",
-"d": "2026-10-13T23:21:38Z",
-"o": 4
 },
 {
 "t": "Chava Santos impulsa la inversión industrial en Huamantla; arranca construcción de Color Link México",
@@ -295,26 +317,11 @@
 "o": 4
 },
 {
-"t": "Incorpora alcalde Pepe Chedraui el Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
-"s": "Urbano Puebla",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVk1YczhUN2pKZHRHajJ0ejZRbm1Ud0tTRWQwa3dwZTFwdlNPLTdCM1BtY1BINEZPUE5HZXloQ0w3UEhBUmUtSS1DS3llXzdGLW1xNlNhN2RHQ1dKRWthblMtaUFyaENJYVpYeUFyeC1tMUJqc0ExNUJZXzRDUzRGOXpHMG5Cbk9TSnpHWTg4ZWZ2cmpJaFJxYW90REUzbjJPZkQ2VnYzQVdjVnNnTUxJVndBTkNaQ3pWWXB4M0FfV2VvUmxhY1J0Tk1naw?oc=5",
-"d": "2026-10-01T20:46:50Z",
-"o": 4
-},
-{
-"t": "ProximityParks invertirá 600 millones de pesos en parque industrial en Iztapalapa",
-"s": "El Economista",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5QTG5BWU9WMTgxZlg3QTdtbHB4WUxUM0RIbFBZcElNeHRhd0JYY2hmWW02RmFfbHVJa0tPSzRyMndHdzVJZ3FkRkMzUWR4MnhUMWdFSE9JaEhEQ3JmLXlrYW4yTzlhVm85MWNwZFhYLUlfVzI3bnNuYXo5UkxOQjhzVEpPSjZSUDY5ckdlaDZpMC1ZS2MxS1RZTUJtLWY3ZmVwRllWSWdFMWNXQW5GbU1uSW9KWEdJQTdfaGFNV0tfcC1BcVFCSFlLTnhkRHJjdnVmNdIB2gFBVV95cUxOVFE3UzZHQnZVYjVLSTVqTVNhLXlOZl9CcnpLWG80OVJSSjMwdTJzVkVUOFhkNDBJejFPalRRbE1VZlVFaUNseDJUblhJVklSNUYxa29vZlFxNlpEczM4ODlOWFBpQ2traGRHS1dVRWlRVmVUS3djZ0gyX2QtMDNvUHNLS2pLaU9vUVBzMkljZXA1OHFSbE5KckR5WWRfWHdGdG5FTENuWS1wQTVyMm5MZ3F6WEdDbEYwZUlmVm9CeW0zYkZEcW1lOFk2c3ctQzJubWF0U3NWdmpTZw?oc=5",
-"d": "2026-10-01T07:00:00Z",
+"t": "Inauguran parque industrial Vynmsa en Torreón",
+"s": "El Coahuilense",
+"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xcnllWXlUWFJZbkdmN3paNzJLZ1JRd2hnUHRCU3JZQ0JhNlVjclgzNGpHXzB2NWFnUkhaUTZ1MldlRXFsTU9MUjhuYkw5MHNzT2Fja3FNSGZheDVlYkNiSzFMcmRVMU5qb1RwS0NmUUJhR1QxWFZRZTJLNTU?oc=5",
+"d": "2026-10-02T01:53:26Z",
 "o": 7
-},
-{
-"t": "Empresa de Aguascalientes anuncia construcción de nueva planta; atraerá inversión y más empleos",
-"s": "El Universal",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEtaMTgtRnMxdFhEVGZGYmJKYVpEWWlQZkhvV051eHMzeGJ6V2JHZnNNdHAta1lYaE5uYzlCSkxDU1hYTEdEeS01UmRFNkR5LTZvNUV0QnZURk13NVBlQ0hWLVFxYVRRN2E4ZmV3enRyQVNjTzQ0Ym12UG5LUkhvakVhck1sSnptS0QtelZPczVOQ1RIYWZYdjdNelNQU1hZY1p2VHkyd1F4TjVSRURRSTNqc3hFNEwzQzdyVDUxOHpsRHlVVEV1OUFwM1U0TXfSAeMBQVVfeXFMUHd0M21pQmVtUnpYSk9fTEdhTGpmNTNKbHRVdENLbC1kZTJObnh6ZGF2WmdfcGVYMEtsWkF1MUE1QlJPYzZEVW5HTnFWVmNXdmtqMGF6aHRWdlJNaUtBd2RZVlJ2NTJkMHNxNG02MFVSVHFoWTR5T3VzTHlGS2JLanVVLWRYUWJSZ2p5anVCci0ydHZmUWxrZXBQU0lVdkpadGMzZTVIUjFmVXF6YmhzMFo1Y203UDExVG1SYXRBeEVCLXhFVjBCUi10NlNRT2RyM1ZseHhDVXNjWGZ4aXJVcDlzQ00?oc=5",
-"d": "2026-10-01T07:00:00Z",
-"o": 11,
-"c": 1
 }
 ]
 },
@@ -468,13 +475,6 @@
 "nombre": "Empresas del sector",
 "items": [
 {
-"t": "México destraba permisos y acerca minas por US$2.700 millones a construcción -",
-"s": "Dipromin",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzQ4ZnloV2xWU01oazEweDV3VW9oRXRqbmE0MFBwN3JBZ1FsWmZMVmtHbWlBT0V4UEtQYUNIb1RXeEpZcjJ3NFFzNXc3NWg5bXF2M0VhazBULThZdlBHSEx1SDFPblRxSV9qblRlOHU1UnRJelRpTWtJVXdPTEdYRlQ3WEMydVpjeVlMN3hTMFg5THAzS01QZk5QLTV2SXNVY08tUThBb0o1M2ZZNmZrYmdwc0RHWTJmREE?oc=5",
-"d": "2026-10-13T22:58:01Z",
-"o": 9
-},
-{
 "t": "Mina Naica: Peñoles estudia la viabilidad de reactivar operaciones en Saucillo - El Heraldo de Chihuahua",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVU1RdHpzRVFUYWZ1ODJiZ0NPRVVmRElnb3lrMDdlTkFXam16SXhjYVJjdG5HYUZyS21MaWNHRkIzdkY1U29rTWRXZ1NaeWMzRnN1SFphdlFreG9BdWdOWXpwUFNPNDQ1UFFFWUduVlVNZGU0QnAyYXJIOHdFSnQtdzNfQVpxVjlwQnVYTURJdkNZbmdsTUJNUURWaFU1TzFSY3JJUG9PTlRuUHZ1SFdqUWg5YWhXTzdTTnBzcWNmUUNPTlpMejFyaGZQVDU?oc=5",
@@ -615,14 +615,6 @@
 "c": 1
 },
 {
-"t": "Explosión de pipa en parque industrial al sur de Aguascalientes deja un trabajador sin vida",
-"s": "BI Noticias",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlJBOWlGcVlIcGdCU2tmUVg5NlhmbEt5eVNlRTJsN2RxeFI5MGloM2w2azdtTHdnc1V5ck1WbFhTV3ZoSGZwNGh3a2Z5RGoySlVNUndmVmhrQTIxaUNteUItU2FCVDRQSkdrVmg5M1pTaW5DVWg3LWhtLUJScjIzOG1DT0pOMS1xMEZJc25iWWFnWkh0b09qUUNfVnJ6Wm56eDFGYVBjd3dpd1h0a2JlNXZjcVNLWWNaazhzYVRrb0w1WkRM?oc=5",
-"d": "2026-10-01T18:28:00Z",
-"o": 4,
-"c": 1
-},
-{
 "t": "Explosión en bodega del Parque Industrial Altec deja un hombre sin vida mientras realizaba trabajos de soldadura",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclRUV05HdDhDeWlJQ0VVZWtrZ2Q4OE9JSmExZm9tb1NkY3BfUS1sRGhUd0RObDZVYURrdjVRM2JPUHBNdzlXaE54MUVhLVp2WmFrbUhCMzk4LVJYb3VSdzJVZTJEWDNYTDRsSmR4S1lzVVpscW1vUGxMQzVKek1DblZwMm8tblY1T1ROZmpGeEtmd1RUOWNBZVJGbVRYZG9vejRrUkI4MENpZktTb1ZUdXhrdW9YU2xRQktUNWxtNlNIX3ltWk04UUQ3cVdmWHgw?oc=5",
@@ -667,6 +659,13 @@
 "d": "2026-09-29T01:17:24Z",
 "o": 6,
 "c": 1
+},
+{
+"t": "Gabriel Padilla destaca crecimiento, inversión y transformación de la industria de autopartes - Blog | GPI NEWS",
+"s": "Guanajuato Puerto Interior",
+"u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ291V2JySlRHbGN6TmU2cXVIdnlORE1iTFdjZF9PNTJJSEt3WlRVRTdiZ283WDJHU3ZXOGhNYndDclVFQTZ3X1NqVHk1OTBaTVJTaFJ3c0VsdHpDcUpLTWVNWVVUcF9qV0IzY24wVFFHUWc1TVlpaE5ndlhmR3ZaV255LU56aEdNYXR0X0JSYlV1eUZnaUZtNF9VckxuNDlwaXAzd3B4dFZXS2FXNV9rUXN6Ym15TGRhY2FhVlJhNkVaNS1XTFBCUG9FRUZ5bWIwWTdDTmg4QUVsSzhldlBHV0dRelc?oc=5",
+"d": "2026-09-25T22:16:12Z",
+"o": 3
 }
 ]
 }
