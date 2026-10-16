@@ -6,3 +6,6 @@
 /d-15dacb21f72b/*
   X-Robots-Tag: noindex, nofollow, noarchive
   Cache-Control: no-store
+/c-15dacb21f72b/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Cache-Control: public, max-age=31536000, immutable

@@ -55,7 +55,7 @@ main{max-width:1280px;margin:0 auto;padding:28px 20px 80px;display:flex;flex-dir
 .item{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:18px;display:flex;flex-direction:column;gap:12px;cursor:pointer;text-align:left;color:var(--tx);transition:border-color .2s,transform .2s}
 .item:hover{border-color:rgba(255,121,0,.55);transform:translateY(-2px)}
 .ic{width:50px;height:50px;border-radius:14px;display:flex;align-items:center;justify-content:center;color:#fff}
-.ic.pdf{background:linear-gradient(135deg,#F57A28,#C2410C)}.ic.video{background:linear-gradient(135deg,#6366F1,#4338CA)}.ic.image{background:linear-gradient(135deg,#14B8A6,#0F766E)}.ic.link{background:linear-gradient(135deg,#1AB7EA,#0E7FA6)}
+.ic.pdf{background:linear-gradient(135deg,#F57A28,#C2410C)}.ic.video{background:linear-gradient(135deg,#6366F1,#4338CA)}.ic.image{background:linear-gradient(135deg,#14B8A6,#0F766E)}.ic.deck{background:linear-gradient(135deg,#FF7900,#7A2F05)}.ic.link{background:linear-gradient(135deg,#1AB7EA,#0E7FA6)}
 .nm{font-weight:700;font-size:1rem;line-height:1.3;word-break:break-word}
 .meta{font-size:.78rem;color:var(--dim)}
 .empty{border:1.5px dashed var(--line2);border-radius:22px;padding:48px 20px;text-align:center;color:var(--mut)}
@@ -137,7 +137,7 @@ main{max-width:1280px;margin:0 auto;padding:28px 20px 80px;display:flex;flex-dir
   function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
   function size(b){var u=['B','KB','MB','GB'],i=0;while(b>=1024&&i<3){b/=1024;i++;}return b.toFixed(i?1:0)+' '+u[i];}
   function hex(h){var a=new Uint8Array(h.length/2);for(var i=0;i<a.length;i++)a[i]=parseInt(h.substr(i*2,2),16);return a;}
-  async function getBin(url){var r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error('http '+r.status);return new Uint8Array(await r.arrayBuffer());}
+  async function getBin(url,keep){var r=await fetch(url,keep?{}:{cache:'no-store'});if(!r.ok)throw new Error('http '+r.status);return new Uint8Array(await r.arrayBuffer());}
   async function dec(buf){return new Uint8Array(await crypto.subtle.decrypt({name:'AES-GCM',iv:buf.slice(0,12)},key,buf.slice(12)));}
 
   // ---------- candado ----------
@@ -166,9 +166,10 @@ main{max-width:1280px;margin:0 auto;padding:28px 20px 80px;display:flex;flex-dir
   // ---------- biblioteca ----------
   var ICON={pdf:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4"/></svg>',
     video:'<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>',
+    deck:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="M10 8.5v5l4-2.5z" fill="currentColor"/><path d="M8 21h8"/></svg>',
     link:'<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>',
     image:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5-9 9"/></svg>'};
-  var LBL={pdf:'Presentación',video:'Video',image:'Imagen',link:'Video en línea'};
+  var LBL={deck:'Presentación interactiva',pdf:'Presentación',video:'Video',image:'Imagen',link:'Video en línea'};
   function render(){
     var q=$('q').value.trim().toLowerCase(), groups={};
     items.forEach(function(x,i){ if(q && (x.title+' '+x.folder).toLowerCase().indexOf(q)<0) return; (groups[x.folder]=groups[x.folder]||[]).push(i); });
@@ -190,13 +191,31 @@ main{max-width:1280px;margin:0 auto;padding:28px 20px 80px;display:flex;flex-dir
     $('vtitle').textContent=x.title; $('viewer').classList.remove('hidden'); document.body.style.overflow='hidden';
     $('vfoot').classList.toggle('hidden', x.kind!=='pdf');
     loading('Abriendo…');
+    if(x.kind==='deck'){
+      try{
+        var keys=Object.keys(x.files), map={}, done=0, total=x.size, html='';
+        var bar='<div class="loading"><div class="spin"></div><span id="dkp">Cargando presentación… 0%</span><div class="prog" style="width:220px"><i id="dkb"></i></div></div>';
+        $('vbody').innerHTML=bar;
+        var q=keys.slice(), workers=[];
+        async function one(k){ var f=x.files[k]; var d=cache[f[0]]; if(!d){ d=await dec(await getBin('c-15dacb21f72b/'+f[0]+'.bin',true)); cache[f[0]]=d; }
+          if(k===x.entry) html=new TextDecoder().decode(d); else map[k]=URL.createObjectURL(new Blob([d],{type:f[1]}));
+          done+=f[2]; var pc=Math.round(done/total*100); var a=$('dkp'),b=$('dkb'); if(a)a.textContent='Cargando presentación… '+pc+'%'; if(b)b.style.width=pc+'%'; }
+        for(var w=0;w<4;w++) workers.push((async function(){ while(q.length){ await one(q.shift()); } })());
+        await Promise.all(workers);
+        Object.keys(map).forEach(function(k){ html=html.split('"'+k+'"').join('"'+map[k]+'"'); });
+        html=html.replace('<head>','<head><script>window.__MAP='+JSON.stringify(map)+';window.__A=function(p){return __MAP[p]||p};<\/script>');
+        var src=URL.createObjectURL(new Blob([html],{type:'text/html'}));
+        $('vbody').innerHTML='<iframe src="'+src+'" title="'+esc(x.title)+'" allow="autoplay; fullscreen" allowfullscreen style="width:100%;height:100%;border:0;background:#0d0f11"></iframe>';
+      }catch(e){ $('vbody').innerHTML='<div class="loading">No se pudo abrir la presentación. Revise su conexión e intente de nuevo.</div>'; }
+      return;
+    }
     if(x.kind==='link'){
       $('vbody').innerHTML=(x.embed?'<iframe src="'+esc(x.embed)+'" style="width:100%;height:100%;border:0;background:#000" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="'+esc(x.title)+'"></iframe>':'')+
         '<a class="btn" href="'+esc(x.url)+'" target="_blank" rel="noopener noreferrer" style="position:absolute;right:14px;bottom:14px">Abrir en Vimeo ↗</a>';
       return;
     }
     try{
-      var data=cache[x.id]; if(!data){ data=await dec(await getBin('d-15dacb21f72b/'+x.id+'.bin')); cache[x.id]=data; }
+      var data=cache[x.id]; if(!data){ data=await dec(await getBin('c-15dacb21f72b/'+x.id+'.bin',true)); cache[x.id]=data; }
       if(x.kind==='pdf'){
         if(!window.pdfjsLib){ await loadScript(PDFJS+'pdf.min.js'); pdfjsLib.GlobalWorkerOptions.workerSrc=PDFJS+'pdf.worker.min.js'; }
         pdf=await pdfjsLib.getDocument({data:data.slice()}).promise; page=1;
