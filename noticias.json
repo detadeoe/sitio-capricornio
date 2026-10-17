@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-10-17T15:32:26Z",
+"actualizado": "2026-10-17T20:34:56Z",
 "temas": [
 {
 "id": "minas",
@@ -212,13 +212,6 @@
 "o": 3
 },
 {
-"t": "Resguardan a osezno que deambulaba por Parque Industrial Derramadero",
-"s": "Howl.link",
-"u": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE96b05BVlVqX1lGN3pwZmx0TGE2ajVydTB4NDU3LWsxbzVWSXpQRTJTcG9Pazg2eXJva3E4?oc=5",
-"d": "2026-10-14T18:21:57Z",
-"o": 4
-},
-{
 "t": "¿Qué fabricará SINO Manufacturing en su nueva planta de Querétaro?",
 "s": "Líder Empresarial",
 "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2FrMU1iZ0kxRXpqamNHOFhQU3hDX1d4OElzQl9GWnZoRmpFRGhWZGZBWExCQUFwVDVZWUlWNmFYYmM4WWZsNVNoLVhwVGR6cmpXT0cteEhWSmZIYkpIWDllNlJISW8yQTZ3SDQzdXI3UkpyLUJZdDlJS0VPYk8xbDR4ZGNHbFVOU2taYTd3aU85eWszWHN1UzE0UTRhLTg?oc=5",
@@ -331,6 +324,13 @@
 "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95Y21pU2FEU3ZSVDAwbGhzUnE1R3c2RjFMZ1gybk9xUlNqMjZESVJEQzBrTEtLaXVSQnpDa2RFUzFld2thUlkxNmJ2OFl6Z3NjcnFJQURSZ1pEZUkxUDY3QW9zQW5ZVXdLM0JzNkZ1d0hvUzBfRWdGZFc3MA?oc=5",
 "d": "2026-10-03T00:33:14Z",
 "o": 7
+},
+{
+"t": "Gobernador y alcalde inauguran el parque industrial VYNMSA en Torreón",
+"s": "Noticieros GREM",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdURCRzBiaGp3bXdWc05WTnlDbmdkcjFhaXRwbVdpR2gxZVdOU3ltV195VWRTbFc5ZEhPeTZVT01NZVhUd3RqcWE1R2xTQktaSXkzUEx4Ty14TXB1MUtWMVFxS0R3bGtWQlBVTm82Vzg0Y1ZpcUJLTzR6R202SWZmaVV6UHNJMjVBYnBmWGw4NjZtRklILWVOQXE0VzgyM2hhaHh0azlvWQ?oc=5",
+"d": "2026-10-02T17:31:24Z",
+"o": 7
 }
 ]
 },
@@ -368,7 +368,7 @@
 },
 {
 "t": "Va ArcelorMittal por 5.3 millones de toneladas anuales para el 2029",
-"s": "MILENIO",
+"s": "Milenio",
 "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW5QMkp2NkRvTGRBS1cxWmozckZkUUVJOTg5eUJldUMzNjdpQkQ0aG1VUEUxR2ZTZjF4S1BIelBjbWJoWllLZ1paMlZFQnRlMDJTYmM3MXNhTTc2MWFmdnBYbDc3dTl1Z3JvV1BwQXU0TGQycEUwdnlDaFVRZXFtYnItRWMyTWvSAYcBQVVfeXFMT29RVDZIQ3poNDF3Z3I2S1I0VkpCX0xITFYxWWZVQ3g0a3dLeEZBZHdHQ052SGZxTVJlOTNrYTJydWRCV2t0cVQ4Y0ZwQndUb1BtUjEwcTVyeXQ4YldwOWM4Sk0tUUxTOTNjUXdXRVItcmFFVmpuOG9Dd0FNWUFpY1JDZlhwVERZ?oc=5",
 "d": "2026-10-13T12:37:00Z",
 "o": 3
@@ -395,13 +395,6 @@
 "o": 3
 },
 {
-"t": "Ternium cumple 20 años en NYSE y avanza expansión de 4,000 millones de dólares",
-"s": "El Cronista",
-"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGZYdjhTZWRoMFo3dHdES1M3Z1hiUi00aFlEYWVMcVBONmhabHhPeXJrZmowejZiRzNUdVo2S2ZISTl2ektvc1Q0SHRZN21GcDFfblJvTmJMZmhFeDdYczhrWU9JLWcxMFhrUDFzU3JWM3NhSHVsSHFYWXlZcmxWalBRS3RGVk9JYVg1UjBHVXI0QXg0ZTVaem9fX0Zmam5HYjQ3SnRRRGN0SzNJczNCN19aM2Ztb3h5clBmUkZHd1I1ZmJlSlNjRkhGd0ZhaTQ3LV8xQlV6cWZjWEhmekpjbjFNRmNKWng0VUR2WWdzcHdKR29RRFdEaThqVmZzd9IBmAJBVV95cUxPTnNuYjJ6QkNvbTAya3pialZ6dFNsd0NHM1cwdUZPM0VQQVhEd3Jta19rR1dTRFFJMFVuZTF1aDl2ek5BX0pTVzFOVFRMUUxBQjg4eHdUa1B2WF9BZE9qblJLM0hTT2VBbmRSQktkWnZlZWpuY3VqVUZTakc0eUt4eTRIeDJSa29jcXdINFAzbnZtSGptLW9nbDBCdHo0X0dEZWFQOXRLd2YzQ0JZSnF5Q0M5M0w4NWVVNUFRUm90bDFVZWJEcUowWlF5d3FWLUNOQVJ6NVlfM0QwYUVOM1RrMUQxajkxckM5UW5GWjRUMFdwSDQ4WHdPM184S3gzdHRFSU9XaDNjQ1VuR0hZb1JXYlNqajZ2WXVH?oc=5",
-"d": "2026-10-08T22:05:14Z",
-"o": 6
-},
-{
 "t": "Trump anuncia planta siderúrgica de 15 mil millones de dólares en Iowa",
 "s": "Tabasco HOY",
 "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVJ0N3g4LTRxOE5oVGdMUkV3ZkNOVEpsQkNMR3NLT1VqVXpHWFhiNlRTRkhYUzhFTzZDNjdrRGl5SnhVVjlPVTZzbEVhUVVOTDJxeGFHb19tZENiTmVMbXlzd1VZUlZ2UjIwTnBPazA1WkQtWHJLOGNJUzB6RjFhR0VKN2NiUWN6eUluXzFTb0k4MTVnZTVHNXF0aG9NbjA?oc=5",
@@ -421,6 +414,13 @@
 "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpESmJOQkFFaGNlYXN0OXFsMGFLbmduZkVkNXpQWTF2V3RCLUJYc0N2Q0VoYlBtY09JcFVfQ1loWDhOZEdrMEdzM0JtX0ttMXNXekxiMkhra3JkZnBhLS1yREtsT1ZjZ2NSNk1McXFuNzh2ci1UN3daazVzZXFrWWs1WHpCRDRyZ3N0bGIwOGtOV2FrSHhySFlzd05DOGxIaDlTTXBqY3owZ9IBrwFBVV95cUxOOV9aNlpTX3JuQktsTnh1a2NSdzBkc0YzMEllWlR6RnBQYkU1akZmdzFfb0R3LW1vSzdFS1F4MTQ4ZEgyOFVaVkZrVjNDTGpEblQ4SDA3M0szU2c3bXVCNEdTOWZESE5ndE8zRFU4U3JLLTBCNFZRanFBZGlaSXVmMktidWtvU3ZGNmIyN1BtaHA2U0JBY3RFZHpnbEhWUkRNNG5MaTdEbmF2Q0ZneC1r?oc=5",
 "d": "2026-09-29T07:00:00Z",
 "o": 4
+},
+{
+"t": "Arturo Domínguez aclara oferta de $1.4 mil MDD por AHMSA",
+"s": "https://estrelladigital.com.mx/",
+"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yRnNieEFHLVBvRzRKbW9mTzVPRllEcXZlTUl3UHotWUxtU211aUZOa1ByVHh2X2RKTTlrQ3AxbVd2YkNCQU9oRlh6WXJJcTRfRXlQSjNlRklvNjFlX1N6VHRyd3A2aUZwZE45VENxRjEzc2N2VzNZUzVB?oc=5",
+"d": "2026-09-28T19:03:28Z",
+"o": 3
 },
 {
 "t": "Trump anuncia una inversión de USD 15.000 millones para construir una planta siderúrgica en Iowa",
@@ -471,13 +471,6 @@
 "o": 3
 },
 {
-"t": "CRT aprueba bases de licitación para redes industriales en México",
-"s": "DPL News",
-"u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkdOdktYUFlFUG1pMFYxR1lZRWVhLTd3dHotX09qek1GTmV6YlFqZlNLYjdKR0ZTOUV5VzA0cnpVQ1REQWVGVUEzUkhXZE03LXg5a09GZmNMS2JNYVIyMHkzZ0Q5UXNwUzVjV01oN3VlTW9aRE9EUUNvTzZYSGtJdA?oc=5",
-"d": "2026-10-05T19:58:29Z",
-"o": 5
-},
-{
 "t": "CRT alista licitación de 40 MHz para el 5G industrial y abre la puerta al capital extranjero",
 "s": "El Economista",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV21xc2xQQm1OZVNOQVFPQk43RXlTWGNveUpHR3d1LVBQNzhKa1M4NUgzUktpV2NWQnN0RlpHb3p3Y1RPQjBXNHAyX0VCeTYwY2FhcUd5T205OEhCTm5KNWpEWC1kcFFjMlluQ1Zjb3VCclNRRXFpdjhVamZrTE9GTVhUSkozNm5CSUEzVHlKRWI3RDc5S0VGX3ZPR21lZ0Z3eFpVSG1ZQ0NpSE5qSEc0OHdNNTFPUWNHdzJiNUNtaWNTMlNMbkloeTFZR1Z4N1Nx0gHWAUFVX3lxTE03LXVsUmRQVGQwNGl1cjlpenpnV1A2enJsNm4xME9WMW9oLTVENl80TzF2cHhSNF9WZ3R4Qnd2S2p6SVltUTduSVNoT1hLN1hDMHFlTmtTOW02VTdnX1A0dVItbGU2ZXQtZWQxU3pyZjhaeUhtY3VHd0pqNWpyZnFMd1Y5N3E0eXNpb05QM1c5eHMtZ1V6OVExdy1TdXNUZGUtemlFYU05RTJfcm9vN0VlUDJYUzdLLTg1NzZvbjFHYVdicFM4NU9YSnJUdU9VYktmZG5pSHc?oc=5",
@@ -518,6 +511,13 @@
 "d": "2026-10-08T15:22:29Z",
 "o": 3,
 "c": 1
+},
+{
+"t": "Ternium cumple 20 años en NYSE y avanza expansión de 4,000 millones de dólares",
+"s": "El Cronista",
+"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGZYdjhTZWRoMFo3dHdES1M3Z1hiUi00aFlEYWVMcVBONmhabHhPeXJrZmowejZiRzNUdVo2S2ZISTl2ektvc1Q0SHRZN21GcDFfblJvTmJMZmhFeDdYczhrWU9JLWcxMFhrUDFzU3JWM3NhSHVsSHFYWXlZcmxWalBRS3RGVk9JYVg1UjBHVXI0QXg0ZTVaem9fX0Zmam5HYjQ3SnRRRGN0SzNJczNCN19aM2Ztb3h5clBmUkZHd1I1ZmJlSlNjRkhGd0ZhaTQ3LV8xQlV6cWZjWEhmekpjbjFNRmNKWng0VUR2WWdzcHdKR29RRFdEaThqVmZzd9IBmAJBVV95cUxPTnNuYjJ6QkNvbTAya3pialZ6dFNsd0NHM1cwdUZPM0VQQVhEd3Jta19rR1dTRFFJMFVuZTF1aDl2ek5BX0pTVzFOVFRMUUxBQjg4eHdUa1B2WF9BZE9qblJLM0hTT2VBbmRSQktkWnZlZWpuY3VqVUZTakc0eUt4eTRIeDJSa29jcXdINFAzbnZtSGptLW9nbDBCdHo0X0dEZWFQOXRLd2YzQ0JZSnF5Q0M5M0w4NWVVNUFRUm90bDFVZWJEcUowWlF5d3FWLUNOQVJ6NVlfM0QwYUVOM1RrMUQxajkxckM5UW5GWjRUMFdwSDQ4WHdPM184S3gzdHRFSU9XaDNjQ1VuR0hZb1JXYlNqajZ2WXVH?oc=5",
+"d": "2026-10-08T07:00:00Z",
+"o": 6
 },
 {
 "t": "Tramitan en Zacatecas la construcción de la planta solar Fresnillo PV Atocha por 1,840.06 millones de pesos",
@@ -657,19 +657,19 @@
 "c": 1
 },
 {
+"t": "Planea Ergon más inversión en Puerto Interior",
+"s": "TV4 Noticias Guanajuato",
+"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81UmhiUXRtMFRMMTF5dXhqR0RZRWY0bFl6RXYwcm12blNIX0NYMlBxNlk1Q09lVndNbVBiUlVUY0xmWUU1WWpnNGxaQ0NpRkFpVHlpcjN3R21vU3J5M2JLOUx4cHpEY2h6dzdZOW1sT3E0LVVmOUw4VXp3?oc=5",
+"d": "2026-10-06T00:23:15Z",
+"o": 3
+},
+{
 "t": "VOLMEX ampliará su capacidad de manufactura con nueva planta en Aguascalientes",
 "s": "Tu Interfaz de Negocios",
 "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWxldmEyV0JSVmZqTjhGeHlWQWQ4bjllek9lUktBNERQNS0zQnNKQUtqeTY0dUhULXdwUmJ1NmlXckc1YnRoY242MXZoXzFWY3Q0MXVsN0JzbkhsTXJnS1RMRFZXSWVRSm4zenFYTDIwQXhzX19lUUJQTjhBcnM4SWNTalpWQ1ZhZ3FjVVk2WDROVTBYTHQ4M0gybW55UE5DWENXdGdnMGl5WEROT3htRk1rM0RXajF3WGJV?oc=5",
 "d": "2026-10-05T18:55:51Z",
 "o": 7,
 "c": 1
-},
-{
-"t": "Yucatán busca atraer inversión industrial y fortalecer proveedores locales",
-"s": "Quadratin Jalisco",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOGFzam9fVlVSdWZ6bGlERk56SHBFbWZPNGpnY1BRS19CNHMtdnlxbzhadmlsSkVMZkYxaW42STNPQnY3U2tTZjExckZxWkVHSlpMTDdaSzJ1amRNZlZ5QWNEV1p4cVFDS1J5MWJWbnNGOERIelh0eTZzTWRZelZERXhDY0xSVW42MmYxTGZSUnowSUFUMkNDZi1IWGpZOUh5ZXN4WjJWVXhScHdPY1hXR3Zsc0pkeDNs?oc=5",
-"d": "2026-10-04T03:58:00Z",
-"o": 3
 },
 {
 "t": "Explosión en bodega del Parque Industrial Altec deja un hombre sin vida mientras realizaba trabajos de soldadura",
