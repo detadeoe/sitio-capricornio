@@ -1,29 +1,15 @@
 {
-"actualizado": "2026-10-18T11:01:37Z",
+"actualizado": "2026-10-18T15:50:54Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
 {
-"t": "Minera Los Frailes inicia la obra de la nueva mina en Aznalcóllar",
-"s": "ABC",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEp5RkVpSm5MU0lZUGtLM1p3UHhqREZpM2xwTmgwdVBMNU94YlJ5MG80R1o2ZXdfWnJaaTdkSnJlSkhZeTlTcURiS29kdUNkSVEzTTNnNDNLSzBtTVZFZ0ZxQVVNMWZsTWktQy05MHVKaFVOTWlKTVFtblZkUW5lcWloZ29YY2pfTzRHdU1QRmVSMVEwT2RiODNvX2V2dTBEd3pJODFpRW00NTRsSlHSAbMBQVVfeXFMTjR0MlBFRy1NUGs4dy0zem1kbmtud3A5ZU9EZEwyYm91RlQzTUhMTEJIdWh4dDg4WTQ1djdLZlJSY3c5M3lHRTFRR29vZXNjcUdNUmY4TWVmRjA5R3lxQ0xLNFJrNmZORHRZOTE3SDZmTDFkTzdNV0JYcXpfSWl2elBoRG5kZ3htODJaZlZJdXA4SnVHNDNLdWJhbGpRRHZSMXRGSDlEeE1aTEpMSFdwZ0NyQVE?oc=5",
-"d": "2026-10-18T05:07:59Z",
-"o": 5
-},
-{
 "t": "Concesiones de exploración minera: por qué cuesta tanto pasar a la explotación",
 "s": "Diario Financiero",
 "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnBpYkY4QnJxT2h6R3VHdlZaN0Q3TTBfQXFTNVR0WVBCUi1XdV9RbzlpS2hBcnN3M2R4YjMwSDBsb0xCREVCUzY1Y3gtd3VIWlpWaXdmUThDaG5VZG9Kd3lfTkNPUG9yd0hwRWFXR1lkQ0szdm5fVVN0LUJOb0YwX3cyNVhzMDhYTE4tbEtFUVZ2SGI2cnQ1UW9MaG1nNWJkQnc?oc=5",
 "d": "2026-10-16T22:00:00Z",
-"o": 3
-},
-{
-"t": "Frena Groenlandia exploración minera en aguas profundas",
-"s": "MURAL | Periodismo independiente",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHJlcHVlTTJ5VnZLUTZPSGNCbmhxWlkzWmE5WG92dnJUc29xdm15d2JCUXpOZXVWZnUwVDlxRlhCUDV2SjdqWW1VbTBkRm83Sl9iYzFIQVlBa0hwTWt1WmFUSzlKN0dVb0UtZlc3Y0ppRzZnZm1uSGhYczNoYUp5WURtb29xV3dqNUJPUkdIT0p6OHZy?oc=5",
-"d": "2026-10-16T01:27:50Z",
 "o": 3
 },
 {
@@ -163,6 +149,13 @@
 "o": 4
 },
 {
+"t": "Arcosa destinó 2,100 millones de pesos a nueva planta galvanizadora en Coahuila",
+"s": "Tu Interfaz de Negocios",
+"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYjgtT05rTVFacmdlQ016T3NkUGZzY0M2Q0NvanBkbFFKZ1VpR0poNy02RGxjcmRuM1V1dWo5SFgwSUpmMXFDeFRNSmxKYjcyb0RuaXB4a3dHYmpQdlZYQ0x3YklRZWlscjVHSU9vTDdieWYzRGF3UHM2cWpiUXQ4dmtKblhiNW9DMVd1UGJCYnlvU0xvMUM0bERVanRyMzBtUmQ1cDZ0SzRNOVVmVlhFVnh5S1d1U2FqS0Qw?oc=5",
+"d": "2026-10-16T07:13:06Z",
+"o": 7
+},
+{
 "t": "Inauguran parque industrial en Tultepec con inversión de 330 millones de pesos",
 "s": "Sistema Mexiquense",
 "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGVXTEZOZkc1X1g2UllNV1FuR1l3MHV6MmRJRmlOV1lfaWU3Ylh1b3dJYVd4Qkd6U3lWaldJQXI0bWF0S1htNXZUZU5YN1A1M1c4UEkySkhHcDRCSEw1V0VMQlVkRjY5SHJKSW9ZeHROdWJHSnFwS3dqdjExSm03YmJxS3NsUVd1c1FwbE5FVzl1b3pzUWpfaWpvTHFod2dwVlZXNUJIX3pkNlJhT1VTRmZsYmgySGYyajl6c0R0dmxQemlzWTl6cFlNZXFhYU9qdFVVdFlKQWM?oc=5",
@@ -191,13 +184,6 @@
 "o": 7
 },
 {
-"t": "Arcosa destinó 2,100 millones de pesos a nueva planta galvanizadora en Coahuila",
-"s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlNV2dPTGIwVE9IZGxkSmFnZTV3amFqY1p5VHlGTmtabUN6b1ZBYko3VkNhejdDTnJoT2pDdVV0WEJvbTJ4SC1iN2h5cjdhVTBsWDFnUG1CZEU1c28xLVpYWGZZdmNGLWR1WHBMZHhwQ0xuS3lwcG1UR1dNMVhBX28wUXU5R3BoSkZIZGxnS1BLMnJyZ3Q4QUI0ZnR2azFWSHplX2ZrUmNNcDV3cmgzMDd6akZBbnhyQVM4?oc=5",
-"d": "2026-10-15T07:00:00Z",
-"o": 7
-},
-{
 "t": "Arcosa invierte 2,100 millones de pesos en nueva planta en Castaños",
 "s": "PostaMx",
 "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmdkWXE4UU1yYkdBZ0NTa0dCalVXWGF4MVBRVVdtdEJ6ZUNUaUk5TXBwdzNheXVjekVHNlNqNGdNd3dXYkJ0czJRSTN6Y2Y2aVJiYUZpTmw3b0JURDVHMzNiWDZFcHNlcDItd0kzQ3FXeGJBZFhNNTB0T1diZk5Qa1o4dEhIYXdibWVDeTZOdF94R3YtUkFpWDdVVjlkaWp2MGk2NTktQVUybW55c2dz0gG0AUFVX3lxTE4zejVsVzhhZERmdWNKSGZQc01GMll3M0xhelRmTjNmbXlFVVhfZzJaN3VMUWFJQ1JEclV2WTkyamNMMGFSeFJ2ZlpDSXF3aDg1SjhMQXBobFc5eTRaU1hvV0EzWS05TXhsYXlmM3I1LWNCTFMxTGp1SkMzaFRXekZhZzdvaVNuVURjLU50WTBXZjMxN29wRnRielA2MXh6S0tILTdPQ2lYaXZPUG9yRFVvV3BYSw?oc=5",
@@ -212,13 +198,6 @@
 "o": 6
 },
 {
-"t": "Aseguran 90 hectáreas del Parque Industrial Futura de Monclova",
-"s": "eltiempomx.com",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGJtX2hBVVVNbUVwQUJhTFhiVmRKQkJpTzY4bXlCdGRFQ3RoWkMxNk1GSjNVNlZiTjh3MjVPdWwtSXZ4NjBwWUprd08zbE40MEE2ZjVGQ0lFZlBuZURRRUVIX1hPTjM0V2hWalplRUhnUjNPNHZfUlNvTnFBaXpUQ1d0ZVdsa2FUWnQ4LXVTNnVwQ3FOM3lHRHVjQWZpRTdnSTA4emdB0gGaAUFVX3lxTE9KZjBhZHdyOXdOSUpxTFJIaHp1VHc0RzlpYktGOHRHc1BpOVN4SDFlS3NKMXNnTWJaRGtKOXcyNTRuX1hpQ3R4V1pCVml4NjJaNmlRUzFCR2I1cDhzdjBCbzBHbDlsQzk0dDYzcURCQUVyLTVuejFaN19GblJYWnhGM0tsSWIwZ2s3NVZaRU9KWnI3a2ExUmV0NGc?oc=5",
-"d": "2026-10-12T22:50:38Z",
-"o": 4
-},
-{
 "t": "Nestlé duplicará inversión en México con nueva planta en Veracruz",
 "s": "Dairynews.today",
 "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdvaTBUMHZzX0pfZ3dKb0lSeU1fNXRCQW1zb09kY21rTXNaSWJ4ZmI5cE1yWnBxUnczbkV5S0hxYXVxVUFEUERyd09DM2JZYjNDMkI4SGpQRlNxSUpGb0ZrY0g1OGdBRF9weklkWWpNcXVYMng0TEREdDRZV3A3NVhLRlpOOTdVZkpNal9vWlVKc0VpSXRRZE9MLXhLdnNCSTJQSWIzUE5pXzJI?oc=5",
@@ -231,6 +210,13 @@
 "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFlQNXNBNTZuWTFVS2FudkN0ZGd6NjZ6Q3lTbzBpeDkzRW95M3lHc3ZWalFHM3c4SEc2aFFmVlB0UGtMeE9XcjB5WjZFellMTXdHYVZaSDRna0JTbUZCSFAtVi1PMng2d3c3YV9NV0VtSjlrMmdwa2hJQUpocTdkWTdkdGVBejlCOV9NSy1FUm51SGNSWmNDcHhkdlliNEFSM2daeVBkaXI3bWZ0RWdzUzBlcGw5VkhjSE5EelBVeFlzbmtz?oc=5",
 "d": "2026-10-10T17:13:00Z",
 "o": 5
+},
+{
+"t": "Müller Textiles inicia construcción de nueva planta en México",
+"s": "MexicoIndustry",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdl9RWXU4eHhjOGJ4bEpGX3kwQUg2YlZROUpPVThBajk2QXE1SlVKd2ZDU0xadEdEOHZwenNyeXg5c2ZBdC1yRk44RXZPcURvbGV3Ri1sRW4ySkszT3VLS2xPSmlIcmFseGJkQ3FyOGJCWnBUdWFVT213alk5bFFDY1lWLVgtT3I1Z09POXVLVm1qRTBpeFd4MjdRTlo2QQ?oc=5",
+"d": "2026-10-08T07:00:00Z",
+"o": 7
 },
 {
 "t": "Gerdau Corsa amplía su red de procesamiento de chatarra en Jalisco con una nueva planta",
@@ -249,8 +235,8 @@
 {
 "t": "VOLMEX ampliará su capacidad de manufactura con nueva planta en Aguascalientes",
 "s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1JBYkYzdENfVFlZWmprV2FwendIOHpnX3RBdnJ6NERUZTRLNGJxdDZvRUQtSS1RZHU5bWlpdnVXZl9MQmFpUUZjWERlekFkWGxSWTFneHUwR1J3NWhYZGx3VnVNWGJsZ21CQ2FKX1pjbHpISXV1MzRJUDFNWnNvdEcxTVpPS3dUUHNMaGRDWW9pTlRUdzRvMGEyS3V6ME5HQW1BekRiS2tmdG9veUFxa0ItMk9aMDhXRWc?oc=5",
-"d": "2026-10-06T00:12:02Z",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU1SM29PQ0phLXM0RjVrdFViSzRtWm1SaHVIUVo1bV9ybkpKV3ctQTdyT0tqQzBGWXBwa3Rfam4weUttVDBiVmdScTF4WFRoTTRieE1rYUp1X19KcDl2MDhKdmViSXZYckdxdHc1akowdldjcmJSUnRPSkVfUXRtOVZucWk1TFg1WnRfLXV6b1FKWm5UVndfWmNLUXZyOGFSc2hlZHpwMVVCVlB2VXlOZENtNVU0QVZqZGc?oc=5",
+"d": "2026-10-06T08:38:34Z",
 "o": 7,
 "c": 1
 },
@@ -274,6 +260,13 @@
 "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzAzbnlsZ0paNlZTUG03cTZRU19IS19GZ2REa0o4UVFTcXVBTHpMbEFiX0JkZktyeUVfLVNSaElpS3dPVjl6aV9TeUs1ay1nRzhZT1ViRTJoSWo4ZUVmY2EwNUZYZE12TTg3aDZSbTRiN2tCbFE5N21kOWdDTk5fR29pdWNTN3poQUNEWFNySzBkS2MzbFBxUHlxNTk2dlN0dUE?oc=5",
 "d": "2026-10-03T07:00:00Z",
 "o": 3
+},
+{
+"t": "CIRRSU sigue adelante en Totolápam; avanza relleno sanitario y nueva planta de tratamiento",
+"s": "El Piñero, Periodismo y Debate.",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlAwOFB5Q1lpVTNLT1NQUzQ4dUFDYTlBY1oxcEY4TXNld096NDVpbU1PSzl2TnVYRzNIOWFFVlB4RlRTeXJ0cnlvMV95T2tiTlZIeUtjNHYyaHBtVzF3Vk00SmV3SjdHTWhPckExNnI0ZWRZbzg3alVGa3BKMEh6STFjS1NZbUR3M01RNWZBWnRqT01od0xiTEt2Nzd3ZUxsMVVOSndwYzl1S0NybFY5UnlfWUg?oc=5",
+"d": "2026-10-03T07:00:00Z",
+"o": 4
 },
 {
 "t": "HiRef invierte más de 200 mdp en su primera planta de manufactura en México",
@@ -305,13 +298,6 @@
 "c": 1
 },
 {
-"t": "BMW abre nueva planta de baterías en Baviera",
-"s": "Autocosmos",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWJWU3NHVXdVZEpVSWhKVVEtYXlPTkRVVEVlZ3ZPb2VxUzVQSDVnVUMwYmpWd2dhWXh5UkU0THcxNzhNSEczWFQ3Y1NrS1BaWC1pRGZ3Yk9uRF9jVHcyTnItX29ZUXNfcV9GNDlNVDA0UzBCNXNuekk4YlVnaHVONjhZWUx2WFpZekh0WUttLWZpUkxZ?oc=5",
-"d": "2026-10-02T07:00:00Z",
-"o": 4
-},
-{
 "t": "VYNMSA inaugura parque industrial en Torreón con inversión de 800 MDP",
 "s": "Cluster Industrial",
 "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeENOV3EyQUh6WjMwRUx2YUlaRWtsSEszUVJVRnBXTDJpYTdSNHdmeWV2cHB6UUNSd3h3U1QtaGxsQ1hocGhFbkl3QUl3RjlGWFBrMGd6Q3QtWEI0SVNXd2tFY2ZndE9CeGZlaDFkbjdDbzlpSGRYa0RoWlk2SVVmZ0FQRzJOR1VpOHV5MzlhbjU1a0NYdmdmVk9hVVRLNWd4aElnSkNB?oc=5",
@@ -319,17 +305,17 @@
 "o": 10
 },
 {
-"t": "Inauguran parque industrial Vynmsa en Torreón",
-"s": "El Coahuilense",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xcnllWXlUWFJZbkdmN3paNzJLZ1JRd2hnUHRCU3JZQ0JhNlVjclgzNGpHXzB2NWFnUkhaUTZ1MldlRXFsTU9MUjhuYkw5MHNzT2Fja3FNSGZheDVlYkNiSzFMcmRVMU5qb1RwS0NmUUJhR1QxWFZRZTJLNTU?oc=5",
-"d": "2026-10-02T01:53:26Z",
-"o": 7
-},
-{
 "t": "Incorpora Ayuntamiento de Puebla al Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
 "s": "Reto Diario",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3otLWFkeFVJN1NoY1BieUEzc1lCdlVxZHdQTG5jRXFBM3QweWJSdkViNElXOVZueWxNUTE5ZEVyVkhUQi1XbUVqZi1HdHdoa3lCTkxudzZFRzRVQVI3QkJEMFVibFFoWkhQMURFbzJVSFFPVWJwRmxlQnMtRmFOUjVBODR5NC1TWmFnTXdic0RpZXF5SmdLTXMyZFBSSkViWkR4a1dGdUlTRzRMNEJ0cURQMHZfeHEzb0pBWlZSQ1NUQnZpUUtxZXYyWURJb1Vp?oc=5",
 "d": "2026-10-01T22:28:22Z",
+"o": 4
+},
+{
+"t": "Incorpora alcalde Pepe Chedraui el Parque Industrial Puebla 2000 al Ecosistema de Seguridad",
+"s": "Urbano Puebla",
+"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVk1YczhUN2pKZHRHajJ0ejZRbm1Ud0tTRWQwa3dwZTFwdlNPLTdCM1BtY1BINEZPUE5HZXloQ0w3UEhBUmUtSS1DS3llXzdGLW1xNlNhN2RHQ1dKRWthblMtaUFyaENJYVpYeUFyeC1tMUJqc0ExNUJZXzRDUzRGOXpHMG5Cbk9TSnpHWTg4ZWZ2cmpJaFJxYW90REUzbjJPZkQ2VnYzQVdjVnNnTUxJVndBTkNaQ3pWWXB4M0FfV2VvUmxhY1J0Tk1naw?oc=5",
+"d": "2026-10-01T20:46:50Z",
 "o": 4
 }
 ]
@@ -436,10 +422,10 @@
 "nombre": "Licitaciones",
 "items": [
 {
-"t": "Aprobará CFE proyectos de energía renovable por 12,500 mdd",
-"s": "El Norte",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGRSOGN4d0ZYUG9INHlpUVk1OWw0Q0otMW5ITDNLWXNyT1UycktoZHYxalVfbXpLWDhuci0wUkN3ZUN5WUlCMy1HclpFSzlNblNyYXdnQ0lMemNWTHBOUWo3ZkZtLW05YXNOQUFva1MyeERCd0J2S1YwLUtvMUFCTUR6UC04RmZVZkJaekNhUHc1MWxmMWNXQVg1QQ?oc=5",
-"d": "2026-10-17T02:12:24Z",
+"t": "Aprobaría CFE proyectos de energía renovable por 12,500 mdd",
+"s": "Reforma",
+"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFhNMmRXcGdHWXFOUEROSzRobnJYaE1yOXJKaWR1SFBFQXJZNWFyczBPRm5XeW9XWFBXdU9tNUR6M0tULTBlNXM2RW1wZVpma2NVYTFTMnRjbUNGbkV0WWdKcld0V1djd1Y2T2J1eUJNWlVrQ1NuN0JKVzlZek80VF9tRWVZN2VzMnR1SlVKRXBGU2psRjR3?oc=5",
+"d": "2026-10-17T02:15:59Z",
 "o": 4
 },
 {
@@ -645,10 +631,17 @@
 {
 "t": "VOLMEX ampliará su capacidad de manufactura con nueva planta en Aguascalientes",
 "s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1JBYkYzdENfVFlZWmprV2FwendIOHpnX3RBdnJ6NERUZTRLNGJxdDZvRUQtSS1RZHU5bWlpdnVXZl9MQmFpUUZjWERlekFkWGxSWTFneHUwR1J3NWhYZGx3VnVNWGJsZ21CQ2FKX1pjbHpISXV1MzRJUDFNWnNvdEcxTVpPS3dUUHNMaGRDWW9pTlRUdzRvMGEyS3V6ME5HQW1BekRiS2tmdG9veUFxa0ItMk9aMDhXRWc?oc=5",
-"d": "2026-10-06T00:12:02Z",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU1SM29PQ0phLXM0RjVrdFViSzRtWm1SaHVIUVo1bV9ybkpKV3ctQTdyT0tqQzBGWXBwa3Rfam4weUttVDBiVmdScTF4WFRoTTRieE1rYUp1X19KcDl2MDhKdmViSXZYckdxdHc1akowdldjcmJSUnRPSkVfUXRtOVZucWk1TFg1WnRfLXV6b1FKWm5UVndfWmNLUXZyOGFSc2hlZHpwMVVCVlB2VXlOZENtNVU0QVZqZGc?oc=5",
+"d": "2026-10-06T08:38:34Z",
 "o": 7,
 "c": 1
+},
+{
+"t": "Planea Ergon más inversión en Puerto Interior",
+"s": "TV4 Noticias Guanajuato",
+"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81UmhiUXRtMFRMMTF5dXhqR0RZRWY0bFl6RXYwcm12blNIX0NYMlBxNlk1Q09lVndNbVBiUlVUY0xmWUU1WWpnNGxaQ0NpRkFpVHlpcjN3R21vU3J5M2JLOUx4cHpEY2h6dzdZOW1sT3E0LVVmOUw4VXp3?oc=5",
+"d": "2026-10-06T00:23:15Z",
+"o": 3
 },
 {
 "t": "Yucatán busca atraer inversión industrial y fortalecer proveedores locales",
