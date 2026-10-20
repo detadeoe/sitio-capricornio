@@ -1,10 +1,17 @@
 {
-"actualizado": "2026-10-19T22:20:13Z",
+"actualizado": "2026-10-20T04:47:50Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "Proyectan iniciar construcción de mina Cordero en Parral a mediados de 2027",
+"s": "Quadratín Michoacán",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlEtZ2paeFA3YXFtSkpJTFljZXNEZms0MEtRczEtRGtHcnVxQlBvLWxaTTg3V2JwZUFmX2JJaHloQV9XTHBpTlY2M2NjNEp5RFFtNWs2S2djeXJYUmdUVzMwdTBvcDI3X3RxN0tkTndrZE1Ka18ydUxkU2JhbG9MemFBeFItNTRuVE5rdFQyYXd4c3lSRjlGNklDTGdnSzNIczkxaTE5UTNfYVVrWER1dTFoR2lDVWowdWhxRg?oc=5",
+"d": "2026-10-20T01:00:00Z",
+"o": 4
+},
 {
 "t": "Glencore habilita US$40 millones para reactivar mina de cobre y zinc Prieska en Sudáfrica",
 "s": "Revista Digital Minera REDIMIN",
@@ -101,7 +108,7 @@
 "t": "ADHETEC expande su mercado hacia el norte del país; inauguran planta en Gómez Palacio",
 "s": "Noticieros GREM",
 "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZF9fbVJvMkVoeFBiR2Vxa3VxRVpTdnhNeUUzVmpDaDg2S2dCYlpObUtWOFJjLWVKM2RyQmRsVGttNjBxNFRYc3dWTS15OFRUZHhnMG5SckRCSDlINHE2VFlUS3R1M25uYmpWTUgxTTBzN0FYZy1ZeUJybm8welBVVzZCNUt4anZzczk5YjNmcUp0MU95VjlhMGt2UkxkNHNnUTQ4VUd4V21IWnNqUDlMbWxEai1KQk42dmlR?oc=5",
-"d": "2026-10-02T00:57:05Z",
+"d": "2026-10-01T07:00:00Z",
 "o": 3
 }
 ]
@@ -114,7 +121,7 @@
 "t": "SA Automotive ampliará su capacidad manufacturera con nueva planta en Ramos Arizpe",
 "s": "Cluster Industrial",
 "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkEzTXcwcFljUnRLWTVIdUI2YmZLY2ctN1ZqUFNPa3NGbDkzeVp0UV9IWUkzODN2YW5udVdXcjM1VjAwbnVIcDJVd3Y1QWdLaXBOcmQ1LVRhdjB2TlFqb29pa0NPdnRKdURnSTVpY0o4SWk1czRFWENSTXY1Z0RmQkRqWVFqZXZKVzQ2Y2g5eXg0RTJFcnJzdzJZRDNBQlh6ZHNiWnlHQkZSb1RibWJOWlJ4blcwY1E?oc=5",
-"d": "2026-10-19T21:38:04Z",
+"d": "2026-10-19T22:09:10Z",
 "o": 7
 },
 {
@@ -292,8 +299,8 @@
 {
 "t": "VOLMEX ampliará su capacidad de manufactura con nueva planta en Aguascalientes",
 "s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTktSZ1Z2dkoxYnZHTk9KUnM3SE5CTmp6b2tYR2htSFhSQkF0dTQ1Tjc0WkN0c1A3YUhhTzdpeHoxSThDSllyRTBKcWdSVGhmZ2t2X0dZT2F5S0xtWEhEbHJOYy1FR2NBZFdfZWhneUFQaVRlLVZGSEc5c2VYNldkZUtJTl9CZFRTNVhvcTBVcDliVjFkcXZoT3B2OEZoSktTNnAtMnB4b0NER09ISXA4c1ZEdDg3MlpNd1E?oc=5",
-"d": "2026-10-05T07:00:00Z",
+"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWxldmEyV0JSVmZqTjhGeHlWQWQ4bjllek9lUktBNERQNS0zQnNKQUtqeTY0dUhULXdwUmJ1NmlXckc1YnRoY242MXZoXzFWY3Q0MXVsN0JzbkhsTXJnS1RMRFZXSWVRSm4zenFYTDIwQXhzX19lUUJQTjhBcnM4SWNTalpWQ1ZhZ3FjVVk2WDROVTBYTHQ4M0gybW55UE5DWENXdGdnMGl5WEROT3htRk1rM0RXajF3WGJV?oc=5",
+"d": "2026-10-05T18:55:51Z",
 "o": 7,
 "c": 1
 },
@@ -444,17 +451,17 @@
 "o": 4
 },
 {
+"t": "AHMSA perfila un nuevo dueño: CIESA ofrece 1 400 mdd por el gigante acerero; advierte que ese dinero no caerá en manos del gobierno",
+"s": "Gobernantes.com",
+"u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZOFVCcENjQWhRU0E1MFFSMkhaNnRPSTQxbDFnTWUtSHRLV1AzQWxPOF9pbTkyRUxDRGlNR21PVVdqLWItYmZTbXVTWV9iM0RmdF9sQlgyeFh4ZGxWRVE?oc=5",
+"d": "2026-09-29T07:00:00Z",
+"o": 3
+},
+{
 "t": "Presunto comprador de AHMSA ofrece reactivar la acerera y garantizar agua para Coahuila",
 "s": "PostaMx",
 "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpESmJOQkFFaGNlYXN0OXFsMGFLbmduZkVkNXpQWTF2V3RCLUJYc0N2Q0VoYlBtY09JcFVfQ1loWDhOZEdrMEdzM0JtX0ttMXNXekxiMkhra3JkZnBhLS1yREtsT1ZjZ2NSNk1McXFuNzh2ci1UN3daazVzZXFrWWs1WHpCRDRyZ3N0bGIwOGtOV2FrSHhySFlzd05DOGxIaDlTTXBqY3owZ9IBrwFBVV95cUxOOV9aNlpTX3JuQktsTnh1a2NSdzBkc0YzMEllWlR6RnBQYkU1akZmdzFfb0R3LW1vSzdFS1F4MTQ4ZEgyOFVaVkZrVjNDTGpEblQ4SDA3M0szU2c3bXVCNEdTOWZESE5ndE8zRFU4U3JLLTBCNFZRanFBZGlaSXVmMktidWtvU3ZGNmIyN1BtaHA2U0JBY3RFZHpnbEhWUkRNNG5MaTdEbmF2Q0ZneC1r?oc=5",
 "d": "2026-09-29T07:00:00Z",
-"o": 4
-},
-{
-"t": "Anuncia Trump en Iowa la mayor planta siderúrgica de EUA por 15 mmdd",
-"s": "El Comentario",
-"u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUUhXTWVRYldwM3FsVzdndWk0UUViNTItNFBOeG15YjZ5ektIMmcxVDZwSE9LVDNnNTMtUnNUNF9sNzJqUWsxR2JSRzBmN1U?oc=5",
-"d": "2026-09-29T03:20:59Z",
 "o": 4
 }
 ]
@@ -463,6 +470,20 @@
 "id": "licitaciones",
 "nombre": "Licitaciones",
 "items": [
+{
+"t": "Licitación de espectro industrial: cuándo cierra la convocatoria y qué deben acreditar las empresas",
+"s": "Industry & Energy Magazine",
+"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUVDVlRQeE5FRDM4M2pOWWFSVUVsX3o1ZW5JMERvREtSTHp1dlh4bHZvSUpMUDFHVVpzdnEteVdDWV9GX1Y4NEFvQ2g4SXh0V0dHTC15cHVrQUZNV0NWeHUxcFE2TjV2bmZIeDh4UFpWMVY2M1pnZ01CbmIwaUNSQ3BvVnExQTFUMERRWUxMLXBYQ3pwOEt5M0FPdFVMN2o4UGhpSXdKaklwUmVvSE5aSTVQMUhLX2JVWmx3OFBLaXJXcUUyVjFvYlNYRkFPZw?oc=5",
+"d": "2026-10-19T19:55:23Z",
+"o": 3
+},
+{
+"t": "Del 35% al 40%: México busca más contenido nacional en inversiones energéticas por 152 mil mdd",
+"s": "Industry & Energy Magazine",
+"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEM2STUtQ0I5eGduRTdnN2RYYnZiSVNlMjZVWHc1MTVwc1lueDR6eGR3M3htN3g3ZjVCaFhwSUlLZEJPZnc2bDRVdzRUSERPdnA3MktRci1hLTNUeWUzZHlvbmVEQWZYb1YxTi1aZ1pseTFUcGJ0VVZoU0FUaGZjc3lUTEd0VkdlWnRqNGFxc1RzeEJxNjFIOXZoV3Q0ZWREdzZJdEY1Q0NZRlpaQ1E0RVFIdnY1bmFOem1xa21OZF85WnIt?oc=5",
+"d": "2026-10-19T17:36:23Z",
+"o": 3
+},
 {
 "t": "Aprobará CFE proyectos de energía renovable por 12,500 mdd",
 "s": "El Norte",
@@ -511,6 +532,20 @@
 "id": "jugadores",
 "nombre": "Empresas del sector",
 "items": [
+{
+"t": "Regresan las minas de Aznalcóllar: Qué grupos están detrás de su reapertura tres décadas después del desastre ecológico",
+"s": "El Cierre Digital",
+"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTh3QThGbUFWU210cmVJR0otekJabGhXdGlZMnM5MHJ4YWRkanpXQ0FZNlU5bU51Q0phdTFpNmZHeUhQMllMMWtTY1lYNjA3OVQ4RnBhVng1WkFJQnBxYUZWQm1IcE9uMFE2SWtHampmV2ltTDBnT0ZhT1JXb1FYSWgzWlhqdlo1dkU3UHpoMkN4WkxEbnE3M1dfQWgxUTV5X1ZwdG5DdUFBUjRRRTRwTlViRkhCUzJrQlI1MVA4bkdUcnRkQ3NQSzZzaEpLZllaN3lxeHkzRUpVMGF5Q3o4XzcxOA?oc=5",
+"d": "2026-10-20T02:30:01Z",
+"o": 4
+},
+{
+"t": "Encabeza Gobernador David Monreal Foro por la Transformación en municipio de Pinos; reporta inversión de 2 mil 489 mdp",
+"s": "FresnilloMX",
+"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWTZNUmZzUHlVYkpFNHpkVE5PaFVDcFRnNE9BM3U3SGpNY2s1cE50S2ZFajRiSzlMTjl3eXN2enlxQ3g5MEJRb3pLWlpGSjVwTmdPWW5KTlBBaXFaMEZWMTREbno2OFltTDdVb2xqNjZVbF9oRlduazlxNDZHNGtUbGxtSmhrU2lUam5EQ3pPZ0VQQVg2dmRwQXRKcVp3dkpXd2RrMnp0NXRYY0JLYWtOQkNLeHl6UFA4eUU3NlpTZEJkLWcyZ2VFZEtSNktEbGVod3RDcENEWDFHa00?oc=5",
+"d": "2026-10-20T01:27:59Z",
+"o": 3
+},
 {
 "t": "Ternium prepara nueva planta para 2027: ¿qué producirá en Pesquería?",
 "s": "Líder Empresarial",
@@ -582,13 +617,6 @@
 "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemhoS3dHdnhmN2VzV0kya3hpcW1ORlU5Y1NTQTEyU2M4TmJMS29xamR6Z1daS0otRHVaWnQ5VDFwTWRiNEdrM0FpaFRDTjJRTm1yNnNZTm9YQ3EwS0lIZ2lMbEpkcHVfbU9Jb3hjTXFGSGNubzdqVUVnalVSeFByM2VQVkZHeExWbmpqSXB0QUpZaUxKb05SZ1R1MWpyWmdURUpGTlUzbi1Wck1LVzhhak0zVG9UZ2lBWXNVemRKVUJWZm1XeUZkbG9KQmhjajVDMTBKdWpJc1hFczloMGRWbA?oc=5",
 "d": "2026-09-29T07:00:00Z",
 "o": 4
-},
-{
-"t": "A pesar de la delincuencia, industria minera genera 19 mil empleos directos en el país",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1A0TFU2bUdOekdNT3h6Y3hFTFZPM2FNdkphbnB5U3FQX3lHeE1ranlPSHBJSkx4WE55aFhwcnR4YnpycVYxWmJWeTlMR1FndDRNX1EwcUM1cUswTE9QcXZVazBNUWlkaGh0QWRBQXZSWFhRVG5PZGhodWR4RldhVkhuTW95SU45U0hsME52MmNPQ3J4SW96ZkZzUG9WR0JwV1p2VDJYbVJiZEhuVjMwbXNPVGE2ek5rV05JT1JBOFF4bnlHdW1lYXdR?oc=5",
-"d": "2026-09-29T07:00:00Z",
-"o": 2
 }
 ]
 },
@@ -683,6 +711,13 @@
 "c": 1
 },
 {
+"t": "Expo Industrial impulsa negocios e inversiones",
+"s": "Pulso Diario San Luis",
+"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFRISVdReWd6T295YkxWS3BMMzlNSnhIb09iV3JGZjdmc3dBa01FeUsxalZNVGJwNnV6RWczQWIyTmN1NUhDekQ0WURqVUFXRThfLWpNdEpONXFEc2xYOWwzMXRhNUMtUzJ1THp0eWpaWlFnWXdsR1Z6VDA3X3Zya1ZhbjlkdnN5SFHSAY8BQVVfeXFMT1NvckVobkt1QjVXM1ZKei1IcV9SdnJzV3BUTmd3Tk9ZX01XQmwtUjdJTkg0V3NPVmphYm91cHdhVGxDdVVsOTdDaGM3SmhIaXA0VWx1eUMtNzA5TGJzRnplTHFySEtwV3hEb2JhMGxnTk9hRE9FVWw0ZzBoc05WM0RsNktodFRjZk5FWXVhUmM?oc=5",
+"d": "2026-10-09T08:00:00Z",
+"o": 3
+},
+{
 "t": "Guanajuato Puerto Interior cumple 20 años con 6,500 mdd de inversión y 140 empresas",
 "s": "MexicoIndustry",
 "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeF9ZUE9lNmM0Y3JBSF9RMzhmVmtWRnQzSDl0MFVERVpYenl1Q2s4bTdNQkRHYVZaOXBiVTBKSGhVRmhQd3ZUc21JN3JXalRDRDZ0YWlzWFJlSDhCZjVhNkh1c0VITkJXSGxHYWc5Q19RSUxfR05tQUJrUzN6TGZ1cFg0QVdqOGVsYjNmTnBNeVdISlZQbzZvQ3VOVDJtZHp1Q01LN2RZWEhQUEFRYnBNSVEyWUVzbTlDd0E?oc=5",
@@ -708,7 +743,7 @@
 {
 "t": "VOLMEX ampliará su capacidad de manufactura con nueva planta en Aguascalientes",
 "s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTktSZ1Z2dkoxYnZHTk9KUnM3SE5CTmp6b2tYR2htSFhSQkF0dTQ1Tjc0WkN0c1A3YUhhTzdpeHoxSThDSllyRTBKcWdSVGhmZ2t2X0dZT2F5S0xtWEhEbHJOYy1FR2NBZFdfZWhneUFQaVRlLVZGSEc5c2VYNldkZUtJTl9CZFRTNVhvcTBVcDliVjFkcXZoT3B2OEZoSktTNnAtMnB4b0NER09ISXA4c1ZEdDg3MlpNd1E?oc=5",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1JBYkYzdENfVFlZWmprV2FwendIOHpnX3RBdnJ6NERUZTRLNGJxdDZvRUQtSS1RZHU5bWlpdnVXZl9MQmFpUUZjWERlekFkWGxSWTFneHUwR1J3NWhYZGx3VnVNWGJsZ21CQ2FKX1pjbHpISXV1MzRJUDFNWnNvdEcxTVpPS3dUUHNMaGRDWW9pTlRUdzRvMGEyS3V6ME5HQW1BekRiS2tmdG9veUFxa0ItMk9aMDhXRWc?oc=5",
 "d": "2026-10-05T07:00:00Z",
 "o": 7,
 "c": 1
@@ -734,6 +769,14 @@
 "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlJBOWlGcVlIcGdCU2tmUVg5NlhmbEt5eVNlRTJsN2RxeFI5MGloM2w2azdtTHdnc1V5ck1WbFhTV3ZoSGZwNGh3a2Z5RGoySlVNUndmVmhrQTIxaUNteUItU2FCVDRQSkdrVmg5M1pTaW5DVWg3LWhtLUJScjIzOG1DT0pOMS1xMEZJc25iWWFnWkh0b09qUUNfVnJ6Wm56eDFGYVBjd3dpd1h0a2JlNXZjcVNLWWNaazhzYVRrb0w1WkRM?oc=5",
 "d": "2026-10-01T18:28:00Z",
 "o": 4,
+"c": 1
+},
+{
+"t": "Guanajuato fortalece inversión industrial y transparencia durante gobierno de Libia Dennise",
+"s": "La Crónica de Hoy",
+"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3BJX3diSHpOUG42V3NBcmVoMGxmNnhvRTRTQmwyejQ4M1NPLUF5UXhkdTY5eXlCZmdYbkZqeXBxakNCTmtNdW5IckNHMV9tNTMyOUpMcm03aFozU25oekRzZTA4OXV4YXJ1bVhpV01FS1VadVhDcTc0elh5YjdHdEF2WHhlS3JoeWFzNXE3XzFuMGx4dUgyNW8zMFE5T1FRR2NGWTlJanQzN1g3d2RXNTQ0MkdJT19QOEtiQW1pQWMwNzB4NzBWSURFSmlYd0NKd25mag?oc=5",
+"d": "2026-10-01T07:00:00Z",
+"o": 3,
 "c": 1
 },
 {
