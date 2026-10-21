@@ -1,15 +1,15 @@
 {
-"actualizado": "2026-10-20T21:35:59Z",
+"actualizado": "2026-10-21T04:43:54Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
 {
-"t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera",
+"t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera - El Sol de Hermosillo",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObndkelBrSFlsTVVGbnMtb3BEc29jQmFBTlpTdnhMdVFOZEt2NS1mcGJVdkVVRzQtQ2ZxeTRRMTJXSTlwQ3N5ZlpZVGE5MzNDSm5wTVMtTGlOMkFLMXNfUjNXMXMzOEwwX2pFQ3BZM2cxTHgzOC1XOUE0clNPUEVGLXBCRjZ1XzZqZWFCZzBCd1lHb3Ntb0QtT3NhVXVoMl9ocldnUVJYN0dKMmh4Q1NacFQxcDBQX0VkaUN3MDdZUXI0b1ViZzJGNGZRdTQ?oc=5",
-"d": "2026-10-20T18:56:15Z",
+"d": "2026-10-21T00:49:44Z",
 "o": 3
 },
 {
@@ -18,13 +18,6 @@
 "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlEtZ2paeFA3YXFtSkpJTFljZXNEZms0MEtRczEtRGtHcnVxQlBvLWxaTTg3V2JwZUFmX2JJaHloQV9XTHBpTlY2M2NjNEp5RFFtNWs2S2djeXJYUmdUVzMwdTBvcDI3X3RxN0tkTndrZE1Ka18ydUxkU2JhbG9MemFBeFItNTRuVE5rdFQyYXd4c3lSRjlGNklDTGdnSzNIczkxaTE5UTNfYVVrWER1dTFoR2lDVWowdWhxRg?oc=5",
 "d": "2026-10-20T01:00:00Z",
 "o": 4
-},
-{
-"t": "Glencore habilita US$40 millones para reactivar mina de cobre y zinc Prieska en Sudáfrica",
-"s": "Revista Digital Minera REDIMIN",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3Y4TG1FQkhrNVJKS0Y3NHhWcTE0WW1sckE4TTlGNDVGelNZUkVkV2Q1OVE0RmVoNmFQNVFtcWNXY3drcVlNNllfb1lhaXk4aHA5cjBCZnZMcm1ER0F1RlM0ZmQ1aklLdjJPZUN3VEQ3S1I1QlkzcUZyWUd4RmRYRm1sWFh6dnFnRGU3bXJrOFlTd1pxNWc1bWhpWnIzZUh3TDdVV3Y2c1JvSTAzTTV1UWxR?oc=5",
-"d": "2026-10-19T16:09:49Z",
-"o": 7
 },
 {
 "t": "Concesiones de exploración minera: por qué cuesta tanto pasar a la explotación",
@@ -132,13 +125,6 @@
 "o": 7
 },
 {
-"t": "Anuncia Carlos Villarreal nueva inversión industrial para la región Centro-Desierto",
-"s": "RCG Media",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkdERUVhWnZWT2ZSaVNuOWNWVFlyMG1IQ2lJdllOcWdrbnNyM0pHZTdoVnZKeWZLSV9makRkVVYxNjBlTXlFMFVXT3Bld2thdTRxUWVKRk1QVXI2UWpMdURua3k5Zk91UW9fYTdRd2s4TURORG1WTHlDYjFwelhmYjRyM2tYclNCMHlPcnk3TC0ycnZzTk5pVHFtQy0wdGRDV1FzS1AzNA?oc=5",
-"d": "2026-10-19T19:41:32Z",
-"o": 3
-},
-{
 "t": "Daido Metal invertirá 1,000 millones de pesos en nueva planta industrial en Jalisco",
 "s": "MexicoIndustry",
 "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2R2cmZyM3lnMFZvbXBodkk1UlVieEhxTG01bUhUTjZuWXdMa3g1M0ZTQ3E3aGhrek5ieW5GMkJfOGRpMmlQVmNCMmRMYkVibDdQNFY0cmQ1TG1CWGFVWHB3MGl5R3ZSYTBhemw1ajNRUUYtRDNIZS10UC1INmRsRnFuTnRJTHRxbTFZU3kweVVGTi1OVE9oN1p6SlZJdmRreF9abTNEQkYyWEFQajMtdm81NHBpOWdxOHc?oc=5",
@@ -172,6 +158,13 @@
 "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYW1MZkczX2xNZFZtVWZtdUg1MFNuenk1OTFMcUxRSDQ0X1BiSXVaVVdwS2pXY2dIZ2FWTmY3SG11QnFVSHF0ZWs3dmU4UnJLU01PemdTX0FUeEhfOUVJRGJUTV90VDhyNVRxTXZHaXZHMFZyZ3FaTDBaSDlHWXB1amUyV2h0NEQ5TDhqelpyR0NGYjN0N0RodUpfVVBwVWxRdXRFMlZXU3lxSHk2aUl3RmxrdllsU1psdVVodnU1VVF6SC03WWZPdWhBMkRKcVI0TVlaNV9ZOWU5UWxYQ2hoaFR3?oc=5",
 "d": "2026-10-19T12:18:40Z",
 "o": 7
+},
+{
+"t": "Anuncia Carlos Villarreal nueva inversión industrial para la región Centro-Desierto",
+"s": "RCG Media",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkdERUVhWnZWT2ZSaVNuOWNWVFlyMG1IQ2lJdllOcWdrbnNyM0pHZTdoVnZKeWZLSV9makRkVVYxNjBlTXlFMFVXT3Bld2thdTRxUWVKRk1QVXI2UWpMdURua3k5Zk91UW9fYTdRd2s4TURORG1WTHlDYjFwelhmYjRyM2tYclNCMHlPcnk3TC0ycnZzTk5pVHFtQy0wdGRDV1FzS1AzNA?oc=5",
+"d": "2026-10-19T02:37:30Z",
+"o": 3
 },
 {
 "t": "Daido Metal invertirá mil millones de pesos en una nueva planta en Tlajomulco",
@@ -240,7 +233,7 @@
 },
 {
 "t": "Rifel invierte 100 millones de dólares en nueva planta en México",
-"s": "MILENIO",
+"s": "Milenio",
 "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1BhRG1PaFVZbk9RSjlnTnppSldhN0lyNzc0cVRmRzExUW1jdzliOWVwWkwtblQ3Y0E4ZHJWODlqaWhleE1sNnNtNTJXbVJDSG8tY2owRjM2cl9jdDdna1hQdjdZWFNJR1BOZWtQUXVqS3BIdG4wSERMQVo2bk9BUmlBNnAtVHRi0gGIAUFVX3lxTE14VFJzU2VRZks1dk13Sy1GRjFPNFl0LXA3UkNUTElHLTM4ZnJRRzV3S3FFSGZkNHVTVGx3eFdRbXBlTjladFlIX3dkYzQ0SDlRWFFYX0E0U0Q0RFU2aWNfeUZ6U3Z3VXdFdmxDakl0RzM1WV9IRlpwYUo3ZnhIVVJHWGJEWkt4eEc?oc=5",
 "d": "2026-10-15T17:53:00Z",
 "o": 7
@@ -266,6 +259,14 @@
 "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwN3VKT2haSEZlVTQxUjBiU1VxTndyZmRTUFUzb2xpU0FVcURWdGoxdzhJbmR6ZVJzV0ZLMU51WXNiQUU2dlJSa1VyWlRpNHFPaGQxb2Q5Qzdoa0tLQWlXeFhhWWNDUEU?oc=5",
 "d": "2026-10-14T01:40:34Z",
 "o": 6
+},
+{
+"t": "Av. Cañada 45, Parque Industrial el Marqués, El Marqués, Querétaro, El Marques, Coahuila 76246",
+"s": "Realtor.com",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXk2SUdVTk9kTkcta0U1eHBpSVA3ak1pTFNuYW1rNFdWYm5TdDNSM1RXeDNCZ1AtQVNZd0VvbEN2RlEwcmwtYkhXRm9EbWFxUEtlSUN6RkVvUTNfZk1UUzlhaTZvdnRKdm9nRlQ3T0JrRFJBNm5pLUxSTkd0Uy1nX1pWbW1YUFZPMHV6TUI5OG5lVGFFSTM1YlpremM1eWI0bEdtZF81MkVUUUdyWmNhMzJVRDlDZUkwdE40WllGb052aDZnR3hCQ3dlMmQ2TGIyQkd3?oc=5",
+"d": "2026-10-13T07:00:00Z",
+"o": 4,
+"c": 1
 },
 {
 "t": "Nestlé duplicará inversión en México con nueva planta en Veracruz",
@@ -316,13 +317,6 @@
 "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Mk9BWHZ4UElXQlpfWk16bHAzblVOVUFtT3A5VWs5S1dpWFFvcjZZNl96Q2RtVVJGa0JlRlI5VDNrckswS2hXRnE5ZUI4dndVWGNwQW1hRHVVV2tXWW04bjBYYXRNUk0tM0U1OG1nUm80U1BRb1dZZ1pBOA?oc=5",
 "d": "2026-10-04T23:06:48Z",
 "o": 5
-},
-{
-"t": "Yucatán busca inversión industrial y fortalecer proveedores locales",
-"s": "Quadratín México",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzAzbnlsZ0paNlZTUG03cTZRU19IS19GZ2REa0o4UVFTcXVBTHpMbEFiX0JkZktyeUVfLVNSaElpS3dPVjl6aV9TeUs1ay1nRzhZT1ViRTJoSWo4ZUVmY2EwNUZYZE12TTg3aDZSbTRiN2tCbFE5N21kOWdDTk5fR29pdWNTN3poQUNEWFNySzBkS2MzbFBxUHlxNTk2dlN0dUE?oc=5",
-"d": "2026-10-03T07:00:00Z",
-"o": 3
 }
 ]
 },
@@ -435,12 +429,11 @@
 "nombre": "Licitaciones",
 "items": [
 {
-"t": "Se preparan las obras para los tramos II y III del tren de pasajeros Querétaro-Saltillo: empresas buscan participar en la licitación",
-"s": "El Cronista",
-"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdnJSMlZwbGw5aXAwNTlQNlRkSTdqU0lYaHNWTVJqc2x5bFI2TjNoWllGV19qS2tIc0c4UE56elllcXNjaHRWeGUyR240aUlSY3JHaElMN1Roa1JaTU5WU253U0JpNjliYW1LY1NDa2VmS2ViMlZXMDhFTnB1MEZIZUcxaTE2cDNXWnQ5ZjlsN1F4elZoc1drVFdCa1hCUUo5dk9VdUxDR2p5dG1DZUhlWmVLQnZlMFpFQjZ5ZGtkUW16MU5FM1haWFhNOGJmS2lPN2ZCNlVSSkJTSWRnMVBFUTM4SHA4b2pUdzdPWkdfT0llcGt6ZWd2NW9scTJ5ZWRPVS1wTHhQRnVfQdIBpAJBVV95cUxNTGJMT0VpS2RzOEdqWlNhd3ZSQThFNy1haWtDMURzaFN6R1hubkYwWW5lT2Y0WEF0OWlWQ0VES012M1dQcUlPeWVTQWpiSk9fZzZtQ201MWR4MEV5cTZ4LWdPejJBYjY3eTZxRFhsd0JrRVoxelVFOGZZMUZWdml0OWJWMlFWUGFrWV9TR2NXcV9Rcmw2VHRhRlJrZUxZcXEwN3hKRUwzQzB5Mkstbnk2dVFHN1A1aHJoSVVJSkVQVkVuNFkwb1hscTlBTjhjOHZHbFVfWTlhTVd1dnZIZVVWaXZFOWhqX3hjUy12bXVic0lkdlp1VGprOGtSVGNaVldlOWlmWG83M2ZsbVhORzNTMk52bzVGZkp6SzFmYXNCdmdJT2Nu?oc=5",
-"d": "2026-10-20T19:03:59Z",
-"o": 3,
-"c": 1
+"t": "Burocratismo, lentitud e incertidumbre atoran contratos mixtos en Pemex; ahuyentan inversión privada",
+"s": "La Crónica de Hoy",
+"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3lrRFNYSTVnOWRleFE2VlFrZXFwVjNKa0dkcDFJUkFORFBvV2ZRc0Nxc0JCckVoYUFFTnh6U1ZSLVFMZlM0MDF3WU12OVVRSl9uXzlONnlyblplMkZDbVQ5M3BsMG5odzFXQWFiNEpZNG1nUXJUY1FsWDRuYkczUWthQXhiRzlCbWpZSk1Ha0JRN3lyZG5CcjdGb08xX0x2TmF5RW1CRU92Z0ZvZnBUZVoxNDk1OFB2UnlkSk5BYW16TnlzZHloSmZKbDltT3kxWnZlaVA2U244UnB0cUpJ?oc=5",
+"d": "2026-10-21T02:45:00Z",
+"o": 6
 },
 {
 "t": "Licitación de espectro industrial: cuándo cierra la convocatoria y qué deben acreditar las empresas",
@@ -612,6 +605,21 @@
 "nombre": "Bajío",
 "items": [
 {
+"t": "Camión de personal choca contra caseta en parque industrial",
+"s": "Quadratin Querétaro",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9vaWpJQURIcl9QS0liN1pSeF9acklELUxOdmtzS3BHazFzU0Z6U1BtaVhobzM1MDBnVVdabHJUakphblh4c3A2MWZWQzBuQWJQNVJteXZYN09NQlNiYzdWVzI2RjZNc04ybDlwcFZjUGN5X0JfQUtoUFQzSUR0bWhUcTNCMVhIQnR4bXlJUFlXbVUzSUZ2eDVJUQ?oc=5",
+"d": "2026-10-20T22:30:00Z",
+"o": 4
+},
+{
+"t": "ZF Group invierte 110.8 mdp en Querétaro para sistemas de dirección automotriz",
+"s": "Petróleo y Energía",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3dUUS02WnN6bkVXaDdpRVJEcnlCU2l6Wm5FUmVNdEhUbHpKNnUzcEluRHhIcGN2SFYzU25HdjByQVdBYWl4Z1hzelZtSnRQd2JmaGtlQmR4em5GSjdqd0xaejU5ZjZ2N1ZYZWJXYXcxSFFvVlpfZkNsRS1pZU5Cc2lnXy1xeG5Gekx1THhWaE5tU2pXVWRic3lfQjdFbzU1clNFeThtZGtLenRMRnZjU2RnTE9NSEM4SWppWg?oc=5",
+"d": "2026-10-19T23:39:19Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Rifel Querétaro: segunda planta y 100 mdd en Colón",
 "s": "Alternativo.MX",
 "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFSi1BcFAxenNHbHNIOFlzSVZTcFhFb1dIQVlNeTNUeldqeThRdmxKU2N6c0JEUENfdnlDaFhBWEF4RUpjem51b09wRnhWY1dWS1JHX3VYQjhrd1FVbXhiVmhiOUY5QVVCOEFGWg?oc=5",
@@ -679,6 +687,14 @@
 "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzFlY0lMLWJwemJuUFVNRUVwdmZTY2lQWHRST1hHMkpOOTlTTjVfV3Fra19Yc21sRlRiRHE5SXZnZDNFNTlyTGpLYkZIQnBzTXVydkxRblctaVQwcTRvWWVReXdUMk9FNXpkcnMzY1dNYnZ6b3VSdWtSV3dWTC1ISnFDVEhEOVZRRHpKOUNySnVkZlNFVDhzN0pRSGl0bWs3RHBCalZKVWVQX29PVDkxNTFReXpkTFlBWllZT3dGRmg?oc=5",
 "d": "2026-10-13T14:30:00Z",
 "o": 3,
+"c": 1
+},
+{
+"t": "Av. Cañada 45, Parque Industrial el Marqués, El Marqués, Querétaro, El Marques, Coahuila 76246",
+"s": "Realtor.com",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXk2SUdVTk9kTkcta0U1eHBpSVA3ak1pTFNuYW1rNFdWYm5TdDNSM1RXeDNCZ1AtQVNZd0VvbEN2RlEwcmwtYkhXRm9EbWFxUEtlSUN6RkVvUTNfZk1UUzlhaTZvdnRKdm9nRlQ3T0JrRFJBNm5pLUxSTkd0Uy1nX1pWbW1YUFZPMHV6TUI5OG5lVGFFSTM1YlpremM1eWI0bEdtZF81MkVUUUdyWmNhMzJVRDlDZUkwdE40WllGb052aDZnR3hCQ3dlMmQ2TGIyQkd3?oc=5",
+"d": "2026-10-13T07:00:00Z",
+"o": 4,
 "c": 1
 },
 {
