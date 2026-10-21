@@ -1,15 +1,15 @@
 {
-"actualizado": "2026-10-21T04:43:54Z",
+"actualizado": "2026-10-21T11:46:19Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
 {
-"t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera - El Sol de Hermosillo",
+"t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObndkelBrSFlsTVVGbnMtb3BEc29jQmFBTlpTdnhMdVFOZEt2NS1mcGJVdkVVRzQtQ2ZxeTRRMTJXSTlwQ3N5ZlpZVGE5MzNDSm5wTVMtTGlOMkFLMXNfUjNXMXMzOEwwX2pFQ3BZM2cxTHgzOC1XOUE0clNPUEVGLXBCRjZ1XzZqZWFCZzBCd1lHb3Ntb0QtT3NhVXVoMl9ocldnUVJYN0dKMmh4Q1NacFQxcDBQX0VkaUN3MDdZUXI0b1ViZzJGNGZRdTQ?oc=5",
-"d": "2026-10-21T00:49:44Z",
+"d": "2026-10-21T05:52:12Z",
 "o": 3
 },
 {
@@ -41,13 +41,6 @@
 "o": 3
 },
 {
-"t": "Mineras de tierras raras respaldan anuncio de Trump sobre exploración minera en Groenlandia",
-"s": "Revista Digital Minera REDIMIN",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHZBOWg5Z1JaRmM5U0ZnQXUtclZvcXZCblI3bFNqSHJrak4wcFBNbDdqUUswQVBqUnBZT2dzT1Y3WWtlbWN3dWZwdWxoTm0weTlkQlZDMjZOMHJWRkI2MzBCNkVwUVNnZG9LY0N4Yld1enA4NEZJeENtOEpLbHo3S0N1d3ZNTXE4NmRFWWVtcl8zMG5EcVhSd3pqMW15ZGoyRGF4cXBtSmR6S25sakN1VGtBdWc?oc=5",
-"d": "2026-10-15T19:54:39Z",
-"o": 3
-},
-{
 "t": "Nuevo proyecto minero genera preocupación en Umán",
 "s": "Ahora Tabasco Noticias",
 "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORGZzMVIzNjNYUzRydzZ3bUhIZ1p1UHBkYmE4XzNQSFR2bnlDSnJYREpKWFExNDhFMWw1TmVTNDJ6VlBNOGVha2V5V0RETG5MdDFFeGt6UlVNWEJSeWJLOU9fUWhCa3g0MnlYM1JuR0ZWOHNtUDNUSVM2MDlic1FtWA?oc=5",
@@ -60,13 +53,6 @@
 "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFVXy1QQkJzU1h3Z0c4b1Y1YUhYbzZOVk1WUllnQVJaUllYQ3JGNllWeXBiWHhGNmJBZW9ObmVpRDE1Z3UyMWJHNUVHdnFFb2l5YzJuQ1FRN19KSDhBZzRqQ29QQk4wU0taZDlGazJjYlY3c0xIaTBQQ0JiWDRpSnlvTWRya3JNTnBNOVlqa1h3VEFBLTVZWVhzeTZ1anNPcEFDVWtlQmRaODQtdkVNcG81aWpJQmg2MTN5WWdxWnhvRXM?oc=5",
 "d": "2026-10-14T17:24:16Z",
 "o": 3
-},
-{
-"t": "La nueva mina de oro de la FIFA ya no está en la televisión",
-"s": "Elplural.com",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHVJQmt6N2pqMXBxNmpvRU1uM2JaQlNpaV9peW4tcmY0YVlJRlowZWpUSnNjNHNqdDBfYkZ0TFRrbElNcDR6ZjZTRFRCcFZqVlZGTnF1RTZuR19EUUNnd3Q0VEFEeWIxcFNHOWdVN3N6a0Jwa19ncy1lSG5xckF4UFk5WFU2TWRYWkc00gGQAUFVX3lxTE5PYTF3elBwYlFqY05VZnV4SkhwZ3RFRzFnby1TRWVXT3ppQkpFQnRUTWhlRWN3WmRRekRQcWlOUWR3YW9BR2gtMG1fXzRkXzRUN0JjNDhPdlpsMjRFSXVsTThndHItYUxOeWF4WHQwTFAyYVRMVG9yQUJOUkJYMG9ydVlIbjVUNGEzRmphbjI5UA?oc=5",
-"d": "2026-10-14T04:00:00Z",
-"o": 5
 },
 {
 "t": "Nueva exploración minera en Jiménez abriría posibilidades de empleos y desarrollo económico en la región",
@@ -103,6 +89,13 @@
 "id": "plantas",
 "nombre": "Inversiones industriales",
 "items": [
+{
+"t": "Camión de personal choca contra caseta en parque industrial",
+"s": "Quadratin Querétaro",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9vaWpJQURIcl9QS0liN1pSeF9acklELUxOdmtzS3BHazFzU0Z6U1BtaVhobzM1MDBnVVdabHJUakphblh4c3A2MWZWQzBuQWJQNVJteXZYN09NQlNiYzdWVzI2RjZNc04ybDlwcFZjUGN5X0JfQUtoUFQzSUR0bWhUcTNCMVhIQnR4bXlJUFlXbVUzSUZ2eDVJUQ?oc=5",
+"d": "2026-10-20T22:30:00Z",
+"o": 4
+},
 {
 "t": "Mazatlán podría tener una nueva planta de gas natural",
 "s": "Energy21",
@@ -279,7 +272,7 @@
 "t": "Desalojan Parque Industrial Futura en Monclova; dejan maquinaria adentro",
 "s": "vanguardia.com.mx",
 "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFlQNXNBNTZuWTFVS2FudkN0ZGd6NjZ6Q3lTbzBpeDkzRW95M3lHc3ZWalFHM3c4SEc2aFFmVlB0UGtMeE9XcjB5WjZFellMTXdHYVZaSDRna0JTbUZCSFAtVi1PMng2d3c3YV9NV0VtSjlrMmdwa2hJQUpocTdkWTdkdGVBejlCOV9NSy1FUm51SGNSWmNDcHhkdlliNEFSM2daeVBkaXI3bWZ0RWdzUzBlcGw5VkhjSE5EelBVeFlzbmtz?oc=5",
-"d": "2026-10-10T17:13:00Z",
+"d": "2026-10-10T07:00:00Z",
 "o": 5
 },
 {
@@ -310,13 +303,6 @@
 "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVBtNEtkUFR1Zzh4WkhjUXAwV29CZU9DZEFaYS1HWG5YWTc5V3I4bEw1c0tiVzNaVkNCank2ZTlhRHRxNjRqMEMwel9lYVY2bGtVRDVTb3d3Uy01bWd4MlJCLWFIQldJVmxqelU2RUlJTC1iUk9RQV9VclBQUUt5S0h4S1pHeWNsOTVUNE9Nd1RKYm1EVUhXVGJLU3M2NkNFVnNCVVQ3OGYyTDRjZWVFaEh2RUp2R3FGSmtMcnlyU0hqNkEwclVYa2FxSkNTVXVnZExJ?oc=5",
 "d": "2026-10-05T07:00:00Z",
 "o": 6
-},
-{
-"t": "Retrasan permisos inversión industrial",
-"s": "El Norte",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Mk9BWHZ4UElXQlpfWk16bHAzblVOVUFtT3A5VWs5S1dpWFFvcjZZNl96Q2RtVVJGa0JlRlI5VDNrckswS2hXRnE5ZUI4dndVWGNwQW1hRHVVV2tXWW04bjBYYXRNUk0tM0U1OG1nUm80U1BRb1dZZ1pBOA?oc=5",
-"d": "2026-10-04T23:06:48Z",
-"o": 5
 }
 ]
 },
@@ -436,6 +422,14 @@
 "o": 6
 },
 {
+"t": "Se preparan las obras para los tramos II y III del tren de pasajeros Querétaro-Saltillo: empresas buscan participar en la licitación",
+"s": "El Cronista",
+"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdnJSMlZwbGw5aXAwNTlQNlRkSTdqU0lYaHNWTVJqc2x5bFI2TjNoWllGV19qS2tIc0c4UE56elllcXNjaHRWeGUyR240aUlSY3JHaElMN1Roa1JaTU5WU253U0JpNjliYW1LY1NDa2VmS2ViMlZXMDhFTnB1MEZIZUcxaTE2cDNXWnQ5ZjlsN1F4elZoc1drVFdCa1hCUUo5dk9VdUxDR2p5dG1DZUhlWmVLQnZlMFpFQjZ5ZGtkUW16MU5FM1haWFhNOGJmS2lPN2ZCNlVSSkJTSWRnMVBFUTM4SHA4b2pUdzdPWkdfT0llcGt6ZWd2NW9scTJ5ZWRPVS1wTHhQRnVfQdIBpAJBVV95cUxNTGJMT0VpS2RzOEdqWlNhd3ZSQThFNy1haWtDMURzaFN6R1hubkYwWW5lT2Y0WEF0OWlWQ0VES012M1dQcUlPeWVTQWpiSk9fZzZtQ201MWR4MEV5cTZ4LWdPejJBYjY3eTZxRFhsd0JrRVoxelVFOGZZMUZWdml0OWJWMlFWUGFrWV9TR2NXcV9Rcmw2VHRhRlJrZUxZcXEwN3hKRUwzQzB5Mkstbnk2dVFHN1A1aHJoSVVJSkVQVkVuNFkwb1hscTlBTjhjOHZHbFVfWTlhTVd1dnZIZVVWaXZFOWhqX3hjUy12bXVic0lkdlp1VGprOGtSVGNaVldlOWlmWG83M2ZsbVhORzNTMk52bzVGZkp6SzFmYXNCdmdJT2Nu?oc=5",
+"d": "2026-10-20T19:03:59Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Licitación de espectro industrial: cuándo cierra la convocatoria y qué deben acreditar las empresas",
 "s": "Industry & Energy Magazine",
 "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUVDVlRQeE5FRDM4M2pOWWFSVUVsX3o1ZW5JMERvREtSTHp1dlh4bHZvSUpMUDFHVVpzdnEteVdDWV9GX1Y4NEFvQ2g4SXh0V0dHTC15cHVrQUZNV0NWeHUxcFE2TjV2bmZIeDh4UFpWMVY2M1pnZ01CbmIwaUNSQ3BvVnExQTFUMERRWUxMLXBYQ3pwOEt5M0FPdFVMN2o4UGhpSXdKaklwUmVvSE5aSTVQMUhLX2JVWmx3OFBLaXJXcUUyVjFvYlNYRkFPZw?oc=5",
@@ -463,13 +457,6 @@
 "d": "2026-10-17T07:00:00Z",
 "o": 3,
 "c": 1
-},
-{
-"t": "Aprobará CFE proyectos de energía renovable por 12,500 mdd",
-"s": "El Norte",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGRSOGN4d0ZYUG9INHlpUVk1OWw0Q0otMW5ITDNLWXNyT1UycktoZHYxalVfbXpLWDhuci0wUkN3ZUN5WUlCMy1HclpFSzlNblNyYXdnQ0lMemNWTHBOUWo3ZkZtLW05YXNOQUFva1MyeERCd0J2S1YwLUtvMUFCTUR6UC04RmZVZkJaekNhUHc1MWxmMWNXQVg1QQ?oc=5",
-"d": "2026-10-17T02:12:24Z",
-"o": 4
 },
 {
 "t": "Mexicana CFE tiene 17 proyectos de red en preinversión y cuatro en licitación",
@@ -505,6 +492,13 @@
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV21xc2xQQm1OZVNOQVFPQk43RXlTWGNveUpHR3d1LVBQNzhKa1M4NUgzUktpV2NWQnN0RlpHb3p3Y1RPQjBXNHAyX0VCeTYwY2FhcUd5T205OEhCTm5KNWpEWC1kcFFjMlluQ1Zjb3VCclNRRXFpdjhVamZrTE9GTVhUSkozNm5CSUEzVHlKRWI3RDc5S0VGX3ZPR21lZ0Z3eFpVSG1ZQ0NpSE5qSEc0OHdNNTFPUWNHdzJiNUNtaWNTMlNMbkloeTFZR1Z4N1Nx0gHWAUFVX3lxTE03LXVsUmRQVGQwNGl1cjlpenpnV1A2enJsNm4xME9WMW9oLTVENl80TzF2cHhSNF9WZ3R4Qnd2S2p6SVltUTduSVNoT1hLN1hDMHFlTmtTOW02VTdnX1A0dVItbGU2ZXQtZWQxU3pyZjhaeUhtY3VHd0pqNWpyZnFMd1Y5N3E0eXNpb05QM1c5eHMtZ1V6OVExdy1TdXNUZGUtemlFYU05RTJfcm9vN0VlUDJYUzdLLTg1NzZvbjFHYVdicFM4NU9YSnJUdU9VYktmZG5pSHc?oc=5",
 "d": "2026-10-05T07:00:00Z",
 "o": 3
+},
+{
+"t": "Por qué México enfrenta un dilema de inversión energética",
+"s": "BNamericas",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUxtWnpnQy1lYzludGJBaExKZENYUWlHUmFIM3NJWkhEWjZGUlM3akpDU2NxSUd4NVcySy1XYWRYSVF3bElYbnI4TFhPY3RKQTBpS0FRVm1WU1NWRl9pLXpSdVc3QWxPMFJlU0NlM0lHbklwaVA3d1VORDlnUlZxZkRaSWFqYlRLNE9fUFd5S3N0cm1DdVQzaUFmN2o?oc=5",
+"d": "2026-10-05T07:00:00Z",
+"o": 3
 }
 ]
 },
@@ -512,6 +506,13 @@
 "id": "jugadores",
 "nombre": "Empresas del sector",
 "items": [
+{
+"t": "Grupo México obtiene resultados positivos en el trimestre, busca continuidad en su cartera de inversiones",
+"s": "Milenio",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmF3ZF9taFhpQS1yNUJFUkhCOGZDc0Y1REw2QUcxdEZfNUYtWGQ1czlMcnBCV0QtWGxYZk9hQm5HRlhSQmoyNkp1aVhIYVBseEpycUkxOGlUQTFvS09xbUt3aFFDS2pVaXctdlE1RGp6anp4ZlMyZ296MnQ4OEV2LVZZR0ZKSmgtaFNMZk1JNUtiSk5vT29XNWFB0gGaAUFVX3lxTFBSYXdkX21oWGlBLXI1QkVSSEI4ZkNzRjVETDZBRzF0Rl81Ri1YZDVzOUxycEJXRC1YbFhmT2FCbkdGWFJCajI2SnVpWEhhUGx4SnJxSTE4aVRBMW9LT3FtS3doUUNLalVpdy12UTVEanpqenhmUzJnb3oydDg4RXYtVllHRkpKaC1oU0xmTUk1S2JKTm9Pb1c1YUE?oc=5",
+"d": "2026-10-21T05:04:44Z",
+"o": 3
+},
 {
 "t": "Regresan las minas de Aznalcóllar: Qué grupos están detrás de su reapertura tres décadas después del desastre ecológico",
 "s": "El Cierre Digital",
@@ -682,14 +683,6 @@
 "c": 1
 },
 {
-"t": "Querétaro podría ampliar sus oportunidades industriales con nueva estrategia México-Asia",
-"s": "MexicoIndustry",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzFlY0lMLWJwemJuUFVNRUVwdmZTY2lQWHRST1hHMkpOOTlTTjVfV3Fra19Yc21sRlRiRHE5SXZnZDNFNTlyTGpLYkZIQnBzTXVydkxRblctaVQwcTRvWWVReXdUMk9FNXpkcnMzY1dNYnZ6b3VSdWtSV3dWTC1ISnFDVEhEOVZRRHpKOUNySnVkZlNFVDhzN0pRSGl0bWs3RHBCalZKVWVQX29PVDkxNTFReXpkTFlBWllZT3dGRmg?oc=5",
-"d": "2026-10-13T14:30:00Z",
-"o": 3,
-"c": 1
-},
-{
 "t": "Av. Cañada 45, Parque Industrial el Marqués, El Marqués, Querétaro, El Marques, Coahuila 76246",
 "s": "Realtor.com",
 "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXk2SUdVTk9kTkcta0U1eHBpSVA3ak1pTFNuYW1rNFdWYm5TdDNSM1RXeDNCZ1AtQVNZd0VvbEN2RlEwcmwtYkhXRm9EbWFxUEtlSUN6RkVvUTNfZk1UUzlhaTZvdnRKdm9nRlQ3T0JrRFJBNm5pLUxSTkd0Uy1nX1pWbW1YUFZPMHV6TUI5OG5lVGFFSTM1YlpremM1eWI0bEdtZF81MkVUUUdyWmNhMzJVRDlDZUkwdE40WllGb052aDZnR3hCQ3dlMmQ2TGIyQkd3?oc=5",
@@ -791,18 +784,18 @@
 "c": 1
 },
 {
-"t": "Honda de México alcanza los 2 millones de vehículos producidos en su planta de Celaya",
-"s": "MexicoIndustry",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVExQYnV6TXlhU1ZKREVTVWFnVURKUnpCVVBtYjZ4dXpDdlEwdW5JaElRZnFIMXZEYXI2REQ0N1pyNXVmYlRUOWFKeWpGTDZ6MVYwcWpxazR5Z240R1N3MHVYNzF3dm5Wc0U0VkUwdFVOTEwxVkZLdWdiclduM0JNR3FkNTZrVEsyOUt4T3NpdmtFM0FZZHY1WW94cm02d0hjUU1YaldQVGdtYXlWekJDSjVBZlNiMGVHdXVjRQ?oc=5",
-"d": "2026-09-30T17:30:00Z",
+"t": "Honda alcanza 2 millones de vehículos producidos en su planta de Celaya",
+"s": "Tu Interfaz de Negocios",
+"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzM0ZTZEaG9RejFNXzVYa1IxVXVTbVlSMUZKYjQtb3JqU0gweUxOaVE5MW1HcXBJNGNDMjd3U3dPNFEtN0MwNGxxNmh5RFo2LWNXcXdoVEtkSU9QcExkQmhEd0NiSURMRU14RXZNTlR2TzM0RlNGLW1fT2NROTBya3ltWXJ0SmNWa242cjZlX3JrSUJlY09MYmY2dWxxR21qVVVySy1CYVhkWlctdndRNEJn?oc=5",
+"d": "2026-09-30T19:53:28Z",
 "o": 3,
 "c": 1
 },
 {
-"t": "Honda alcanza 2 millones de vehículos producidos en su planta de Celaya",
-"s": "Tu Interfaz de Negocios",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUlzdGRodzlKaTFQeHpsaHgtMXRBOFNLTy14MFZyX2ptdE40VHh6Q1d6Vjg4LVBJTnF2Q1k5Mk8yck9ZeDNycjRVeU9zMVpyMmVyb2MxUWZLcWUyTmstOUxwYU52VEIwSmU5NXdDVzFyR0I0R242QzJ3VWhTdzl4QjhkeVkzMndKR2RpcWhWYmd5S1MybmhKNEtpYVpDS1hCTlpXaHFZV0w0QTV3UHpaUXBB?oc=5",
-"d": "2026-09-30T07:00:00Z",
+"t": "Honda de México alcanza los 2 millones de vehículos producidos en su planta de Celaya",
+"s": "MexicoIndustry",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVExQYnV6TXlhU1ZKREVTVWFnVURKUnpCVVBtYjZ4dXpDdlEwdW5JaElRZnFIMXZEYXI2REQ0N1pyNXVmYlRUOWFKeWpGTDZ6MVYwcWpxazR5Z240R1N3MHVYNzF3dm5Wc0U0VkUwdFVOTEwxVkZLdWdiclduM0JNR3FkNTZrVEsyOUt4T3NpdmtFM0FZZHY1WW94cm02d0hjUU1YaldQVGdtYXlWekJDSjVBZlNiMGVHdXVjRQ?oc=5",
+"d": "2026-09-30T17:30:00Z",
 "o": 3,
 "c": 1
 }
