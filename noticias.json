@@ -1,10 +1,17 @@
 {
-"actualizado": "2026-10-21T11:46:19Z",
+"actualizado": "2026-10-21T17:10:11Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "México: Silver Tiger avanza en construcción de El Tigre con inversión de US$124 millones y proyecta producir oro y plata en 2027",
+"s": "Revista Digital Minera REDIMIN",
+"u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXhJQk5GNlcyS182SGplRjdJRHF4Z0hidFgyTzhhS1V5UFNaT0dVTjJJWDFGZmZiLWhCUjhSMDdhWXJzYTc0WXFJeDdBT0dIYVZsaG9GdlVqNWJINzlLU2VlbnVwSF9iaTZtNzZKTHV6dVM0dFVZQTFybHVaYW1fQlBKbzlJQW1oZF90bTllOGZnWmRjZHBNcExSenhWT0dCU0JmVDI1dU9PaVBHOGdkX3p2R19VZjBrQVNmUjB3OHBDaFUxNVhnUzE3T3hmQlYwbDNWWHFnLWl6WkQwNmoxNHRJWUY?oc=5",
+"d": "2026-10-21T12:58:31Z",
+"o": 6
+},
 {
 "t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera",
 "s": "El Sol de México",
@@ -24,6 +31,13 @@
 "s": "Diario Financiero",
 "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnBpYkY4QnJxT2h6R3VHdlZaN0Q3TTBfQXFTNVR0WVBCUi1XdV9RbzlpS2hBcnN3M2R4YjMwSDBsb0xCREVCUzY1Y3gtd3VIWlpWaXdmUThDaG5VZG9Kd3lfTkNPUG9yd0hwRWFXR1lkQ0szdm5fVVN0LUJOb0YwX3cyNVhzMDhYTE4tbEtFUVZ2SGI2cnQ1UW9MaG1nNWJkQnc?oc=5",
 "d": "2026-10-16T22:00:00Z",
+"o": 3
+},
+{
+"t": "Frena Groenlandia exploración minera en aguas profundas",
+"s": "Reforma",
+"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXNIZDVIMXNsV3VSVXlKVFhWOUl3d3Y1ZWVqQTZOSHRQREg4amJNUnpOX2VjVjlxbG5LNlRUVkdNb1FfZE1MTTd2RnpRMG1LRlJVa1B4dzE1MGt2T3M3S19yVlpjelIyQ3JkdmdjS01VT2V5aGdJQmFGbnk4Ymd1Vi1td2pfTzJsaTBEUnBjYmJDd1U?oc=5",
+"d": "2026-10-16T01:15:59Z",
 "o": 3
 },
 {
@@ -381,13 +395,6 @@
 "o": 4
 },
 {
-"t": "Rescate de AHMSA requiere 3 mil mdd y 15 años; ‘el gobierno debe intervenir’: Napoleón Gómez Urrutia",
-"s": "El Financiero",
-"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONXVMUjF6bnJsZE9HbXh4YVFHRnIzR3F3TE1UWHY2R2tIYmZ2SGtiTU5PM2l6YWRsYTVIbWZyaS14N0lpWW9PcV90VmNhU1o0ajluVEl6cm5kbUw3TXFBSzI5cEtscnNpQWg4bVl5d2t3OUxRamRTeDhZZVZlTHY0ek14OWZZVVR5NVR6TEo4Y29zLWx0NmVUTmwzZWZLS193X2J1dXNacEF5aF9udUQxMUNpM3B1UTdwY0stSWRTZzFXVFlTUnVTb2hITVVjbnZjWE91THlQbG95d3M3MmUxeWJOcw?oc=5",
-"d": "2026-10-12T20:42:20Z",
-"o": 3
-},
-{
 "t": "México acelera inversión para asegurar soberanía energética",
 "s": "La Chispa",
 "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQXRVYnlid1YxR2VuY05IUmpuUC1XLVBycmYtUk1Kc1VJRS1meVN3RTBDcGpubHRSaHB0QkxZQngwdVNfSHhaajRuUGRKWVJDdFczeXUwc244YlQtbHhFWXpoenBUODNaVmxEVldISzNMaVZ4TGdhb3RpTG92UGluWkFUUkNJU2c?oc=5",
@@ -415,6 +422,13 @@
 "nombre": "Licitaciones",
 "items": [
 {
+"t": "Privatización del Belgrano Cargas: se bajó de la licitación el Grupo México, que prometía US$ 3.000 millones de inversiones",
+"s": "Clarin.com",
+"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGVKR2ZKMVl0STV4eEJwUmxxNW9TTW9xLUdIelppWDV2c3ltNjlMWDdGTXU5c2EteHJVTFM1Qm9TVGVWa2VGQXRrOWdKWjRUSjllNWpUUkZxR2Z5cWoxSEY2QW9lUkw3SFNuVzVPVDl0NWFyMkdaTFZiT1RPdlFya3F4UXlXYzhBUkROd1VDTGxwS1N5Q21kcXVWQUJ5Nmlfa3dURVBnYlRualQtREI2UmlsOV9aZHBLVXNMU0ExakFwZjhLWTdGbWxzVElzTHF3T29fMDJB?oc=5",
+"d": "2026-10-21T14:22:24Z",
+"o": 6
+},
+{
 "t": "Burocratismo, lentitud e incertidumbre atoran contratos mixtos en Pemex; ahuyentan inversión privada",
 "s": "La Crónica de Hoy",
 "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3lrRFNYSTVnOWRleFE2VlFrZXFwVjNKa0dkcDFJUkFORFBvV2ZRc0Nxc0JCckVoYUFFTnh6U1ZSLVFMZlM0MDF3WU12OVVRSl9uXzlONnlyblplMkZDbVQ5M3BsMG5odzFXQWFiNEpZNG1nUXJUY1FsWDRuYkczUWthQXhiRzlCbWpZSk1Ha0JRN3lyZG5CcjdGb08xX0x2TmF5RW1CRU92Z0ZvZnBUZVoxNDk1OFB2UnlkSk5BYW16TnlzZHloSmZKbDltT3kxWnZlaVA2U244UnB0cUpJ?oc=5",
@@ -422,25 +436,10 @@
 "o": 6
 },
 {
-"t": "Se preparan las obras para los tramos II y III del tren de pasajeros Querétaro-Saltillo: empresas buscan participar en la licitación",
-"s": "El Cronista",
-"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdnJSMlZwbGw5aXAwNTlQNlRkSTdqU0lYaHNWTVJqc2x5bFI2TjNoWllGV19qS2tIc0c4UE56elllcXNjaHRWeGUyR240aUlSY3JHaElMN1Roa1JaTU5WU253U0JpNjliYW1LY1NDa2VmS2ViMlZXMDhFTnB1MEZIZUcxaTE2cDNXWnQ5ZjlsN1F4elZoc1drVFdCa1hCUUo5dk9VdUxDR2p5dG1DZUhlWmVLQnZlMFpFQjZ5ZGtkUW16MU5FM1haWFhNOGJmS2lPN2ZCNlVSSkJTSWRnMVBFUTM4SHA4b2pUdzdPWkdfT0llcGt6ZWd2NW9scTJ5ZWRPVS1wTHhQRnVfQdIBpAJBVV95cUxNTGJMT0VpS2RzOEdqWlNhd3ZSQThFNy1haWtDMURzaFN6R1hubkYwWW5lT2Y0WEF0OWlWQ0VES012M1dQcUlPeWVTQWpiSk9fZzZtQ201MWR4MEV5cTZ4LWdPejJBYjY3eTZxRFhsd0JrRVoxelVFOGZZMUZWdml0OWJWMlFWUGFrWV9TR2NXcV9Rcmw2VHRhRlJrZUxZcXEwN3hKRUwzQzB5Mkstbnk2dVFHN1A1aHJoSVVJSkVQVkVuNFkwb1hscTlBTjhjOHZHbFVfWTlhTVd1dnZIZVVWaXZFOWhqX3hjUy12bXVic0lkdlp1VGprOGtSVGNaVldlOWlmWG83M2ZsbVhORzNTMk52bzVGZkp6SzFmYXNCdmdJT2Nu?oc=5",
-"d": "2026-10-20T19:03:59Z",
-"o": 3,
-"c": 1
-},
-{
 "t": "Licitación de espectro industrial: cuándo cierra la convocatoria y qué deben acreditar las empresas",
 "s": "Industry & Energy Magazine",
 "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUVDVlRQeE5FRDM4M2pOWWFSVUVsX3o1ZW5JMERvREtSTHp1dlh4bHZvSUpMUDFHVVpzdnEteVdDWV9GX1Y4NEFvQ2g4SXh0V0dHTC15cHVrQUZNV0NWeHUxcFE2TjV2bmZIeDh4UFpWMVY2M1pnZ01CbmIwaUNSQ3BvVnExQTFUMERRWUxMLXBYQ3pwOEt5M0FPdFVMN2o4UGhpSXdKaklwUmVvSE5aSTVQMUhLX2JVWmx3OFBLaXJXcUUyVjFvYlNYRkFPZw?oc=5",
 "d": "2026-10-19T19:55:23Z",
-"o": 3
-},
-{
-"t": "Del 35% al 40%: México busca más contenido nacional en inversiones energéticas por 152 mil mdd",
-"s": "Industry & Energy Magazine",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEM2STUtQ0I5eGduRTdnN2RYYnZiSVNlMjZVWHc1MTVwc1lueDR6eGR3M3htN3g3ZjVCaFhwSUlLZEJPZnc2bDRVdzRUSERPdnA3MktRci1hLTNUeWUzZHlvbmVEQWZYb1YxTi1aZ1pseTFUcGJ0VVZoU0FUaGZjc3lUTEd0VkdlWnRqNGFxc1RzeEJxNjFIOXZoV3Q0ZWREdzZJdEY1Q0NZRlpaQ1E0RVFIdnY1bmFOem1xa21OZF85WnIt?oc=5",
-"d": "2026-10-19T17:36:23Z",
 "o": 3
 },
 {
@@ -490,13 +489,6 @@
 "t": "CRT alista licitación de 40 MHz para el 5G industrial y abre la puerta al capital extranjero",
 "s": "El Economista",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV21xc2xQQm1OZVNOQVFPQk43RXlTWGNveUpHR3d1LVBQNzhKa1M4NUgzUktpV2NWQnN0RlpHb3p3Y1RPQjBXNHAyX0VCeTYwY2FhcUd5T205OEhCTm5KNWpEWC1kcFFjMlluQ1Zjb3VCclNRRXFpdjhVamZrTE9GTVhUSkozNm5CSUEzVHlKRWI3RDc5S0VGX3ZPR21lZ0Z3eFpVSG1ZQ0NpSE5qSEc0OHdNNTFPUWNHdzJiNUNtaWNTMlNMbkloeTFZR1Z4N1Nx0gHWAUFVX3lxTE03LXVsUmRQVGQwNGl1cjlpenpnV1A2enJsNm4xME9WMW9oLTVENl80TzF2cHhSNF9WZ3R4Qnd2S2p6SVltUTduSVNoT1hLN1hDMHFlTmtTOW02VTdnX1A0dVItbGU2ZXQtZWQxU3pyZjhaeUhtY3VHd0pqNWpyZnFMd1Y5N3E0eXNpb05QM1c5eHMtZ1V6OVExdy1TdXNUZGUtemlFYU05RTJfcm9vN0VlUDJYUzdLLTg1NzZvbjFHYVdicFM4NU9YSnJUdU9VYktmZG5pSHc?oc=5",
-"d": "2026-10-05T07:00:00Z",
-"o": 3
-},
-{
-"t": "Por qué México enfrenta un dilema de inversión energética",
-"s": "BNamericas",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUxtWnpnQy1lYzludGJBaExKZENYUWlHUmFIM3NJWkhEWjZGUlM3akpDU2NxSUd4NVcySy1XYWRYSVF3bElYbnI4TFhPY3RKQTBpS0FRVm1WU1NWRl9pLXpSdVc3QWxPMFJlU0NlM0lHbklwaVA3d1VORDlnUlZxZkRaSWFqYlRLNE9fUFd5S3N0cm1DdVQzaUFmN2o?oc=5",
 "d": "2026-10-05T07:00:00Z",
 "o": 3
 }
@@ -591,13 +583,6 @@
 "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejRERTNYRXJ1bGxINGktbV9aelQ5X2NFQjNUcVpfQ1BSN2NWSWotTWlUSzJtTEdsOVVfa0I4ZXF4aHRaQkZ0V2hmTE43R3BGS0V1cU1LZ21YbldwX21qYjl5WnZkQUNTNE51T0VwUWZJbzNZMXhYZUNTR3JDZTRldHQ1RDQ1Zl9ETmNXRkpacVRNU2UtZmVYNnRnMzk2UQ?oc=5",
 "d": "2026-10-05T23:24:21Z",
 "o": 2
-},
-{
-"t": "En Arizona, Grupo México pone en marcha camiones de acarreo autónomos",
-"s": "ExtraConfidencial",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWkxNEZZS1dUS1hlR1ZadjJrM1JsWWVlMmV0Unc5cXNpSUkxdUZlTllHVVdvUE8ta2cyZm5BU3ptMld4TUxSWVpyMURibG1HSEFtdk9MWHM4VEVONUhxZE1VQ1Q5dHp6OEVVUVlvYjdidm5DMi1VNWtra1FOb1E4M1NIZnBGMHRDVlFQSlJNOEFpend6VWgtbk1YeTFrYnAzbC1LbDZwdXI2STVE?oc=5",
-"d": "2026-09-30T15:09:03Z",
-"o": 3
 }
 ]
 },
@@ -649,6 +634,14 @@
 "s": "Amanecer Querétaro",
 "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fcXZlVW9JWHZtd0tfRTI3X3VnUzVzN3pPYUdndk16aFY1Q1VOU09NVUNPeXAtZ3VtNTVYOUJQeTFGVzFLQm1PdWotZEJ3a0h0Ni11dWdUcTZCSm01Z1lISzVaekVuTE5yVjBPeFFFLU9vam1LSHc?oc=5",
 "d": "2026-10-16T23:02:06Z",
+"o": 3,
+"c": 1
+},
+{
+"t": "Consolida Querétaro su competitividad industrial con ampliación de Grupo Rifel",
+"s": "El Observador de Querétaro………",
+"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGg5aFhYeDJ3WnJNTWloM3oxbi1raVhpZXhCU2E0R0FzM054T3lkdVMzS0FsYklLQVBxTWZuUVYtaFJMdDg1UFE2ZjQyVG1LeGktQ1hkTG5QaGtwX3pBWU9qdEEzUjcwVG1XNDZkUHRXUnRIemxnU1h1QTBRcTJ0SVkxM3NucWh4c05wVVNiOUxLalZTcmJFbDQyQXRTQ1lwMzdicVg5QWxFUi1EbVlJNU1vN2g3bmM1?oc=5",
+"d": "2026-10-16T21:15:49Z",
 "o": 3,
 "c": 1
 },
