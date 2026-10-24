@@ -1,24 +1,10 @@
 {
-"actualizado": "2026-10-24T10:57:07Z",
+"actualizado": "2026-10-24T15:55:23Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
-{
-"t": "Apex Critical Metals recauda $1.86M e inicia operaciones en NASDAQ",
-"s": "Investing.com México - Finanzas, Bolsa y Forex",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnlUdGtoa0lDM05MSmRvZTJUMTQ1XzNJSXN2U0JkcWtFLU1UMVJpeGJYTkhjZkowWjhQdGtXWWYwdnlFbG9IQXc3UXY4VTcyNG9WOUtSRGtQU0dhN0EtSTBGbzdHQWNrbk9iRjVNdk5KVk9RZjlNNXdXVE5wc0l6LWh3dlYwa2VCc2o2d2loXzFjSXMzd2VPa0ppSHpvTGdGeE1CdHd6Mk0xbDJEMzRVUTF4ck5zaHpJbHlZbA?oc=5",
-"d": "2026-10-23T20:33:43Z",
-"o": 3
-},
-{
-"t": "México.- Aqualia gana la construcción de la planta de tratamiento de agua de Aznalcóllar (Sevilla) de 60 millones",
-"s": "Notimérica",
-"u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGxnS05XUklXOVE4NGxHRFZvUi1pcVZNUlBSTUJOaTAxSUFyRHJUNkRGWEdmVXhRYWFYQXBPNUFuWW1MVlpLMzl2LXlDdEd5VjNTMkFXakF5NzhyVkZ6eWVRQUVlT0RYVHhlc3JLT1pXLXlKRHBfLVZJN3FNZ3VDc09FTUctUzQ4VXhrSW0yLThRRDNqd184N2h5MVk0R3ZZQmpwQzBRSHFmRmgtOVNIRGRWVmFBUUNaUUxQX1Y1Y1k4S3I4VkF6b0FlUVdCZV9tTlJhak1BOEg4d1U2TFZidU9aRmpJV1k?oc=5",
-"d": "2026-10-22T11:08:54Z",
-"o": 6
-},
 {
 "t": "Alertan sobre la necesidad de impulsar la exploración minera en Sonora",
 "s": "Medios OBSON",
@@ -32,13 +18,6 @@
 "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFctcFQ2SzhiQVF6RmJlcWt3cloyUmVsWDcyelEzM3Z6d0dWZXdUZVdXRGxiMHVyQUlrZ0ZXM2w1akVXelB5U0lFZ0dXZ1d3UUZVZldWR1pjU1gwVTlFRW1LbGUtS1o2aGY3SWlPQjRVams0VkRSVE14Y19Pdk5XTUxVQk1xRTdwU253NGc3YjQ5U1ZoLVpCWHZjR2hYOThvSC1nZdIBqgFBVV95cUxNX2tBTHFwOFRlLWpkTTgzOTc4UzJlMVpaZlVabnRuMGhLSWM0cjN6cWRaeGNBWmZqVUZfVnMtZkhNVVhnaHhGc0h1Y01aQ01rWmVrMnBjbE9OMy1WX2FNc0M3MXBJWmdUVUJzQkoyYmpvelBBN3RoVWtGZE5HOHBTcC1hcVVMc3hpcEtHa29qckxRaUd3bnBER0tCa3JOMFltWlBaS0pfZUJsdw?oc=5",
 "d": "2026-10-21T13:00:00Z",
 "o": 2
-},
-{
-"t": "México: Silver Tiger avanza en construcción de El Tigre con inversión de US$124 millones y proyecta producir oro y plata en 2027",
-"s": "Revista Digital Minera REDIMIN",
-"u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXhJQk5GNlcyS182SGplRjdJRHF4Z0hidFgyTzhhS1V5UFNaT0dVTjJJWDFGZmZiLWhCUjhSMDdhWXJzYTc0WXFJeDdBT0dIYVZsaG9GdlVqNWJINzlLU2VlbnVwSF9iaTZtNzZKTHV6dVM0dFVZQTFybHVaYW1fQlBKbzlJQW1oZF90bTllOGZnWmRjZHBNcExSenhWT0dCU0JmVDI1dU9PaVBHOGdkX3p2R19VZjBrQVNmUjB3OHBDaFUxNVhnUzE3T3hmQlYwbDNWWHFnLWl6WkQwNmoxNHRJWUY?oc=5",
-"d": "2026-10-21T12:58:31Z",
-"o": 6
 },
 {
 "t": "Sonora destaca en producción de cobre y oro, pero necesita más exploración minera",
@@ -69,13 +48,6 @@
 "o": 3
 },
 {
-"t": "Nuevo proyecto minero genera preocupación en Umán",
-"s": "Ahora Tabasco Noticias",
-"u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORGZzMVIzNjNYUzRydzZ3bUhIZ1p1UHBkYmE4XzNQSFR2bnlDSnJYREpKWFExNDhFMWw1TmVTNDJ6VlBNOGVha2V5V0RETG5MdDFFeGt6UlVNWEJSeWJLOU9fUWhCa3g0MnlYM1JuR0ZWOHNtUDNUSVM2MDlic1FtWA?oc=5",
-"d": "2026-10-15T19:42:44Z",
-"o": 6
-},
-{
 "t": "DHL Freight inicia operaciones regulares con un eléctrico SuperPanther eTopas 600 en Países Bajos",
 "s": "Revista TyT",
 "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFVXy1QQkJzU1h3Z0c4b1Y1YUhYbzZOVk1WUllnQVJaUllYQ3JGNllWeXBiWHhGNmJBZW9ObmVpRDE1Z3UyMWJHNUVHdnFFb2l5YzJuQ1FRN19KSDhBZzRqQ29QQk4wU0taZDlGazJjYlY3c0xIaTBQQ0JiWDRpSnlvTWRya3JNTnBNOVlqa1h3VEFBLTVZWVhzeTZ1anNPcEFDVWtlQmRaODQtdkVNcG81aWpJQmg2MTN5WWdxWnhvRXM?oc=5",
@@ -88,6 +60,13 @@
 "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWY0aHoxQ0tqNno3QWRod0U2S1JsZTdkSVNmZWxfTkFIcjF0YWZDczJnSC1yZFRwUHRMUFVodVM2d1lNWWE4aDc1ZncxZXJZeDRQZU1kZ1Z3S3RWN28xTzZaVzlfMkc5VnVOZjdRSUZ6YTVtem1mS29iU1dsaG5RY0U4U0k2ZGFJRjZ0S0h1SnAyelRHd0ZYS19QRTBJUG83ZjdWOXdjQTQ1dmlweXBuanpFWjdGT0dsOTRWUENuTFNVcVFlX3ktYl9NeW9xY0tudTRKcG92M2tsT2o5bjR1Qjh5WUI0QkE?oc=5",
 "d": "2026-10-08T07:00:00Z",
 "o": 4
+},
+{
+"t": "ZDEEP en Synergy Industrial Park inicia operaciones en Escuintla tras inversión de más de US$13 millones",
+"s": "Prensa Libre",
+"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2ZrbzlrMnhMSUh6WnNVUHNUalplNlhodGRpWkljZ0RxcGVIQ1lZLXZ1Q2VfMHpKUGx1cUVRR2Q0UG5vREp6LWRIWGJFdm1DZHRaNzhsSnhMY2F6X3pKODM4SWQxRnByVDd1c2J1djNSNFc3WHdxVTZ2UkdLeHdac0ZRTjlOdEV2Z05hX2wtMzYyRHpoV3hXRFZPUWlFS0toSktvTE5pTzA4Y2QxalhhYTA2NHc5SEFSdlVBSFJQQlk5Sjh1bmJVc0I1VmxTQ01yT2sxaU5TSEw?oc=5",
+"d": "2026-10-06T07:00:00Z",
+"o": 6
 },
 {
 "t": "Minera Cuzcatlán no respondió a las alegaciones de ampliación de proyecto minero sin consentimiento",
@@ -378,16 +357,16 @@
 "o": 4
 },
 {
-"t": "ArcelorMittal México busca producir 5.3 millones de toneladas de acero anuales para 2029",
-"s": "Telediario",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVBPeDc5TW52M2ZWUkdHMm9NSmx3ZDdmSjZTWjRpLXljUEltYm5LaWlGNVNORUxSdWdvVmRzb2J5Y1IwX0lPeFFMN3NDLVBhSkJOb2hxd3JySmJNaXJYRVQ2emlPYmZFcFY4YllkcXJCUkpUYUhSRFpRNFdpa3M5Q1FxSXB0VE54akdUd2JqTEZid9IBkgFBVV95cUxQbmpLdHVVT2lQaTI2REZfb1d2c0RrdlNibXhralJOV211QjNidHV2eHpQTWpZVzRiamxwWk41YjlmamdaVTk4NEt6c0VicEFLS1NvbjdhcE9lVXl2eGtZa1Izempla0drV21PNlJWOEF5aEJ0bDRzSnhkTmRIWUV4SlU4dzdVdnpxVjN1ZGtWN1JUZw?oc=5",
-"d": "2026-10-13T14:42:29Z",
-"o": 4
-},
-{
 "t": "Más allá de los aranceles, ArcelorMittal México acelera inversiones para producir 5.3 millones de toneladas de acero",
 "s": "El Cronista",
 "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWlFmTk1tOElnS1dTTjJLU18zaW5SWGNmVFllNWhJaXluU25CS1Q2c2FBM3lkYUY3Nmc3am1WSEZqQWN2WlpHM2VxS21SNHBYNGZjb0FGc0Y4SHp0ejRHTUpqaWVlNWtTckIzdkdKSFk4ZGF2ampkaDhsQmFZa3J2UVlhLTh2TFhoQ3FNdGxmLTJqTzVoY0JNaFE4Wk02dDVLa0pZX1lEcU15dGFHYjJtM0I2WXEtcU44LWpmemxXVm1CVXlqZ1ZUMUZnbDRfNE1BcU9tUy1Uc1RsazRoOGZsTnNFdWR6NzR6Z1lzNkFtQnFVZzlTTXhUT9IBkwJBVV95cUxNZm5EUlF0Y0E2XzltQl9FdF84bmVUbW1fUF9PRW16SE5fRXFTZ0Q4NlpjZXl3Z3FoSXpZYWZjOWlFVTh0YS1FLTkxNXNhRkRjeTV0VTY4LW8tZUkzYk9BMHVuUk51WDNDci1jT2lpek9iUXJGTDlwT1BWd1dneGFmMXFoSHpPa3NoNkZYbFJkV2hWR1RsTUNBM0NsMGZHQlgwSm1pZ2hxMGUwcUswTzZOWS1vbF82RzE1Nm5ONzBiTmxYSUYxeTlrY1BzWUM4TWxqcVRVNzViZFR3VDVkYXVYNTlfUmhTQ1J1RW1MRjlvS2R5QVZzTmFYVEMxVWx3V01rNWE2RXZSRHpiVTllV3B0dlppcw?oc=5",
+"d": "2026-10-13T07:00:00Z",
+"o": 4
+},
+{
+"t": "ArcelorMittal México busca producir 5.3 millones de toneladas de acero anuales para 2029",
+"s": "Telediario",
+"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVBPeDc5TW52M2ZWUkdHMm9NSmx3ZDdmSjZTWjRpLXljUEltYm5LaWlGNVNORUxSdWdvVmRzb2J5Y1IwX0lPeFFMN3NDLVBhSkJOb2hxd3JySmJNaXJYRVQ2emlPYmZFcFY4YllkcXJCUkpUYUhSRFpRNFdpa3M5Q1FxSXB0VE54akdUd2JqTEZid9IBkgFBVV95cUxQbmpLdHVVT2lQaTI2REZfb1d2c0RrdlNibXhralJOV211QjNidHV2eHpQTWpZVzRiamxwWk41YjlmamdaVTk4NEt6c0VicEFLS1NvbjdhcE9lVXl2eGtZa1Izempla0drV21PNlJWOEF5aEJ0bDRzSnhkTmRIWUV4SlU4dzdVdnpxVjN1ZGtWN1JUZw?oc=5",
 "d": "2026-10-13T07:00:00Z",
 "o": 4
 },
@@ -451,6 +430,13 @@
 "s": "Ambito",
 "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0w0cjhubWVOa3doVzFGYWdlUTBCN1ZMOXRJb1VKck00YjZ6NVlSZFRlSUh1T2tmYXFMei0wSktpMzRQNW1BOGhKNGh1RkFERURtR3BsaEluSFFXcHIwY1czT3AtTExtVy1FcFByc3NTYTFGejRtOG1wdHNYNEhqVy1melVuM2ZQSzdiYVRGbVc3VmNfZUlaN3dGR2h6YUw3SmxvSFJMV3lCbVlyQW56QWF6eHZBcGFyaURBVUhyQm03b091VklRVi16QTUtckxjZlJPRExCTkRkZ9IB3wFBVV95cUxOdm5LN0JIUmZ4cjd6Y2dmNFp1STFZc19NRm00UThmVlVETmNuZFpfcVpkS09vVjR1cFZ5aHQ4dVRjU1NOQlN0YVhaLVc3MTNBWFJEbGkwNnE0VHJSdHJHcjV3eElueU9ROElzUlNUZ2dIVHdYVFhDTXZ1MzgwWmhFTVdfSWJNYjNHRXR3dTRpaEJzUDhnMlhxbEsyNktkNjNzZHppT1ZuWlJnSFQtb0REelFxZDhEbXZxX1g0aWlZWmJ6Ui1GTjdKSldGQnU1Yy1SX3dtWFZQTGtzM3cybXg0?oc=5",
 "d": "2026-10-22T23:54:00Z",
+"o": 3
+},
+{
+"t": "El grupo México confirmó el portazo a la licitación del Belgrano Cargas, con fuertes críticas al sistema de \"open access\"",
+"s": "Radio Hache 97.7",
+"u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmJSbE5VVjFkU3FDZXVVcnk4d29naGNrU1pfbmEtMWhXdVhmVGk1enVoX2dYdHFhZW5pcGRJcC0wdU1aTGxFQjlhXzBNTWpJWEZHZkIyWHFCdUtoY19DbjluRDZHWXVSaGVYMEtadGtJVXJzYnhGQ3dGd3picTJrN3pvVHpNOTdhZ3dRYWhFdE5hcXU3Z3BWNzNiZC1Sakg1U040OVpwSTQzbG93c0RLX3ZYSXBtcmZDWTk5Z0NobG9xVlJkQ0xwNldweXMyNHVoTV9lV2VzSlE5S3RqSnZOMEt2YVdEeWtmX1E?oc=5",
+"d": "2026-10-22T20:55:49Z",
 "o": 3
 },
 {
@@ -545,6 +531,14 @@
 "o": 6
 },
 {
+"t": "Se preparan las obras para los tramos II y III del tren de pasajeros Querétaro-Saltillo: empresas buscan participar en la licitación",
+"s": "El Cronista",
+"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdnJSMlZwbGw5aXAwNTlQNlRkSTdqU0lYaHNWTVJqc2x5bFI2TjNoWllGV19qS2tIc0c4UE56elllcXNjaHRWeGUyR240aUlSY3JHaElMN1Roa1JaTU5WU253U0JpNjliYW1LY1NDa2VmS2ViMlZXMDhFTnB1MEZIZUcxaTE2cDNXWnQ5ZjlsN1F4elZoc1drVFdCa1hCUUo5dk9VdUxDR2p5dG1DZUhlWmVLQnZlMFpFQjZ5ZGtkUW16MU5FM1haWFhNOGJmS2lPN2ZCNlVSSkJTSWRnMVBFUTM4SHA4b2pUdzdPWkdfT0llcGt6ZWd2NW9scTJ5ZWRPVS1wTHhQRnVfQdIBpAJBVV95cUxNTGJMT0VpS2RzOEdqWlNhd3ZSQThFNy1haWtDMURzaFN6R1hubkYwWW5lT2Y0WEF0OWlWQ0VES012M1dQcUlPeWVTQWpiSk9fZzZtQ201MWR4MEV5cTZ4LWdPejJBYjY3eTZxRFhsd0JrRVoxelVFOGZZMUZWdml0OWJWMlFWUGFrWV9TR2NXcV9Rcmw2VHRhRlJrZUxZcXEwN3hKRUwzQzB5Mkstbnk2dVFHN1A1aHJoSVVJSkVQVkVuNFkwb1hscTlBTjhjOHZHbFVfWTlhTVd1dnZIZVVWaXZFOWhqX3hjUy12bXVic0lkdlp1VGprOGtSVGNaVldlOWlmWG83M2ZsbVhORzNTMk52bzVGZkp6SzFmYXNCdmdJT2Nu?oc=5",
+"d": "2026-10-20T19:03:59Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "México abre la primera licitación de 5G industrial: empresas podrán competir por frecuencias para automatizar fábricas",
 "s": "Xataka México",
 "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTJFRnVfTnRjMXNVWDYwQmQ3ZFI3Q2p5WTBTZHFTTGJKWjJORFlNN3NvWUxpQV9HV2ZlTXZnaFhGblZHUDlaNUhmX3VzWVlRVi1CNUdVTVRxZlRyQ1FjdFFDbnFOZTBoQnZ5OFNrNFVqVDVuZGtWQXBUOWZkNjRHdnVnbEViWk1OWXQzbEgtZmQ4dWdqbGhrVU5tcnFXMDdacHBVNlc0bTFGek1vU0pxbXZXdmd4NzgzTnNOeDJRaF9NT0hyY0hHeTVqYnZ5SHUtdV8td3JxaFlYZFlRRTNaRVlZbXhMWGgy0gHuAUFVX3lxTE1RaXVRYkoxQ2w2NkJ0dW1JTlJWdkNueVhwZ09PZ3dFejdRNFZuZzNMN3JyQnpYWGI0Y1BCSDRYaUc3cEVpcmJjTzQ3TFljQVJNdmhTOG52OTZQLXg4X2pZcXc0M2FlLWdPT0ZHZ3QtYTZvSXFuN1VfbXgxX1NiVGRPdWlFanNYc3Vpa3hGeGFrOTdnMlJKc29pZWxKQkQ2R2duR1RoZjFUVmxvWThsVUNmekZtaW9PdXBwbHA5ZXE0dUlRcnF3RjNYQ1dSdlJ1NVB2ZHIyNGR0dDZ5dnFkbDNKZ1lZbkYtNGRHRWkzZVE?oc=5",
@@ -552,11 +546,12 @@
 "o": 3
 },
 {
-"t": "Licitación de espectro industrial: cuándo cierra la convocatoria y qué deben acreditar las empresas",
-"s": "Industry & Energy Magazine",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUVDVlRQeE5FRDM4M2pOWWFSVUVsX3o1ZW5JMERvREtSTHp1dlh4bHZvSUpMUDFHVVpzdnEteVdDWV9GX1Y4NEFvQ2g4SXh0V0dHTC15cHVrQUZNV0NWeHUxcFE2TjV2bmZIeDh4UFpWMVY2M1pnZ01CbmIwaUNSQ3BvVnExQTFUMERRWUxMLXBYQ3pwOEt5M0FPdFVMN2o4UGhpSXdKaklwUmVvSE5aSTVQMUhLX2JVWmx3OFBLaXJXcUUyVjFvYlNYRkFPZw?oc=5",
-"d": "2026-10-19T19:55:23Z",
-"o": 3
+"t": "Este consorcio construirá un tramo del tren de pasajeros Querétaro-Saltillo",
+"s": "T21",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3hiYkctdDFXVlVLV043NHZVRlZsS3RBZUpyZkFCNVQ5ZG9Gbmc4TTdaZGprdFFpM3ZvWkVKZ1ItUlJMZ25zQ21WTHVoMmdyeGxOY2lWRm1VQ0JlRkF1QV9qMHB5ZTAxWEt2a0VycU16a0pjaTc0ZmF5N2cxZnhPX2VzVzRjOFg0anEwdWZSaXRvN0NINk5iZmFtaw?oc=5",
+"d": "2026-10-17T07:00:00Z",
+"o": 3,
+"c": 1
 },
 {
 "t": "Mexicana CFE tiene 17 proyectos de red en preinversión y cuatro en licitación",
