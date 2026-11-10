@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-09T22:19:10Z",
+"actualizado": "2026-11-10T07:15:09Z",
 "temas": [
 {
 "id": "minas",
@@ -75,6 +75,13 @@
 "nombre": "Inversiones industriales",
 "items": [
 {
+"t": "Choca Frontier a camioneta de Marinela y la vuelca en el Parque Industrial Lagunero",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTnppXzhqZHNLQUI4R0lzU2RVdGxlOVg1REZ6QXhDUTNiREs0d2F6OWV5Y0VWeU5mOEVFQW8wNW9nT1laTWNaNjZ2QlFqRjNyWUVhM3hTWWFvUmFYZEJJX0pUMWpQTkZWSEFhNVNVWUdqY2Z0NGJKcWR5em5HeDdoS0Q1TlZJWE5QcUFrMVpZS000RldvLWswaUdEanBndUV2OFhWdXN5NC02amZJazFjQ3E5OXRGcEhNaWN6WmZYczYxY0NoUTBrUUROYnpnV3dCVVFn?oc=5",
+"d": "2026-11-09T19:16:16Z",
+"o": 4
+},
+{
 "t": "PPG Comex invertirá 2 mil 400 mdp en nueva planta en Edomex",
 "s": "Revista TyT",
 "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlhZSUg5X3ROVlIxX2RqUXJlQWg4M0Z6Y1hNLXViRGxTd1lQSXdzQnYzZ0pFU1MtenhJekFtS3Fmc2NzTDh6RHhQS25Ja2FlLUNwU0pVaGRIM2d2amFpbWhGc183UlIxVHpwVnRlMXp2aHVxSmQtSzk2R3lvR3dzOE5NWE1NczRiVXEzdFNpYXE?oc=5",
@@ -86,6 +93,13 @@
 "s": "Comunicadores MX",
 "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGJCZkZMclVvXy1GSzZLVXM2TVpjdjdLSWlwd0dpcUduY2Z4Nm9RcE1GQ0dVTDRjNXRKUXRlNlBycTl6ZkxJYWtlTUtHc1I0eGlSUVdLVUdlOTN4Y2RmZ3FoeUVSeEl6a0RuelJueEVwNlJNVGxqbjBiRm5KWDJ0X3NkWThEWEIxSnVRUWdqUEJ0TjhxM0ZmV1lDSXNSWWg4QWlGSjIyT2VrRm0yR09rcWVWZkwxanNITDZRQm1aTV83UXZVWWlfTklYd2tJSWVWa1E?oc=5",
 "d": "2026-11-09T17:28:10Z",
+"o": 7
+},
+{
+"t": "PPG Comex invertirá 2 mil 400 millones de pesos en nueva planta en Acolman",
+"s": "Apocaliptic",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzlhZFAzOWpUUUZ4M2ZfTTg5YWdPOFdScHZLZW5CaWNOLUlLbTh3eENWTGR1VnpySTNQTW1sTkt5Qmp2RUh2NFV2Z0N1NWJlWVVnaGFESWRuYThKY0dnNURacUpoUXByMkk5aktkMldINXh5REZYbzBpM0pwODVXa2d5d0Y2ZFdFYTlfclJqM2txZ0NKczFpejJJNG44Y1FXWnUyZERGdmJ4Z2d2ZzFVMDZMR3RNLTVUWDFGTA?oc=5",
+"d": "2026-11-09T16:39:14Z",
 "o": 7
 },
 {
@@ -173,6 +187,13 @@
 "o": 4
 },
 {
+"t": "Nueva planta industrial de Daktronics en Saltillo fortalece la manufactura tecnológica en México",
+"s": "Indice Corporativo",
+"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWZ6LWpxVTh3a0loNFN5Vk1IZGpHUGZzRkpCOWRsUjhrQUtXRDVUU3ZzZlRQZWU0eXVybXVKSm9XUk5Fa0tfa2VpM2Fab1U3Y2tuMk52Z3Q3bGZJcTB0bXE4ZzJWd3Vvc1A0d2JncnlNOHU5MWZURXR6VmdpOWRTdEkzek1RMjctcEQ0X1NPdTdrbzJEcWVjZmZfbGQ2M2FJV3VVU05xcEw5ckFsc18taUxNVkNWQUt5ZjM4S2dkNk9LOV80akM0WmV1NUhDanhK?oc=5",
+"d": "2026-10-28T11:00:00Z",
+"o": 4
+},
+{
 "t": "Inauguran nueva planta de producción Neese de México en Piedras Negras, generará 140 empleos",
 "s": "El Siglo de Torreón",
 "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRW9SOGlzMjI5YVY1Sm5HTm5LdjR0UmxSaENsMVVMOGY2bzhaSFpaMC1IVUh0TnJRUUdkczdFaG56bFlTTUZUS2tlVjZ4V3AtTGViV2RHV1gyS2VwRXpzMHl2TzdmT2EwRU1uUWFQVjdpQlVRSXh3aFpsMFFSUE9XX1BYbEo4dlB3TW52UzBlSFphdmxoUm4zNlVUOF9MV1lKSTRvcGJMOC1yQllwZ1ZZYjRDRGpLU0ZpWWJtS251bEswTHUyMjJYaFpIVTF4dTE0YlBEc3g0YUZYNWRYQ2c?oc=5",
@@ -239,6 +260,14 @@
 "o": 7
 },
 {
+"t": "Querétaro tendrá nuevo parque industrial; Sheinbaum lo anuncia (VIDEO)",
+"s": "Al Diálogo",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSGdXd0RvQ0FJTkd5ZkI0azlIYkg1NW50QVBLaHhUQ3h2MFltZDZzcDllMnFWOWZsT1dleHRjYVhRRmdzdWRLcDZncjA4T3FXclNEZWlEYmpGLXJVY2k5Y3JR?oc=5",
+"d": "2026-10-22T07:00:00Z",
+"o": 4,
+"c": 1
+},
+{
 "t": "¿Qué es un parque industrial? Sheinbaum y sector privado anuncian 20 con inversión de 763 millones de dólares",
 "s": "Debate",
 "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcVBjSV9XNkxhVV9CWElxVnF2SnBoNWFEbVpaSFNmN2sweUhEa1dGTG9yWjlMM3Fpa3l5TUxPaVpHWHlvSjRkcXB0OXhaZzJqb3IxZGlFQmpHU2ttNUd3NzNtQWJHUDhNVWpzdXFDbVhISnRrSTV4TVk5eHA2X183aEVpbk8zQkNscVhWdHhxalNRZVNwMEdaMjM2N0tRejVRcEVzWTZybTVTemFKT1VUNTgxa3ZjanIxMHNKUWNhTzlLREdrRGtFZEFFZFVYbVBfRmZLbUZHR3IyZzd6aWFvaE16YnUtVDRPNWQ0VWZ5XzU4Z2M?oc=5",
@@ -258,21 +287,6 @@
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1Zlam10MFpJVW9ZaHVyUWVOd1Jnb283M3EwbDJoV0ttTk1UdU9jZXl5VGxkWXgyWjBFTlFpd1VoU0g5NG5rX1lOdGd5QkJwcGNuWHFueGJzZWo3dWZ4cGR0THdHTWtnNzl1YXlPeHdoT0dETkdhelhtVEQzcTQ1YUx5M3U5dDZjcEdrcU80cEhjdXU5LVRhZmpIaDdBdzRZTmY3NDZqdE0taGJ1dFFwV2lkLXdQeXhkQnhlX1dUMEdHdFlTaTBGZmFLeUhZZVFnUzhv?oc=5",
 "d": "2026-10-21T07:00:00Z",
-"o": 4
-},
-{
-"t": "Empresa alemana Mankiewicz invertirá 449 millones de pesos en nueva planta en Querétaro",
-"s": "MexicoIndustry",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFNGNVZ0WXhkUEhDWGtLRkpLcExuTDZvS0JhVmxSN01iYnpQVmpOMWJKVTFQNHFySUt0OVRLSEdRakNGV3oxUHJUWlJ2VnVuc1J0QjNxNHQ5QzFpVk8xNk9KN3FOVW5lM3RTV2lEeUVVUUhoWFpGRUkweG81V0NyVGRKRmRUdHFYbHRGR0ItREpQQWJJaWJZVGJSd1l0eEZiZWZuYzNuMTFqVlhsUGZETThQcUwzN2FhTUZsQWdiVQ?oc=5",
-"d": "2026-10-21T07:00:00Z",
-"o": 7,
-"c": 1
-},
-{
-"t": "Mazatlán podría tener una nueva planta de gas natural",
-"s": "Energy21",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnNtTWQyX3NfQTJrSFRENTlaVlpvMTF0eEZrS2RxWVZSMmNCZF9EdkR3NXJ1VTQtcEFFaWk1X1N6TEdNTzh5cGd2dEJWV3lsTVo3akV4dzZFMC1TNGowRWtUMzJQeDF6cF9peHhFMkcwSllGZjBwZjF6cnJQbjB1dVN6RXY?oc=5",
-"d": "2026-10-20T07:00:00Z",
 "o": 4
 }
 ]
@@ -323,7 +337,7 @@
 "nombre": "Licitaciones",
 "items": [
 {
-"t": "Factura comprueba que el ‘Rey del Huachicol’ cobró millones a filial de Pemex que combatía el huachicol",
+"t": "Factura comprueba que el ‘Rey del Huachicol’ cobró millones a filial de Pemex que combatía el huachicol - MCCI",
 "s": "Mexicanos Contra la Corrupción y la Impunidad",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNakY3VlVKUG9NUGJJTXRYQlZJSkFLemlWMzJwYllyR2NQQTNBOVpaWWJfM1RYdjc5ZGNrek1YRFZneVg3bi1UUGhUbTFIdy1BN2pORTFHNjhwRHExLVRkTzJTcDVxTUhDSEZIVmxYT0ljZnVYQXA2cFFycGlpQ0t5dWZIWmptQmhydS1rX09wbWgtVUZ5TzUzS3NaWUFoTERsbl96TmJ0Vi11bFBrUXNZUnprRGNZQk92NGNxSGhUUTNfSnZwQm1rQmVaMFk?oc=5",
 "d": "2026-11-09T13:10:12Z",
@@ -389,7 +403,7 @@
 },
 {
 "t": "Gobierno de México suspende licitación de tren de pasajero Querétaro-Saltillo tramo 3",
-"s": "MILENIO",
+"s": "Milenio",
 "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkFpVkU1SXZDUTZFWlBtOUZqWnJGaDE1UC1EQW9BV3NDRF9GRzNPclo0dWtIZ0RIZnJXWUNGaDVMMmFzWndxUlV4dE5pWkUzOEgyNUxMR0JBQzlnTF83ek1oQ2VJQmIxUnlsTzRPd3dnWkFURmNWWTlwUGZLWVFYdGkyc1VFSTh2M1N4UVlEZ1oxcURURkw3RVBB0gGaAUFVX3lxTE13ZmdPZHJPWUlNTjNmVGdFVDZVZW5XYXBmZldJZkZ1TGdaQl9SRzd3MU14Y2RoR09aYjVTYktRQjBDUGVMZjRrV1ctSHNoa2h3Mm1EUC1IVWRLaU05NDNYX18talg0SHNKNnlXeUxULVN5ZmU5bXU4NTJOX1RreTgyUTNyVWZSUzUwMnlwb3dyaXVrMERVVkZtOVE?oc=5",
 "d": "2026-10-28T07:00:00Z",
 "o": 3,
@@ -493,6 +507,13 @@
 "o": 3
 },
 {
+"t": "Belgrano Cargas: se bajó Grupo México y se cae una propuesta de inversión de USD 3.000 millones",
+"s": "Aries On Line",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1FPUE1ZZEM1ekZZYkRNNDBqMmdmTXN0ZzZBVWhscFpMMFptdlB2TlphdUZOdFFCMThTQmtUeDdhLW5FWWJuTURZdXA1ZExQME1NSlZMMUJGdXNzeWlnZENPSWR5VXRUN3RoTTlNVzN0VlJOZmZlemp6dWRlR0twNV9CNFpTZktvcmJFdlMxc1hsTjIwcDNWcFJNR0REVDFTbW5RR0xmbUpXUmUwd3h4akFNS3BSVlhBREtqNTFGX2lKd9IBugFBVV95cUxNWTlzMVhTQzN2cEhnZGlqNFdsZDgzTVVyNllxb3drSkJRcGtKdHhzM1p1QXJoRDR4VlRFU1BGMmRmR3NLVEtlX29NT1NFd0c0TkQ4TG9fS2h3N3hUNzlHeTBQUkpGd3RpeHhmR3RzNVExOGs5S0FXcU9hYjF3dVFldmtudGdGZnFkWjkyQnd1YVFBWUxDLVYtN05HRFo1enVXTElGbm9OZ1dDYkhVRUZTcVRRVmQ4QWRQM1E?oc=5",
+"d": "2026-10-21T07:00:00Z",
+"o": 3
+},
+{
 "t": "Grupo México obtiene resultados positivos en el trimestre, busca continuidad en su cartera de inversiones",
 "s": "MILENIO",
 "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1lfcVFkazBGZGdVOGVDUmpXVmkwNWozdmFyRnZEX01yZVRnbG15dkx1Q3hFWTUxSTB3b01QdlBCWml2dy1rOU5YRUJfX0xVRVgtejZRVzdabDRDRUFuSWU0Q3dweU5SUXdfSWkxQ0JlZXlZX3ZUcTdmLWRVRzdSSDc4Sng0R1ZVa1k3U1pjN1RXNjVtM3E4cFpn0gGaAUFVX3lxTFBSYXdkX21oWGlBLXI1QkVSSEI4ZkNzRjVETDZBRzF0Rl81Ri1YZDVzOUxycEJXRC1YbFhmT2FCbkdGWFJCajI2SnVpWEhhUGx4SnJxSTE4aVRBMW9LT3FtS3doUUNLalVpdy12UTVEanpqenhmUzJnb3oydDg4RXYtVllHRkpKaC1oU0xmTUk1S2JKTm9Pb1c1YUE?oc=5",
@@ -560,6 +581,14 @@
 "c": 1
 },
 {
+"t": "Gobierno de Querétaro aún no identifica parque industrial incluido en el Plan México",
+"s": "Amanecer Querétaro",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2x1WUt2bVJNN0VDSE5DQUx2aDZhSmRCaHZEUkY2QWJ1aEp2UEp0QkZfX2lidmtTVXMwNU0xUVhNM2pPX2o3V0RRb1dhTTZ0MUtuZHZNUFc1T09fdjZyVnZSbTFVZDRHak1KOER4elA4dElUUExxVV9fT2ZIeFBkSlRJSVEycHVqZUdjdkR0OA?oc=5",
+"d": "2026-10-23T07:00:00Z",
+"o": 4,
+"c": 1
+},
+{
 "t": "AIFA concentra cinco nuevos parques industriales en CDMX y Edomex; inversión nacional suma 763 mdd",
 "s": "Plana Mayor",
 "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEJQNFQ1MHRGcW00bk9SRXdIRzAxUTg3d0FCSGRLcG91TmhGVnhwSzZna2Z3T244S1BQVTV0RG9xZ25SUFhuSGVCQ0JSd0J3VF9UQnBzd0M4UF82QjMyOV9ZemR0NkYwV1NZN1MtcVV4THlMaS1sd2VUaHR1LXZtQlFjQ2FqX3hLaWRKQ2FjbG1zZXdzdm8wV1dfZ3BWNUhiWmtQS0V6WHdvMkpKS1dNZUVQQ3pkNGpyMnJSZHV1RjVQdw?oc=5",
@@ -570,14 +599,6 @@
 "t": "Nuevo parque industrial ayudará al crecimiento económico de Querétaro: Kuri",
 "s": "Plaza de Armas | Querétaro",
 "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE9IZlFSWVhiU1lndWo3VTZnLUJJU0FYUFZRS2NRVmJwenVsT25rNUFPYzVyY2tZZloxMm1Vd3A1LXptSEhha0VXRS1xZEIwZmI0VVBBLS1PWXFUY1hLRzRjZXNTWFI5a0RkQnQ2cFY3R2FaODB3Q09CX2kyUndCTklyU3FXVHo5ZmFDNkhVSWpLREp5NXctTWRSZi05UTd3SXh0dEt3?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 4,
-"c": 1
-},
-{
-"t": "Gobierno de Querétaro aún no identifica parque industrial incluido en el Plan México",
-"s": "Amanecer Querétaro",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2x1WUt2bVJNN0VDSE5DQUx2aDZhSmRCaHZEUkY2QWJ1aEp2UEp0QkZfX2lidmtTVXMwNU0xUVhNM2pPX2o3V0RRb1dhTTZ0MUtuZHZNUFc1T09fdjZyVnZSbTFVZDRHak1KOER4elA4dElUUExxVV9fT2ZIeFBkSlRJSVEycHVqZUdjdkR0OA?oc=5",
 "d": "2026-10-23T07:00:00Z",
 "o": 4,
 "c": 1
@@ -620,6 +641,14 @@
 "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzUxUHV5X2dydjVXQ2hoN00zOG5nc2dKTEJVTnFQeEx4bW55UzM3Vk50QldZSkV3b1VfdU12TEZoM0JRUW8tcmtlb2ZDWHZaS3pOb3Y2cTdMZ1pkLVp2TGpiWElhZkJCZ3FPcVZyYmthT1pDa0VqZUZrQ2dCSkN3VWxOTWhBOWlRLVFMTnZKZkVUT3hONzlEZUlRd1hNenVBTV84NHhKc0dtcGVnYm5xczJ3?oc=5",
 "d": "2026-10-22T07:00:00Z",
 "o": 6,
+"c": 1
+},
+{
+"t": "Querétaro tendrá nuevo parque industrial; Sheinbaum lo anuncia (VIDEO)",
+"s": "Al Diálogo",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSGdXd0RvQ0FJTkd5ZkI0azlIYkg1NW50QVBLaHhUQ3h2MFltZDZzcDllMnFWOWZsT1dleHRjYVhRRmdzdWRLcDZncjA4T3FXclNEZWlEYmpGLXJVY2k5Y3JR?oc=5",
+"d": "2026-10-22T07:00:00Z",
+"o": 4,
 "c": 1
 },
 {
