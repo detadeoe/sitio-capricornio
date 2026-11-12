@@ -1,10 +1,17 @@
 {
-"actualizado": "2026-11-11T14:21:09Z",
+"actualizado": "2026-11-12T00:40:55Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "Planta Enesolar 2 inicia operaciones en Malpaisillo",
+"s": "Vos TV",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONktjcy1mZDlUaWNMeFJpOE90OENjdS04MVV1V1RMWXlxOFF0blY3RUtHWjIzWTBTckdUZTk4YmU0bnplNVRCMkVuWGtRZXM4YmRpR3F3SW5nS213M0UzR3d2Z01NQ1JWbk10OVFBd2lkclJjZVcweFo2SUx3M25PLWMzdllqUzJqU21JamlpWDhDelEwODQ0UA?oc=5",
+"d": "2026-11-11T17:52:17Z",
+"o": 3
+},
 {
 "t": "\"Explorar es invertir en el futuro de México\": Inauguran el Congreso Internacional Minero 2026 en Hermosillo",
 "s": "Proyecto Puente",
@@ -51,7 +58,7 @@
 "t": "Inicia operaciones Línea Eléctrica Exprés en Hermosillo; recorrerá 112 colonias",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmI0d19UTjZ4RUcwZ1U3OVJNOGw2OVhQT0M2Unhkb2xIYnNJY3N2ZHhQRWY3QlRpdkstelBDUFN4RFUyQUhKaDlLaFlCV1hFT1V4WWRDcGJxbTR6QlhEVlZTYVNiVEFtVWhibGx6Vkxka1dlU1BEYTZuYmNKYXVtSGY4YWFQcFlHX19sMXJKZVg5ZkNJQUljVGduUksxTDhkcnllRDU3dw?oc=5",
-"d": "2026-11-03T22:53:28Z",
+"d": "2026-11-03T08:00:00Z",
 "o": 3
 },
 {
@@ -67,6 +74,13 @@
 "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWFlSDZpVnFMeWYwVUtqMFpFZkRCcy1rTWNXYnRlYmZhTWt0SndHNVJhWDZkQzA2Y3Y5eE82LXlVam1oLWJCUmJFRXZkWEpiN2hrTDRIMDJ0X2dlai0zdFdHZElTLV9OemJYUmNpX1hQYms0Mm5DNXdKb0JkS0NEZVRLUWw5TE5tRGpFTUQ0cksxTkRiMkZSc1ZvSXFiY213LWpqdzNRM0JUZmpv?oc=5",
 "d": "2026-10-27T07:00:00Z",
 "o": 3
+},
+{
+"t": "El Gobierno aprobó el ingreso al RIGI de un proyecto minero en Catamarca que prevé inversiones por USD 6.394 millones",
+"s": "Infobae",
+"u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMldQSDVRc1R2Yzd2Y1ZvWi02ZHRBQk8wN2ZsZ1U1bUdxRGttM0RWMmdMUHFaWjRFeHdLaW1VbkhDM25xMzVNTFVnR1lLa2lEM0Y0dmNEbVZSQS1NXy02X3l3TEFMN1JUTWtOWTc2bi15dmZoYXhSSVBQUThvVFN3UGktcERoRG5wM1ZMNzBlc2szcUs4RThiX1dJZWVLdVd2WVZTcEJodVd1d3kxVG9hYnpjbmdZNnB2bEFJZV9vd2oyTWNib0pycEZNQVRwSVI0a3dqSjI4bTkyX0NIQ2JjUUR5ZDAyTThKdF9aLWtELWM2YzjSAY4CQVVfeXFMTVh0NUhxajZQSU5TODdiQ1A5UUVlY2JtaUFHX0xSTlVrRGg1dFphMllOd1NpTmNfRG5mZzdpMWpoampqclU5U3d5RjMyNHBuall2dF9GYVhSa0pJS0dRejgtNzV0Qk9nTHNiMG9DQl9kT1luNjNZd1lkTV9ZcGFZbExlNmF6cU84emltSUtmdk8wc1pWRUVhN0JjOFNOeGxWMEVqb0N0SS1wdXBEa2RHYlliU1VCZGlWNjdoVHdKOEktQ0hOeDFmVHVHaVVRLTVYWUpnNHBUUkNvMFNlTDI3cW03a2VUYlFaRDl1Tnp3Wlk3TXNUZW9BSDlyMklSNjFzRkFaZXZKbHRLUjV1TEtB?oc=5",
+"d": "2026-10-27T07:00:00Z",
+"o": 9
 }
 ]
 },
@@ -74,6 +88,13 @@
 "id": "plantas",
 "nombre": "Inversiones industriales",
 "items": [
+{
+"t": "Inaugura Miba nueva planta industrial en Ramos Arizpe; fortalece presencia en Norteamérica",
+"s": "El Heraldo de Saltillo",
+"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmREUWxnSzc0RF9Qem16QnpLeFBIOU9kNk9WTXlMZ2cyQ29BdXFPYmxLaHc0clpIRmtaYnVGSHNzMDNYa2tWb2xQOWFwX0w2azhtYUdESElsOUtsdHd6T3RqZTNsZ1N5eG5YeEJWb0lpeF95S0t2cG9HZ1pyTUVkTXhLVlgxNEpWd1JFUl9IUWJoS1NrcnNQZGF1LWJOLV9XNERFaHkySllFYmJKbEZuTkxwM3dQdFhTNlEwaUFnOXBFSHE4NHZWZXREYnA?oc=5",
+"d": "2026-11-11T22:37:49Z",
+"o": 7
+},
 {
 "t": "Confirma Honda Nueva Planta de 3 MMDD en Ohio",
 "s": "https://horsepowermexico.com/",
@@ -191,13 +212,6 @@
 "s": "Publimetro México",
 "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemhXNE12T1Z2MnN2a1J2SU5kZXhLWURSWEVjSjNpY3dhckdab1ZrYXJUVExtRjJHVWJfb1lObS1BZHRmRkVYZDVtbGUxWWh0ZFNBdzM4SV9OWlhxTHVaRGYzcVUtVTVtVUU5T0k2SzlCQnZfZk9CWENhUkdQMHVUTkFSdjROWGg3aXg2NTRpOG1zYlh2Rzd1Z0hPb2U?oc=5",
 "d": "2026-10-29T07:00:00Z",
-"o": 4
-},
-{
-"t": "Nueva planta industrial de Daktronics en Saltillo fortalece la manufactura tecnológica en México",
-"s": "Indice Corporativo",
-"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWZ6LWpxVTh3a0loNFN5Vk1IZGpHUGZzRkpCOWRsUjhrQUtXRDVUU3ZzZlRQZWU0eXVybXVKSm9XUk5Fa0tfa2VpM2Fab1U3Y2tuMk52Z3Q3bGZJcTB0bXE4ZzJWd3Vvc1A0d2JncnlNOHU5MWZURXR6VmdpOWRTdEkzek1RMjctcEQ0X1NPdTdrbzJEcWVjZmZfbGQ2M2FJV3VVU05xcEw5ckFsc18taUxNVkNWQUt5ZjM4S2dkNk9LOV80akM0WmV1NUhDanhK?oc=5",
-"d": "2026-10-28T11:00:00Z",
 "o": 4
 },
 {
@@ -379,11 +393,11 @@
 "o": 3
 },
 {
-"t": "CFE lanza licitación para reforzar red eléctrica en Puerto Peñasco III -",
-"s": "Petróleo y Energía",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTlOcEo0Nm5hZ2EteWJyOWMzRzdRRzByR0NXWnlubVZWREVqekRHbGdwcGlOd1pVUXQ2Nl9FV2dqZnpaZEgxMUJuajdOaWp1MS1GVC0wNWRHeml2SHZmSW93dkw1ZVMxWUZGLVlHcTBJSWNKWk1iM0kzV0lwMUY5SmVNYVVnZ3JYX1VMdE0xYjBvNGdQaHk5MDBxeWN5UHUzTHhwd2l4OWNfY0V6?oc=5",
-"d": "2026-11-06T17:13:50Z",
-"o": 3
+"t": "Postergan la licitación del Belgrano Cargas y crece la expectativa minera",
+"s": "Diario la Ventana",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0QxTEszcVBjS0t3dHpxcDJVeDVTa3RpdmQ5VTF0c0pQeVNTM3ZLd1FwVEpUY05YcEtjNHVDR0VKRmJRMjB0QkdUbW84Sm11Sk93WG1kRk5zcUVrVlhTU1Rud0pHVzZYVkFqSGFUMVQ4YXRFdnEyUW1HWUQ3OEVXOXg2OVpuU3pyRGc1MWhVWUVkMHVuUnJjRHQxYy1fZ2piZmdTOWpvR0k?oc=5",
+"d": "2026-11-05T14:26:48Z",
+"o": 4
 },
 {
 "t": "Mexicana CFE alista licitación de transmisión por US$1.900 millones ante mayor demanda",
@@ -424,8 +438,15 @@
 "o": 3
 },
 {
+"t": "Proyecto de Acueducto Norte costaría 57 mdp",
+"s": "Pulso Diario San Luis",
+"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1hBOUJXN0RKN3N2Vk5UR1ZsV1JyV3RFcXFURUoyLVR2UkRYbDQyZDNFb3hTSTZMUzMwcFk4NE5LM1hKSHJ2YmljcWJUSU5UWkFGUjdmdWhYRWlNTVpWajA4cjhzbHZfOW5fekg1YUljYmdkMnljTnB5c0VVSDhQalFuNEVVQdIBiwFBVV95cUxNQXRUZUh5Tkx5RXRTSUliQTk2M2VVcEdKZ3V1V3RGQVFpTWtLRV9HdE5IeC1nSnduM2tRN2pKTVkzX2cyLXV1Y1BNNU1CakIzM3M1M3V2dHhwdjJzOW1uMlNobFVnc0xickx2M2xRQ19VQ2N3ODYzSFZrWE51X1JUUkdyQ1dkaVl2WXVr?oc=5",
+"d": "2026-10-28T08:00:00Z",
+"o": 4
+},
+{
 "t": "Gobierno de México suspende licitación de tren de pasajero Querétaro-Saltillo tramo 3",
-"s": "MILENIO",
+"s": "Milenio",
 "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkFpVkU1SXZDUTZFWlBtOUZqWnJGaDE1UC1EQW9BV3NDRF9GRzNPclo0dWtIZ0RIZnJXWUNGaDVMMmFzWndxUlV4dE5pWkUzOEgyNUxMR0JBQzlnTF83ek1oQ2VJQmIxUnlsTzRPd3dnWkFURmNWWTlwUGZLWVFYdGkyc1VFSTh2M1N4UVlEZ1oxcURURkw3RVBB0gGaAUFVX3lxTE13ZmdPZHJPWUlNTjNmVGdFVDZVZW5XYXBmZldJZkZ1TGdaQl9SRzd3MU14Y2RoR09aYjVTYktRQjBDUGVMZjRrV1ctSHNoa2h3Mm1EUC1IVWRLaU05NDNYX18talg0SHNKNnlXeUxULVN5ZmU5bXU4NTJOX1RreTgyUTNyVWZSUzUwMnlwb3dyaXVrMERVVkZtOVE?oc=5",
 "d": "2026-10-28T07:00:00Z",
 "o": 3,
@@ -451,13 +472,6 @@
 "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUS00dEZMb2JhQXhZWmxFa2loZ1lCRXRseU5zemhlcHA5VklKN0E3eWlEQTc4Y0J4VmI5bFRGUmQwT3dMYVJiMHlwTHJHSW5aRkhhb252bmpJWE5DM2pLNEtPaWtYYm90S1VyRFE3ZWNFckRlaF8xWHlaME9sUFJTNGJZTlBuWkhzdzZ0WTFjS2pGdmRwNHlZNDJYeXc?oc=5",
 "d": "2026-10-22T07:00:00Z",
 "o": 3
-},
-{
-"t": "La empresa internacional que abandonó la licitación del Belgrano Cargas cuestionó el proceso de privatización",
-"s": "TN",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOVpLMllMeVd4U2xzX2NhQ3YwNmxkRUFiZ1JxVjNwcHROelgyUVU4NXNFTC1sS2NlT1ZtTXctTjdJM2NVWHdsaDhOaHFnc19BWTFzV01QTUpIQ3RxdW1MNTFHWDNka3RGc0RsMkZkLWVMV2FaZi1DSkpUTTUyQi1BakJIZUttYzlWMGZ4Qm9kWE40eXJFVV9UVVYwalE5TXJCOGw1NUhIeE54R0FXSWxYRkVwR09hQXllWWJrbTVna2J4ck15MTVHZXN5NTdEcjMtWEZLeFFodGJ0ZDgxNEJjTW530gH2AUFVX3lxTE1jMzRiZGdoTXRld0I0bW9wcEZhM01fVTE2VGtEdU5mN0JaMXpCd09CZzVmQ0VaRUp6bHd4TmREV09OOTJKMHBranRnOVdPcDN6Q2w1M0hoNzBkZFl1bFNjR1pWcVJmT3ZEUWF3dG9PNFFVTUVTSGtld3RBcFIwYTd2akFqTGJLQjJxMjZoTUJ2VEpfSGhfNG1wTW5uRHVSQWxsbDdnZjlSbm5mT2ZCaUpMckc0NjJHS3pIUURwbVFSR2R4b3g0cFEtNjVMd2Y3YmFKdFlHQlFkSkx3TGNsdEdRUUVMazVsei1GUXR6OUhjWVV1MFBSUQ?oc=5",
-"d": "2026-10-22T07:00:00Z",
-"o": 3
 }
 ]
 },
@@ -465,6 +479,13 @@
 "id": "jugadores",
 "nombre": "Empresas del sector",
 "items": [
+{
+"t": "Proyectan presupuesto de 5 mdp para adquisición de luminarias",
+"s": "NTR Zacatecas",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWV1azd2ZlJOY0Ytb2ZCMnpVajdTOVN2dWxsZWppbVgwcFowZWtsNHYzcE5rdDlzbzNMRzVTa1V3d0tKa0NqcEk1eTJtc2VsdHFNMzRqQ2dCYWF1UmJIbHF3Y2lCWWVWODRxa3hWQnMxeXJwMmtIanFXVDNQRmJDVXAtX0lUTmhBbjRZYjZfcWxQSkJDaURHdVNzWQ?oc=5",
+"d": "2026-11-11T23:25:57Z",
+"o": 4
+},
 {
 "t": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
 "s": "Expansión",
@@ -495,16 +516,16 @@
 "c": 1
 },
 {
-"t": "Grupo México invertirá hasta 6,000 millones de dólares en Asarco durante los próximos tres años",
-"s": "Petróleo y Energía",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2xGVUdwY01MUm1nN3pobHJjaFZZYXdpWVhQbjJ6TVM3V0ZsUUFMSGxGcGVGaTBTUlNrVU5jeXJ3UXdCSUQzbzhBWkxPZGZYSWtQdi00bHh2akhtZ1J0dW9TOC00bUh1ejZ6ZnBkQUVlVVpHWUNvUUhIbmJzdzFKY0V2QU1HV203RWJ6OHkwdjRYT0h1TllzazdRY1RfR0lQcjhDbUZGb0V5cHVGZUVKQWY0RTJYXzEyb0FQUmZvaUtzb1FSWExGNUhmXzVKMm9ZUF85c0h5Y1B6Zw?oc=5",
+"t": "Grupo México acelera expansión de cobre en EU pese a caída de producción doméstica",
+"s": "Minería en Línea",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmpfZ2FqTm02djdTbmZxbnBrMGJXZjA5M0tJZnZxaC1Nc0xENUt1aGdWY29SV1BoZlNDNV9RVGtFZEVlZmRHT2dNT2gySWltU2UwVF9wVTI0eng4NHFBcWVQMmt0QnA4TGhXSlh6SUk3M0VNM2luYk9XeDRaNWNhM25veHRDejQ1bkpOWnAtRll2em9nZFAxU1A5UW81Q2hDUnZyWDljbGxzSUtjVVdfdlNrMDdSckRGMGc?oc=5",
 "d": "2026-10-23T07:00:00Z",
 "o": 3
 },
 {
-"t": "Grupo México acelera expansión de cobre en EU pese a caída de producción doméstica",
-"s": "Minería en Línea",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmpfZ2FqTm02djdTbmZxbnBrMGJXZjA5M0tJZnZxaC1Nc0xENUt1aGdWY29SV1BoZlNDNV9RVGtFZEVlZmRHT2dNT2gySWltU2UwVF9wVTI0eng4NHFBcWVQMmt0QnA4TGhXSlh6SUk3M0VNM2luYk9XeDRaNWNhM25veHRDejQ1bkpOWnAtRll2em9nZFAxU1A5UW81Q2hDUnZyWDljbGxzSUtjVVdfdlNrMDdSckRGMGc?oc=5",
+"t": "Grupo México invertirá hasta 6,000 millones de dólares en Asarco durante los próximos tres años",
+"s": "Petróleo y Energía",
+"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2xGVUdwY01MUm1nN3pobHJjaFZZYXdpWVhQbjJ6TVM3V0ZsUUFMSGxGcGVGaTBTUlNrVU5jeXJ3UXdCSUQzbzhBWkxPZGZYSWtQdi00bHh2akhtZ1J0dW9TOC00bUh1ejZ6ZnBkQUVlVVpHWUNvUUhIbmJzdzFKY0V2QU1HV203RWJ6OHkwdjRYT0h1TllzazdRY1RfR0lQcjhDbUZGb0V5cHVGZUVKQWY0RTJYXzEyb0FQUmZvaUtzb1FSWExGNUhmXzVKMm9ZUF85c0h5Y1B6Zw?oc=5",
 "d": "2026-10-23T07:00:00Z",
 "o": 3
 },
@@ -542,6 +563,13 @@
 "id": "bajio",
 "nombre": "Bajío",
 "items": [
+{
+"t": "Invertirán 3,000 MDP en nuevo parque industrial en Tlajomulco, Jalisco",
+"s": "Cluster Industrial",
+"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkFNdmRxUllRTlBDMjNtd0o1dGdfeWNXSWdCQXFkMGtIdEJDTnhEMUJySnpIbnBoNnBhLVNrUjA0X1p4aGd3VFB1bDZYSWRHazkzcFBnMjkxaEpuazhwbTVnVG1Fbmh3YTJtVHdMb252ZUdKN2Vlcm84Ti1MNzJPaWJYS1FNTld5Q0dpcEVZcHdVMU1rU0Nzay1JRVRVNlFQRS1FX0lB?oc=5",
+"d": "2026-11-11T20:10:23Z",
+"o": 7
+},
 {
 "t": "Aguascalientes fortalece sector automotriz con 206 mdp de Marelli",
 "s": "La Razón de México",
@@ -589,6 +617,14 @@
 "c": 1
 },
 {
+"t": "Schneider Electric invierte 3,600 millones de pesos en Querétaro",
+"s": "Vanguardia Industrial",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjJCLXgyOElreFp2VjQxbUpmbkFXWFR0TTBZWlJtV01CVkZTNG1rYmtFSjRLZ0RJNS1Xc1pJMU9pdkhLdGE2dm1wendVYkVpR2ZpT2VwNUdRZjBOR3l1RWUtMWo5T1M3OFBfcjBfMnk5YzEtcmJYd0RrRElpbzIzMVhUTHgtZkRvdHUxUVY5cHM5NTBTNEd2T19LU0xLWDQ?oc=5",
+"d": "2026-11-02T17:06:11Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Colón impulsa inversión industrial con Foro Colón 2026",
 "s": "Amanecer Querétaro",
 "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04dHp5QkE4MHIxWV96UFRobFF3MkdjYUhsV191eFpJSkx1SmU5c2w4Y3VKbERNR1pWZndwWS15cW83c0dPX01sSC1YbmhxYmpyMzZRajRLRUhhb2Z0T0FEQkx4VWJtUjg?oc=5",
@@ -596,19 +632,19 @@
 "o": 3
 },
 {
-"t": "Inaugura Schneider Electric Planta 2 Campus Querétaro",
-"s": "24-horas",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2UwYWlhVzhOSF96N09FYXRDV21xR3o1YkU4UGhZbzBhUURsbVRCMlFnS3hhZDhxVzh4c0tPemphN0p4Wjc5bU1aY05nLXB6VGNNY0p1eXVDdzdWelJqS3VLY1pOLTNOSEU5bWtKZU9PUXZkNGdQZW1ObVdRQklvRHMtTmVtek9Tb1Fj?oc=5",
-"d": "2026-10-28T07:00:00Z",
-"o": 3,
-"c": 1
-},
-{
 "t": "Schneider Electric amplía su capacidad manufacturera en Querétaro con inversión de 3,600 MDP",
 "s": "Cluster Industrial",
 "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejBLQmk1SndtOUpKSWtDWnE0VE8yaE1zVjVhVUU5STlBX25OTjlCV2ZYWmRyYWc1bkJCRzFha3dGaDM1R1R4NzF6di1JMm16NEw5dlRpVlhINnc3OVIyY3dDT2prbWJBT2JhWlp6endaWFRsV0QyakRsZ2lGNHBvMUFXOUx0ZVFTMm00VEZaNFRhcC1VZ1RobzRzdW5WWTR3dDJhV0xqZ1NTc29MdEotTS0tZm9QVHlYR1VldEtzZW9BSFRq?oc=5",
 "d": "2026-10-28T07:00:00Z",
 "o": 6,
+"c": 1
+},
+{
+"t": "Inaugura Schneider Electric Planta 2 Campus Querétaro",
+"s": "24-horas",
+"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2UwYWlhVzhOSF96N09FYXRDV21xR3o1YkU4UGhZbzBhUURsbVRCMlFnS3hhZDhxVzh4c0tPemphN0p4Wjc5bU1aY05nLXB6VGNNY0p1eXVDdzdWelJqS3VLY1pOLTNOSEU5bWtKZU9PUXZkNGdQZW1ObVdRQklvRHMtTmVtek9Tb1Fj?oc=5",
+"d": "2026-10-28T07:00:00Z",
+"o": 3,
 "c": 1
 },
 {
@@ -682,14 +718,6 @@
 "c": 1
 },
 {
-"t": "Mankiewicz invertirá 449.2 millones de pesos en nueva planta en Querétaro y generará 214 empleos",
-"s": "Petróleo y Energía",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3Mtdmh2WEg0MnlRdFNpQ3RMVDM4Y2xOcmtRQnl3U0swcE5zbUVuTlBuMFRFS1F5N2hBNDYxVlRmSDhYcFRQVXF0UjhteHNybU1kLXpieWVEZVFSMUxkeTJvS2VOcEtWVGw4cjVhNVMzejF3TUFtTG80ZE9JbU9DVUIzdjh2OWlXVzJQQjZyRXBJcjY4b2xBM2RZT1JVR0pMMl9lOGRrZktpV3lUdUZkQldxQ0pLWElleDBFcVo2LTVJZVVjWHZoU3RSSUJVcnRXZVEyMnJtSEQ3VFZDY1FGa1V3?oc=5",
-"d": "2026-10-22T07:00:00Z",
-"o": 8,
-"c": 1
-},
-{
 "t": "Mankiewicz inicia construcción de planta en Querétaro con inversión de 449 MDP",
 "s": "Cluster Industrial",
 "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzUxUHV5X2dydjVXQ2hoN00zOG5nc2dKTEJVTnFQeEx4bW55UzM3Vk50QldZSkV3b1VfdU12TEZoM0JRUW8tcmtlb2ZDWHZaS3pOb3Y2cTdMZ1pkLVp2TGpiWElhZkJCZ3FPcVZyYmthT1pDa0VqZUZrQ2dCSkN3VWxOTWhBOWlRLVFMTnZKZkVUT3hONzlEZUlRd1hNenVBTV84NHhKc0dtcGVnYm5xczJ3?oc=5",
@@ -703,6 +731,14 @@
 "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSGdXd0RvQ0FJTkd5ZkI0azlIYkg1NW50QVBLaHhUQ3h2MFltZDZzcDllMnFWOWZsT1dleHRjYVhRRmdzdWRLcDZncjA4T3FXclNEZWlEYmpGLXJVY2k5Y3JR?oc=5",
 "d": "2026-10-22T07:00:00Z",
 "o": 4,
+"c": 1
+},
+{
+"t": "Mankiewicz invertirá 449.2 millones de pesos en nueva planta en Querétaro y generará 214 empleos",
+"s": "Petróleo y Energía",
+"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3Mtdmh2WEg0MnlRdFNpQ3RMVDM4Y2xOcmtRQnl3U0swcE5zbUVuTlBuMFRFS1F5N2hBNDYxVlRmSDhYcFRQVXF0UjhteHNybU1kLXpieWVEZVFSMUxkeTJvS2VOcEtWVGw4cjVhNVMzejF3TUFtTG80ZE9JbU9DVUIzdjh2OWlXVzJQQjZyRXBJcjY4b2xBM2RZT1JVR0pMMl9lOGRrZktpV3lUdUZkQldxQ0pLWElleDBFcVo2LTVJZVVjWHZoU3RSSUJVcnRXZVEyMnJtSEQ3VFZDY1FGa1V3?oc=5",
+"d": "2026-10-22T07:00:00Z",
+"o": 8,
 "c": 1
 },
 {
