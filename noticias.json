@@ -1,10 +1,24 @@
 {
-"actualizado": "2026-11-13T06:41:25Z",
+"actualizado": "2026-11-13T19:39:24Z",
 "temas": [
 {
 "id": "minas",
 "nombre": "Minería",
 "items": [
+{
+"t": "¡Zarpa el primer buque! Puerto del Norte de Matamoros inicia operaciones de exportación",
+"s": "Revista TyT",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYS1DeVNYYzZ6aXlSUFF6bnRPUGdBZ3FLOUNPazctbHRiZ2lGQXF4UkFqek9hTTgzLWxCcS1QbjF6Z2xwS1YtR1VWcWR6R2h6UW0zOVdDTnRNMDctR2ExenJqbHRpZlg1TDlmZGg5bzFTQV9IT01UN244NmI3T002cWlsYnFWQlBFcWs5TlIyREdydXQ0SHdZR3h2QnJpaExEOFpOQUhtQk9UX19Sby1KY3Jncw?oc=5",
+"d": "2026-11-13T17:05:18Z",
+"o": 3
+},
+{
+"t": "EN MATAMOROS Inicia operaciones Puerto del Norte",
+"s": "forte.news",
+"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pZDc5S08xd21RdExlT1FLXzNRT3ZmTm50dDg0TXAxVXRHVk1DZEI3M2tvVzZSRHZmNEswRnpwVTJqNHJ5TkVLOEl3RTZLSzdoMTYxY1E5Z2NVZ0dTeXA0SjJyb2NIMGpQSG1vVWNGSVl4SFFkY2Zz?oc=5",
+"d": "2026-11-13T14:41:15Z",
+"o": 3
+},
 {
 "t": "Puerto del Norte inicia operaciones comerciales; Américo Villarreal busca consolidar a Tamaulipas como principal frontera comercial con EU",
 "s": "Proceso",
@@ -62,13 +76,6 @@
 "o": 3
 },
 {
-"t": "México: Comunidades logran suspensión temporal de proyecto minero de oro y plata por impactos socioambientales en Morelos",
-"s": "Business and Human Rights Centre",
-"u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVWlQeGRBRllqQWFUcy01dWJJcHYyM1ZFS3F6dXlWSjFnRjR2TGJ4WkdYWFNVNGRXeTQtQmE4WkhCNENXVFNfUEhuWHNHMlBKM0g5R2pXQTNaTkFycDNTeHVsTmYtNUp2X0V3Wl9ieUNXeHBVczBtZjBxVzNBMm9GUXNTSXp5UF9kb01ybDJxMVM2OHlVWmRJdE84a2FBdGlmSkdJODhJZUY0U0pPSWxNM1N5cjB0UHB2ck8tWlNRTHF3SHUzTndzczBfMWJGdm5wWlJCVjdmeTRkU195empsUUNTWTZUU0duMkZ3V2pnUGNvTjlQTmZSVzlSS2tFTWo1WkFyV3dCNWZ1b0hfSVE?oc=5",
-"d": "2026-11-04T07:24:37Z",
-"o": 6
-},
-{
 "t": "El ciclo vicioso del financiamiento en exploración minera",
 "s": "Mexico Business News",
 "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR05DUDRWbDhhSVRQbXdlXzFhSFZONzdiOGozR05TZXd1S0kwZE44YWdNcFBPVzVzRlhYUlVqME1UUzV1Mkh3MmlMcGhnNlNOUFRYd01sV3lMdkQ0TlpaQTZEbVNGa1h1SlY2LVlMUS1JVEg2bjEyckpKR096czVLX0tfTVVsclgwRzBLZXBUVFFlYzBER2RUYURqZTZmUFR2Y0E?oc=5",
@@ -89,6 +96,28 @@
 "nombre": "Inversiones industriales",
 "items": [
 {
+"t": "México fortalece vínculos internacionales e inversión industrial: Sheinbaum",
+"s": "Sociedad Noticias",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEdYNGtoNEJFRThZRjJKTDhXWlpWd21vSldMcXZKVkZBc2xCY1dNd0JRVFhPNk9HRFVhSi1OdUdWTzNGYTJRQmxYVXJ5SmwzM2ZZd0tSNXVmSzdYR056ZzkyUzY5b3BZVDhhWTZWdU82dHVzcFZOSTBXbWhlRXhWcHBpZVVPbjhpMmh5SGUxN3RNdExzaVlxSnlERWpuM2tTYnVfUUExT2NoLV9vNnk0T3lRQWNVNGM?oc=5",
+"d": "2026-11-13T15:46:15Z",
+"o": 3
+},
+{
+"t": "Con nueva planta industrial en Hidalgo, ampliará WEG operaciones en México",
+"s": "NVI Noticias",
+"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHFiRmFKakhXc1VEdWRSNUpQVXdnWkQ4ZVk2RUo2TVJJbF9QVjR6NEhHOF9Ob09LUHctcFc0YlVyOXZ2Y2k1ZHFzRUkxOXBmNXN3aGhNd3FvOGpuS25ycWEtZVluZG5jOEkycHdDaDJiUUtKX0dORW5ISEdwVEV0NWtmNkEyeVRtZjR4LThzSVN2ZHdHWmFlMkQtUUxCVmJpLU91RHdLeU1hNTB6empHU3RlNzVDTUho?oc=5",
+"d": "2026-11-13T10:31:47Z",
+"o": 7
+},
+{
+"t": "Salamanca busca incorporarse al Plan México para atraer un parque industrial",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekM3VXk4Xy1EWlkzdWhTYkJOaG5NbDdtMkZ1djIxX1hhWTNXVnNXbTlfaDlSMnNIVWxSaEJ5aG5MNlB5ejNUZUl5a3FibDBBT2ROYURSbmpFWW1EcG95dUhSN1J2a3VfNFk4UjRCZ1VqdVAxc18wX012NUFWT0F4bUdlOXZxWEhEcUhGMUlCWTMzOGhicnRqUk0wRERUX3EzNnp6MHVkYzItQXM4cU16TjFZNjZZaXdhMG8wdWlUNi1ONEVlSGc?oc=5",
+"d": "2026-11-13T07:31:46Z",
+"o": 4,
+"c": 1
+},
+{
 "t": "WEG invertirá 250 millones de dólares en una nueva planta industrial en Hidalgo",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1lQNXhOc0ZtbzhJZGx0dUFIRnRhWnRPQjNjTUhJVkRtZHJGNW94S0lwbjEzVEVNX2RnR3lPNmNOVXp0RkxNMnNnTnFlcXFiQzBxSGtEOXlnYmlKUGRRUlB4WTJId0w4WVJjbHBqN1dzaUlYRFg0dW4zLWQwMmJFNEM2RkNyZ0pzeGZ2cU1RU0ZySWpQQ2Y2YmZHQXhCWHpiTk8tU2V1aTJWZFFiS1A4MUZWcXVjZnc3QjRDWElabUxhSUl2?oc=5",
@@ -96,12 +125,11 @@
 "o": 7
 },
 {
-"t": "Salamanca busca incorporarse al Plan México para atraer un parque industrial",
-"s": "El Sol de México",
-"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekM3VXk4Xy1EWlkzdWhTYkJOaG5NbDdtMkZ1djIxX1hhWTNXVnNXbTlfaDlSMnNIVWxSaEJ5aG5MNlB5ejNUZUl5a3FibDBBT2ROYURSbmpFWW1EcG95dUhSN1J2a3VfNFk4UjRCZ1VqdVAxc18wX012NUFWT0F4bUdlOXZxWEhEcUhGMUlCWTMzOGhicnRqUk0wRERUX3EzNnp6MHVkYzItQXM4cU16TjFZNjZZaXdhMG8wdWlUNi1ONEVlSGc?oc=5",
-"d": "2026-11-12T21:54:22Z",
-"o": 4,
-"c": 1
+"t": "WEG invertirá 250 mdd en nueva planta en México; crearán 2 mil empleos",
+"s": "XEVT",
+"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUgyNVRUU0tCeWprNUxSQXV6Q08taDQxVlJmZzhwbDZFS0tKOE9nN1JEamJ5WVdrMzQ3X0Q4ZVhsemRSYXNMVVJ0bk9OWndQQjM3V282Qjhac1BXRHhyM0NGOHhMRVNpY0hqbF9KYlJaT1BGNjBBVlZVWlBibFlXYmltQkxxNHh1WkVra3g3T0JFRnFXdm1TQVpqLU9faTU3d3UxWU1kY0ZEQQ?oc=5",
+"d": "2026-11-12T18:45:39Z",
+"o": 8
 },
 {
 "t": "WEG invertirá 250 millones de dólares en nueva planta en Hidalgo; generará 2 mil empleos directos",
@@ -116,13 +144,6 @@
 "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3hid19zNC1ZT3l1ZlBlVzVWUU9uU25HVXU2N2tWQlFmTDhMdXFCSXJHMFhxazJNRUdqU3dOWkxzY2NuRGNxaW1NUllaQjg4TEU1NTkzRGYyNGJlMmJ6Y0tyVGxmMkZrRm5MZEpnQWVuby1LYS1BeURiYXpYUEFKYWRxbjRlbzl3dGVYaDVlU3BsWmRxWTdHYW02V0RHVG0wTk1Nc2lBd0xfS0JXLVA1WnVoMzQ0b1kyTWQ2VHlyOXlFUUhQNUl4UUQ3NA?oc=5",
 "d": "2026-11-12T17:45:04Z",
 "o": 7
-},
-{
-"t": "WEG invertirá 250 mdd en nueva planta en México; crearán 2 mil empleos",
-"s": "XEVT",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUgyNVRUU0tCeWprNUxSQXV6Q08taDQxVlJmZzhwbDZFS0tKOE9nN1JEamJ5WVdrMzQ3X0Q4ZVhsemRSYXNMVVJ0bk9OWndQQjM3V282Qjhac1BXRHhyM0NGOHhMRVNpY0hqbF9KYlJaT1BGNjBBVlZVWlBibFlXYmltQkxxNHh1WkVra3g3T0JFRnFXdm1TQVpqLU9faTU3d3UxWU1kY0ZEQQ?oc=5",
-"d": "2026-11-12T17:32:00Z",
-"o": 8
 },
 {
 "t": "WEG invertirá 250 millones de dólares en nueva planta en Hidalgo",
@@ -195,13 +216,6 @@
 "o": 8
 },
 {
-"t": "¿Cuántos empleos genera realmente una nueva planta industrial en Nuevo León? Así puedes medir su impacto",
-"s": "PostaMx",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnFoSDN3c3dnTGdSV2ExLVpjM3N6NmRmTG9GTks0MmNyNUJfYU5VSy1HWFZSV1EyeTJTdzV0UUpUd3lxODdVWHk3U3RhamxudDF2WTRVNTN6bDFseUxRaUZES29tcWNwUWdFNGt5OXZjdXRvbWJWX0VUWFFneHE0Y1ZENjRmeFBBV05WTTVTNzdRZEZEWUM2QnE4LVB4anlzT0pvOXVEZlg2TmlublFYcks2R0V4YVVnU0JSMTIxLU1FTkNFWnllbmVOSXptTmUxYURnejl1ZGRqc25qRXVFRFp30gHnAUFVX3lxTFBEZHZndEpQSFJyVjFDX2REb0ZGd3ZpZ0tXSjlXbUREeFBObDhoNHBxbnozanl5enR1LXFaT29DOTJqRjB2aS1Gb1drU0g3UFhOUmp5RVk2el94T0hmcFpxbFJ4T0FQYUVGTnFQZ3Z6RXBxaHVlRXhHdEI4aVpwRlVXV0hDNUNuTldXY3NUeWVhY1AxRm1mWE5ybElDV09jS2kyNmFQV1doeHR4al9hOWhZeEV6M2xud0Z6MXlJbXQ5VXVXd2dPMmxTZlNkQ1ZuaDR6VElNZWxDYzZpa3RzUXYzZVQ3bGdYMA?oc=5",
-"d": "2026-11-12T11:55:00Z",
-"o": 5
-},
-{
 "t": "Inaugura Miba nueva planta industrial en Ramos Arizpe; fortalece presencia en Norteamérica",
 "s": "El Heraldo de Saltillo",
 "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmREUWxnSzc0RF9Qem16QnpLeFBIOU9kNk9WTXlMZ2cyQ29BdXFPYmxLaHc0clpIRmtaYnVGSHNzMDNYa2tWb2xQOWFwX0w2azhtYUdESElsOUtsdHd6T3RqZTNsZ1N5eG5YeEJWb0lpeF95S0t2cG9HZ1pyTUVkTXhLVlgxNEpWd1JFUl9IUWJoS1NrcnNQZGF1LWJOLV9XNERFaHkySllFYmJKbEZuTkxwM3dQdFhTNlEwaUFnOXBFSHE4NHZWZXREYnA?oc=5",
@@ -237,13 +251,6 @@
 "o": 7
 },
 {
-"t": "PPG Comex invertirá 2 mil 400 millones de pesos en nueva planta en Acolman",
-"s": "Apocaliptic",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzlhZFAzOWpUUUZ4M2ZfTTg5YWdPOFdScHZLZW5CaWNOLUlLbTh3eENWTGR1VnpySTNQTW1sTkt5Qmp2RUh2NFV2Z0N1NWJlWVVnaGFESWRuYThKY0dnNURacUpoUXByMkk5aktkMldINXh5REZYbzBpM0pwODVXa2d5d0Y2ZFdFYTlfclJqM2txZ0NKczFpejJJNG44Y1FXWnUyZERGdmJ4Z2d2ZzFVMDZMR3RNLTVUWDFGTA?oc=5",
-"d": "2026-11-09T16:39:14Z",
-"o": 7
-},
-{
 "t": "PPG Comex invertirá 2,400 millones de pesos en nueva planta de resinas en Estado de México",
 "s": "MexicoIndustry",
 "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3F0SkYtdWM2ZkFYTjdla1I4OXJXSWpPOHNDRWZUM0IycXg2a0RLRUk1QnRMaW1kRzRoY2JmazhLMm11X3pvUU1XQWk2SHd1RFRldFcwQW1WX1VrLVppQktISXBLd1pHMnp1NXZwRzJQREpMVkdVUi1YbmdJOUV5T0kxaHNkQ0lDbm9fWFFVSF9uc3U5VGdSbldiUXJ6UjgxYkkwV1hsZk9yWjNOSGxMaXhkcmJZLTZrUHdwT1p3YnI5MFk?oc=5",
@@ -272,6 +279,13 @@
 "o": 7
 },
 {
+"t": "Coca-Cola FEMSA proyecta construir una nueva planta en el sureste de México para reducir costos",
+"s": "ContraRéplica",
+"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSFM3ZkRMOW1rSUFCRVdhVnJMZGg1UkYwcUxMRFpyWkhOLV9OWW0wQ2xYWm1iUnFldnFUTjE3ZnQybGlfWWdnUnVzczdSZ1Vac05lRnpoVUJjd09hNWx2QnJJTjhZMU1hYXY5SUtoNGxlaEx4emdobHNOb0ExcnowMG4zM3UyMFRjUTYwTXphMGxJQmlLcnZraHc3NV9zTURHbDZBbjVfcjlsZGxsRHAtRDg5Y3R3aG9nYl85WnZNT2NJN1JuNGYzNWVsZ0tLYWNJdW82dFV0dw?oc=5",
+"d": "2026-10-31T07:00:00Z",
+"o": 7
+},
+{
 "t": "Coca-Cola quiere construir una nueva planta en el sureste de México: transportar sus bebidas desde Toluca ya es demasiado caro",
 "s": "www.diariodetabasco.mx",
 "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEwtZmVMNnFkdVZEYTlJa0NfSHdSOG1xbWhiYmxLYnEyRWVhTTMtYzZQWnlSa1o2MmszRHNDZ2QtM0I2WFdqZFdfdG9Oc2lnY3Z5X3VXbEkzRkdKZDlmZlJyLXE5VDZ4YUpabUxxZml1NEJibmNoUHF5Q3FLVzlIbnVFQjJxaVAxMmEtOTFxUHlaeDdXdUt4RldYNTkxQ0dmaEVvQ2xJOGcyUFBOc0E5VE1fWXpfUHowYXNDN3liVXI1dHJXUDl4MDZWRlhDek8wSk5mQ0hpM0ZocUl2dWtFOHQxa1BCeUNDSWRnYjUyNWs3M01Ed2RrX1VsS0Ribk5UZW5TOTZqTTY?oc=5",
@@ -291,13 +305,6 @@
 "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWoxNTF1Q05laU9EbFRPZExqVlRRcmN3NG1aWXNHdVl2ZURNV3R5eEVQYUUzRVpMNFB0Q3pVMzZ0Y3VqdjN2Ykx0VHNaSnBrZ1ZESGJCdEFsN01oMHNhOWxXNWdSWWdrZzNmRlVGN1ZqRlJMWUZMcG9OVjlwVEZEZGw3RW1jdFkxalM5dGE4ZnRhakRJLTlEcTN4U0VEQTZDQzNjNzlaTk45UzZ5WDE4d2R3?oc=5",
 "d": "2026-10-29T07:00:00Z",
 "o": 4
-},
-{
-"t": "Albergará El Marqués nuevo parque industrial",
-"s": "Publimetro México",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemhXNE12T1Z2MnN2a1J2SU5kZXhLWURSWEVjSjNpY3dhckdab1ZrYXJUVExtRjJHVWJfb1lObS1BZHRmRkVYZDVtbGUxWWh0ZFNBdzM4SV9OWlhxTHVaRGYzcVUtVTVtVUU5T0k2SzlCQnZfZk9CWENhUkdQMHVUTkFSdjROWGg3aXg2NTRpOG1zYlh2Rzd1Z0hPb2U?oc=5",
-"d": "2026-10-29T07:00:00Z",
-"o": 4
 }
 ]
 },
@@ -305,6 +312,13 @@
 "id": "acero",
 "nombre": "Acero",
 "items": [
+{
+"t": "Ternium, con nueva acerera en 2027; ejecutó inversión por 4 mil mdd",
+"s": "Imagen Radio",
+"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW5mb0lqUEJtQXJ4T05nS1c2enpCR2Y2dVN6dkppUVZ6Qy1kcW1mSG83WEhidVU1Zk1sWUtLYVFTVEM5eGtkYmVrZDExeWRnRXh4MFlPb2tWTjB1Sm8wN3AteFdnS0RtcUdBMW0wQmZLd2NKV1RweVZsZFFKRjhBZzlJbkZfUkhhWlVPWU1JNFBEX3F4dGVzRlV1bUk3TGR1OGNUTlY4YWVGZ9IBqgFBVV95cUxPbW5mb0lqUEJtQXJ4T05nS1c2enpCR2Y2dVN6dkppUVZ6Qy1kcW1mSG83WEhidVU1Zk1sWUtLYVFTVEM5eGtkYmVrZDExeWRnRXh4MFlPb2tWTjB1Sm8wN3AteFdnS0RtcUdBMW0wQmZLd2NKV1RweVZsZFFKRjhBZzlJbkZfUkhhWlVPWU1JNFBEX3F4dGVzRlV1bUk3TGR1OGNUTlY4YWVGZw?oc=5",
+"d": "2026-11-13T14:27:13Z",
+"o": 4
+},
 {
 "t": "Industria del acero enfrenta caída en ventas por menor inversión y tensiones comerciales con EU",
 "s": "Imagen del Golfo",
@@ -327,10 +341,17 @@
 "o": 7
 },
 {
-"t": "ArcelorMittal México: 50 años de inversión y transformación",
-"s": "Reforma",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1pLdmZNV0o1Z1NOa29uWTBmeXlzS1dDLS1wbGFYUEVZNlNXcmhDTEE2MjhCclhtZ0JhaG11cC1mOGRUMWVXaHdLQnRZVE9Vdnp1TktaMm9ENmVXanNxbGpfc21pRV9YOTVzVGFyTjRNcktoVi1ac200SzZQT2ZPc0JZbHlybXNWclc5WUZYOFNuel9hMllR?oc=5",
-"d": "2026-11-04T20:28:29Z",
+"t": "Aeropuerto de Guadalajara acelera su expansión",
+"s": "Pulso Diario San Luis",
+"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRm9xVEZjOU5RdU1EVjVtQl8teU1ZRjVITzFEUEFrSkpxQi1mNUpPMzlnc19EUEN4bnc1SlFmNEUxS3dFdjgwM1hOenI5Ujc4Uy1oY01wcEpFR3o0NDJ5YURKYm1xaERjM1Zwb1VXS1VQRE9kSDFIZElqR1QxdThTd3ptRjAySUd0TFV4N3ZPTETSAZYBQVVfeXFMT3RYRmhuT0VxYTI5bEF5TUdUY0RtT2cyNUtXRlFSRGN1THhmaXBSdFNVajJtZmhpSTJaVVlfcThaZVlVd1lxMUt6OUNsdU1jVjFVbjhpa1NYZmZOdWdzd0ZFLUF0a3UzeURkMkJ5S3NrUFo4MHgzbzhmei1RTzNmT01vZGx1UGQzd0x2N2trT0JjT0RDOFBB?oc=5",
+"d": "2026-11-06T20:55:00Z",
+"o": 3
+},
+{
+"t": "Puerto del Norte en Matamoros busca atraer inversión",
+"s": "Pulso Diario San Luis",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFpMN3RLNVBnblpESl9OcUp2TjlydDJ6MENNbFczN3lTeW5WVXc2bHlWTHFTV2pOS2xkWFV6X2c4dUpieC1RakNwX2pRRXZ5cS1ZR3VGLThFQ0N2YmkxVWx1eVVHLV9jaUhpUl9leTNkMVJkcl9lWGQ0V0tFX2NkdG9qWms0N3U4X1BLOE5uUzJSWHhrS3d3dGxUZXZDZ9IBowFBVV95cUxQNFNJUklJUS1CTFYyOVBRSGc5QnAtM1B6UWxLUjgzV1hNMGprWGU3aXZZVzRYaDRmWFpLYkVpbmlSQklMNTlVeDRFaVdaNHFOMFd0RnRQMUNhV0pTRGtLbm1RWV9XSV9jLTZOd0t4eEd0aUQzak9MbDhXY2RYdHZtN09Jd1lQdVlSblRpN2dlWS1FX1NsVUdVSzJyUWxoTzNxNGRB?oc=5",
+"d": "2026-11-06T20:10:00Z",
 "o": 3
 },
 {
@@ -339,6 +360,13 @@
 "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmtDaDJGS2V4NzNfMHNvaUFjRTh1OTZkTm5vd1BrWEpHVGk4RF9hTGxiV1VIQWZISlE3SE0yUEhOakRyaFhvc3B0eVpfdHZmYnVlOHM0bzBlY2NPWi1XX3RfczJ6clVCYXRFUzR5YUV2YkdRdnhDdm1PN0pJTlNJTUthU2V4Z29UY2NMRGNmdVBqTjJXY1l3MzlhMkcxWnfSAawBQVVfeXFMTl8wektfZGNfNTlnckR2S1piSVJob3FYam8tRWxGZno5MnJxR0FWSk9QZG1tNjQwU0tpbEJWbzhuOFpWN21oZ0QtUDk5TTEzSDhBZndXY2NLa3NDY2NmVUlGVEdDYmUwOEJUMFN4QndKSG5NdzdNRXF2eUYyMVVHRG9DSklCbXhKVjJJYmd1Ym0yWVhzNFNzTW9OTDByM3did3hJR0lCNjZvRzFDSA?oc=5",
 "d": "2026-11-04T08:00:00Z",
 "o": 4
+},
+{
+"t": "ArcelorMittal México: 50 años de inversión y transformación",
+"s": "Reforma",
+"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1pLdmZNV0o1Z1NOa29uWTBmeXlzS1dDLS1wbGFYUEVZNlNXcmhDTEE2MjhCclhtZ0JhaG11cC1mOGRUMWVXaHdLQnRZVE9Vdnp1TktaMm9ENmVXanNxbGpfc21pRV9YOTVzVGFyTjRNcktoVi1ac200SzZQT2ZPc0JZbHlybXNWclc5WUZYOFNuel9hMllR?oc=5",
+"d": "2026-11-04T08:00:00Z",
+"o": 3
 }
 ]
 },
@@ -347,17 +375,17 @@
 "nombre": "Licitaciones",
 "items": [
 {
+"t": "Coahuila: Acuerda CFE reactivar pedidos a empresas afines a Tony Flores",
+"s": "vanguardia.com.mx",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVNFVTVhZmpjNmpvQUYzNmx3Z1JSeHk1Vmg3Z0p6c3dud2Q2LXpCb1JDV3h3aS0tZi1PajhJOWl2ZFRKd0t2YjFsWld0VzEzaEp2ZVktcXBjbHVNVDVmTWN1ckRzckphbWMyby1mWVJVRS1nSHpEQ3RZWk5TVm9acjJYYURSMEtUT3ZwMEo5anJYYlVMSEYwNzE4aWZiOXI1WG1va1lkdzF6blJLV21PQW5VMHkwZw?oc=5",
+"d": "2026-11-11T11:00:00Z",
+"o": 3
+},
+{
 "t": "CFE declara desierta licitación de planta a gas de 130MW",
 "s": "BNamericas",
 "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTNrTVRkZS16S2hxNUI4dnZYWkhrcHVxQUxaRHJSUXA5Rkh2RW1uMDE5dHZEdHZ3d2p0ZmRJZlFMVklybTRYSDBQRzV2ZEkxOTYtdGt5VF9rMXN1UzZreHUwbnlqOWVYLTQ3VXUyMHVkZUgwOE5hdG9vZFZBbDh4S0hQRmgxSTRKbEJFdkRCRmhoODlVRmJZb1FyeTZJQU0tVnFDZTJaUUY?oc=5",
 "d": "2026-11-10T20:43:07Z",
-"o": 3
-},
-{
-"t": "Factura comprueba que el ‘Rey del Huachicol’ cobró millones a filial de Pemex que combatía el huachicol - MCCI",
-"s": "Mexicanos Contra la Corrupción y la Impunidad",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNakY3VlVKUG9NUGJJTXRYQlZJSkFLemlWMzJwYllyR2NQQTNBOVpaWWJfM1RYdjc5ZGNrek1YRFZneVg3bi1UUGhUbTFIdy1BN2pORTFHNjhwRHExLVRkTzJTcDVxTUhDSEZIVmxYT0ljZnVYQXA2cFFycGlpQ0t5dWZIWmptQmhydS1rX09wbWgtVUZ5TzUzS3NaWUFoTERsbl96TmJ0Vi11bFBrUXNZUnprRGNZQk92NGNxSGhUUTNfSnZwQm1rQmVaMFk?oc=5",
-"d": "2026-11-09T13:10:12Z",
 "o": 3
 },
 {
@@ -382,11 +410,25 @@
 "o": 3
 },
 {
+"t": "CFE lanza licitación para reforzar red eléctrica en Puerto Peñasco III -",
+"s": "Petróleo y Energía",
+"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTlOcEo0Nm5hZ2EteWJyOWMzRzdRRzByR0NXWnlubVZWREVqekRHbGdwcGlOd1pVUXQ2Nl9FV2dqZnpaZEgxMUJuajdOaWp1MS1GVC0wNWRHeml2SHZmSW93dkw1ZVMxWUZGLVlHcTBJSWNKWk1iM0kzV0lwMUY5SmVNYVVnZ3JYX1VMdE0xYjBvNGdQaHk5MDBxeWN5UHUzTHhwd2l4OWNfY0V6?oc=5",
+"d": "2026-11-06T17:13:50Z",
+"o": 3
+},
+{
 "t": "Postergan la licitación del Belgrano Cargas y crece la expectativa minera",
 "s": "Diario la Ventana",
 "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0QxTEszcVBjS0t3dHpxcDJVeDVTa3RpdmQ5VTF0c0pQeVNTM3ZLd1FwVEpUY05YcEtjNHVDR0VKRmJRMjB0QkdUbW84Sm11Sk93WG1kRk5zcUVrVlhTU1Rud0pHVzZYVkFqSGFUMVQ4YXRFdnEyUW1HWUQ3OEVXOXg2OVpuU3pyRGc1MWhVWUVkMHVuUnJjRHQxYy1fZ2piZmdTOWpvR0k?oc=5",
 "d": "2026-11-05T14:26:48Z",
 "o": 4
+},
+{
+"t": "Tras la salida del Grupo México, el Gobierno postergó la licitación del Belgrano Cargas",
+"s": "El Cronista",
+"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEJkZjJhRm0ybHRoNGtuVGNPSlRHVFl5TDVfejQtNEo3SnRrQkFVYjVGMFpnaGV3V25LSmpKbFVPVEJaSzVueVJnZF92U2pjM2ROa0F4UUc1aDFXV3o3Smw0N0hTMXhHcG8wZHE4bU5Rb1JYQmhIcVE2TFVUcXB2Zm04dk00Sm14c010RThTN2xfdVhRbmtqX2dTTDBkTTNrdUstUGx5TndXaFNNeW9GcWV2YmV2RG1jYWdocWlRSnBFYUxjbDhGY2tR0gHkAUFVX3lxTE44SkhIVkpSTm51eGNkU0wwUG11dGRkZmdqcEdVSUdsVWhyd0hXd1Z4Q0g3N2Zsa2d3UU5lOHZsczRMMzBQUEtjaGlDRVZpRjZFQk5TT2dzTl9RdFZCclNwNW82NUZGN3N3by1NQkdrUlRZcmo5OWJEbVhEQzRwZTNQNS1fUjBTZF9KandTVU16STFDeXYxYnRSSzU5UXhCVXE4eXhGRFptbzJIbm93RFcxcVl1VjhmcDdHTHBSMVU4NWxFWjdWYmlua2xxaG90TldTcHdyMGJjeFBpcjNtOUI4Ti1FVw?oc=5",
+"d": "2026-11-04T08:00:00Z",
+"o": 3
 },
 {
 "t": "ATTRAPI ajusta proyecto y cancela licitación del Tramo II del Tren Querétaro-Saltillo",
@@ -421,6 +463,14 @@
 "c": 1
 },
 {
+"t": "Gobierno de México suspende licitación de tren de pasajero Querétaro-Saltillo tramo 3",
+"s": "Milenio",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkFpVkU1SXZDUTZFWlBtOUZqWnJGaDE1UC1EQW9BV3NDRF9GRzNPclo0dWtIZ0RIZnJXWUNGaDVMMmFzWndxUlV4dE5pWkUzOEgyNUxMR0JBQzlnTF83ek1oQ2VJQmIxUnlsTzRPd3dnWkFURmNWWTlwUGZLWVFYdGkyc1VFSTh2M1N4UVlEZ1oxcURURkw3RVBB0gGaAUFVX3lxTE13ZmdPZHJPWUlNTjNmVGdFVDZVZW5XYXBmZldJZkZ1TGdaQl9SRzd3MU14Y2RoR09aYjVTYktRQjBDUGVMZjRrV1ctSHNoa2h3Mm1EUC1IVWRLaU05NDNYX18talg0SHNKNnlXeUxULVN5ZmU5bXU4NTJOX1RreTgyUTNyVWZSUzUwMnlwb3dyaXVrMERVVkZtOVE?oc=5",
+"d": "2026-10-28T07:00:00Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Pemex entrega 74% de contratos sin licitación",
 "s": "El Universal",
 "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDBKeWtnU0hoR25ySTIzemVLLTRNZ2RQcVdKNllJbkhYd3o1Mm9xREZvdUpmV3JQbXJsajdKSnFxLXVtQ0NQSGhVWTRrcE4zSHNsZ3YxT3ZDNUlRalRFV29BRlF4RGQybmdfTGduRWhQX2M5clJIbTZpdFFyWVFMb3psdlVxMFFoajF3Y9IBoAFBVV95cUxQV0RZRHdDLTlZNU5paFJNX2Y0TmExbFMtNWJQVWhSZ3k3VHBKWlNnUEQ0azVRT0xDb2VVNHBQOUNSd0tHU2U4SnA0UlhBaFYya2JQdlI2UVFFZ1FoTlFGZDFHcWxQTUdINFR1UW9aMzZheHZ3bG9tNE5PLUtlV0VwSzJjOWR1ZEVrUDhWa01rMzRIUnZzYll5Q1BoSDl3R2xH?oc=5",
@@ -434,6 +484,13 @@
 "nombre": "Empresas del sector",
 "items": [
 {
+"t": "Ternium, con nueva acerera en 2027; ejecutó inversión por 4 mil mdd",
+"s": "Imagen Radio",
+"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW5mb0lqUEJtQXJ4T05nS1c2enpCR2Y2dVN6dkppUVZ6Qy1kcW1mSG83WEhidVU1Zk1sWUtLYVFTVEM5eGtkYmVrZDExeWRnRXh4MFlPb2tWTjB1Sm8wN3AteFdnS0RtcUdBMW0wQmZLd2NKV1RweVZsZFFKRjhBZzlJbkZfUkhhWlVPWU1JNFBEX3F4dGVzRlV1bUk3TGR1OGNUTlY4YWVGZ9IBqgFBVV95cUxPbW5mb0lqUEJtQXJ4T05nS1c2enpCR2Y2dVN6dkppUVZ6Qy1kcW1mSG83WEhidVU1Zk1sWUtLYVFTVEM5eGtkYmVrZDExeWRnRXh4MFlPb2tWTjB1Sm8wN3AteFdnS0RtcUdBMW0wQmZLd2NKV1RweVZsZFFKRjhBZzlJbkZfUkhhWlVPWU1JNFBEX3F4dGVzRlV1bUk3TGR1OGNUTlY4YWVGZw?oc=5",
+"d": "2026-11-13T14:27:13Z",
+"o": 4
+},
+{
 "t": "Ternium producirá 2.6 millones de toneladas de acero al año en Pesquería",
 "s": "24-horas",
 "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHJrRklaajFOOE1jTWJVdXRhcTUwSUZWU3JPSGdmZ0dVX2tGVDRqM05UT2FjaTVDcmg0MUVMVkNKd1lZN3pmT0o4SVRNandyVFpaWDlXQ25YTnN2NUZ4c3F6NnV3bkcwMXd1MHBOMmtJT1AwN0d5bE0way1HcmtydkNmWDdlR0hMYTBKZDg1QU51RWZNWS1jNWtUamhrSXBwUEZIbQ?oc=5",
@@ -446,13 +503,6 @@
 "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWmcyVG9YX1c1ZVFtNGN1bl9yNFNud0M2WEJFTDFmREJKQklTbHFSOGRzT3hVeUtxUGl1cFdaY2oycUpRamwxVVRlTUJ4Q3BXbFdEUC02bzlFX1pQeUJyS3NUSE5MYkRuS255ZHN5dkdfc0RWaF9xRkxLaldaWTFpMlBoVmh1YVhuc1Y2aS1VS0FBclI0eng0bTNMcnc3UldpSFpHLUpjZ2c3SmZIbDJyWlpHeXBiUENQTGNHVlpUZVphbnZtRnpqeWJoY2xSWlNFeW90bjM0bEwxRXdBRDdEVWlWYU1panl0enIweFRueGzSAYsCQVVfeXFMTWp4bmhnbGpYSW9iaUg5amg1NGttRENwRGJ5dlQzVlBLU2ctQUtlWFdCdDhZZHBrMjJEOWtxTGxzVkpjX2ZJdV9lazhYQ01xZUE0OWgtc18zMUVwTGtGMzFXMHY2SGNOczdSemQ4V0pCUEVtblZLd1hRVDhQSWxtTzJ5T3JUc0dfLTZNUXBjY0s5UWZyQ2UxMDVaaUFHaFFQUjd0bDcwc2JTRElBam03ZU5XaXpfNVV1MW1jRjNWTHpKeUxuYWs0OGNEN3pZRENCQWt1cGRvM0hlZFJCZGQtWUFyS09QLU5teXNTRlhrYkRnZmNwcUg2VTdnYkl6akhsNDlMRW55SnNUNzFn?oc=5",
 "d": "2026-11-12T23:20:35Z",
 "o": 3
-},
-{
-"t": "Proyectan presupuesto de 5 mdp para adquisición de luminarias",
-"s": "NTR Zacatecas",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWV1azd2ZlJOY0Ytb2ZCMnpVajdTOVN2dWxsZWppbVgwcFowZWtsNHYzcE5rdDlzbzNMRzVTa1V3d0tKa0NqcEk1eTJtc2VsdHFNMzRqQ2dCYWF1UmJIbHF3Y2lCWWVWODRxa3hWQnMxeXJwMmtIanFXVDNQRmJDVXAtX0lUTmhBbjRZYjZfcWxQSkJDaURHdVNzWQ?oc=5",
-"d": "2026-11-11T23:25:57Z",
-"o": 4
 },
 {
 "t": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
@@ -474,27 +524,6 @@
 "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDBhTjBuNll1M096NzM5cnBDaHZLX0xTbWRtY1pFUUd3WEY4aDc5NEdDRkMwZUFvTExDWGczZ1M0SlA3U3VPZ0lkblFwSG9kcE16NnJvOExFclZvRDZfRVZrQjI0OHBZUHkwTE8zdG1IaThEdmdhM2FLSGlKTm1vR3hWTXgtUGZfNHJrZXpwVFVPeXVGQjNlWHh3akRSRWdEdmNXNGZYYWRNWXE0WXZXZ3hKM2paVEM4d05R?oc=5",
 "d": "2026-10-26T07:00:00Z",
 "o": 3
-},
-{
-"t": "Grupo México acelera expansión de cobre en EU pese a caída de producción doméstica",
-"s": "Minería en Línea",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmpfZ2FqTm02djdTbmZxbnBrMGJXZjA5M0tJZnZxaC1Nc0xENUt1aGdWY29SV1BoZlNDNV9RVGtFZEVlZmRHT2dNT2gySWltU2UwVF9wVTI0eng4NHFBcWVQMmt0QnA4TGhXSlh6SUk3M0VNM2luYk9XeDRaNWNhM25veHRDejQ1bkpOWnAtRll2em9nZFAxU1A5UW81Q2hDUnZyWDljbGxzSUtjVVdfdlNrMDdSckRGMGc?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 3
-},
-{
-"t": "Grupo México invertirá hasta 6,000 millones de dólares en Asarco durante los próximos tres años",
-"s": "Petróleo y Energía",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2xGVUdwY01MUm1nN3pobHJjaFZZYXdpWVhQbjJ6TVM3V0ZsUUFMSGxGcGVGaTBTUlNrVU5jeXJ3UXdCSUQzbzhBWkxPZGZYSWtQdi00bHh2akhtZ1J0dW9TOC00bUh1ejZ6ZnBkQUVlVVpHWUNvUUhIbmJzdzFKY0V2QU1HV203RWJ6OHkwdjRYT0h1TllzazdRY1RfR0lQcjhDbUZGb0V5cHVGZUVKQWY0RTJYXzEyb0FQUmZvaUtzb1FSWExGNUhmXzVKMm9ZUF85c0h5Y1B6Zw?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 3
-},
-{
-"t": "Grupo México invertirá hasta 6,000 millones de dólares en EU: ¿qué hay detrás?",
-"s": "Industry & Energy Magazine",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVc4MGdpS0hZekQ5bVdRQlFsS3ZVZ1UzTlVQNU5fbnU2XzhGRmk4MFp6QWZ4dEtkU19UZG1HR3o5Ty1LeHZJWHF4VXQ3Qm5aOGFnbEFRRE10VXRuOHA0NU1EdmNzRF9kbXRwQmg1UDJnbXp5bVlCb3NiMzFveTU0NUNFUVR6T1RGeVhUNWtsRjBNUFJ1MlY4emxHdmh0TUhHMkFwV0ZPVll0eGVNR1E?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 3
 }
 ]
 },
@@ -503,10 +532,18 @@
 "nombre": "Bajío",
 "items": [
 {
+"t": "Industria aeroespacial en San Luis Potosí: ¿cuánto empleo e inversión genera hoy?",
+"s": "Líder Empresarial",
+"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHl2UnZvakpJb3h4c19NY1B4ek9ZNnZYNUZJWEdNRi00bWR2ZE1lM0tYOFJVTGYzOEdtR0RiX3V4YmRzN1Zjb1k1SmdVeHJFLWVPaVY3QngxU0tiLTBzOWRjUUpHQVVEaFJ3cW1lWGdQWjhMUFQzTUZhNXlfV01BMEQtaUJMUlF4ZnBjSVprd1pnNVpucUhfcG1EbHJsTVVISG54V05pX1hhUjM4cDBCNi1B?oc=5",
+"d": "2026-11-13T14:58:44Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "Salamanca busca incorporarse al Plan México para atraer un parque industrial",
 "s": "El Sol de México",
 "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekM3VXk4Xy1EWlkzdWhTYkJOaG5NbDdtMkZ1djIxX1hhWTNXVnNXbTlfaDlSMnNIVWxSaEJ5aG5MNlB5ejNUZUl5a3FibDBBT2ROYURSbmpFWW1EcG95dUhSN1J2a3VfNFk4UjRCZ1VqdVAxc18wX012NUFWT0F4bUdlOXZxWEhEcUhGMUlCWTMzOGhicnRqUk0wRERUX3EzNnp6MHVkYzItQXM4cU16TjFZNjZZaXdhMG8wdWlUNi1ONEVlSGc?oc=5",
-"d": "2026-11-12T21:54:22Z",
+"d": "2026-11-13T07:31:46Z",
 "o": 4,
 "c": 1
 },
@@ -517,13 +554,6 @@
 "d": "2026-11-12T20:19:07Z",
 "o": 4,
 "c": 1
-},
-{
-"t": "Invertirán 3,000 MDP en nuevo parque industrial en Tlajomulco, Jalisco",
-"s": "Cluster Industrial",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkFNdmRxUllRTlBDMjNtd0o1dGdfeWNXSWdCQXFkMGtIdEJDTnhEMUJySnpIbnBoNnBhLVNrUjA0X1p4aGd3VFB1bDZYSWRHazkzcFBnMjkxaEpuazhwbTVnVG1Fbmh3YTJtVHdMb252ZUdKN2Vlcm84Ti1MNzJPaWJYS1FNTld5Q0dpcEVZcHdVMU1rU0Nzay1JRVRVNlFQRS1FX0lB?oc=5",
-"d": "2026-11-11T20:10:23Z",
-"o": 7
 },
 {
 "t": "Aguascalientes fortalece sector automotriz con 206 mdp de Marelli",
@@ -538,14 +568,6 @@
 "s": "Cluster Industrial",
 "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVpnQURUakYzYVVwT19QYWEwOVN0ak9BSGYwSThZSDdiVE1saGVKekJ4SWlNa24tZkhYSDdoZEJFWHVGNzdfU0lYUkxrR3VHd2J5cjZ3QWtyQm1jUUg4QmRGZVhDMHU4S0ZKTjBKQTVHZklyTTRKUjR6VF9SOHhlYkNVbGlKc05RRGtjUTdUc0dkLXVlNVlVOFotbDZqMzl4QTNiSGlxXzZOZWhfR3pzM3BVUkNyQnBPWWpPelV3?oc=5",
 "d": "2026-11-10T23:20:29Z",
-"o": 3,
-"c": 1
-},
-{
-"t": "Industria aeroespacial en Querétaro: empresas, empleo e inversión",
-"s": "Alternativo.MX",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXZ3SEU1MkxEbWNwU0E2NXlzUFIwai1FdnZkdUt2dEYyWmtwN2g0QkZwcnV2b09lSzJEOEo1VjktM3lPb3FFWE5SLUNzd0hEZTJDazRwOHFaQnVRVXNJWi1qTG5HZ3lCTGk4bWdldWVzdlJlMVJSbEl4UnVvdEY2TFBXUU5TSkl2N1FYdXhn?oc=5",
-"d": "2026-11-10T16:08:21Z",
 "o": 3,
 "c": 1
 },
@@ -580,11 +602,11 @@
 "o": 3
 },
 {
-"t": "Schneider Electric amplía su capacidad manufacturera en Querétaro con inversión de 3,600 MDP",
-"s": "Cluster Industrial",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejBLQmk1SndtOUpKSWtDWnE0VE8yaE1zVjVhVUU5STlBX25OTjlCV2ZYWmRyYWc1bkJCRzFha3dGaDM1R1R4NzF6di1JMm16NEw5dlRpVlhINnc3OVIyY3dDT2prbWJBT2JhWlp6endaWFRsV0QyakRsZ2lGNHBvMUFXOUx0ZVFTMm00VEZaNFRhcC1VZ1RobzRzdW5WWTR3dDJhV0xqZ1NTc29MdEotTS0tZm9QVHlYR1VldEtzZW9BSFRq?oc=5",
-"d": "2026-10-28T07:00:00Z",
-"o": 6,
+"t": "Meins construirá una nueva fábrica en Salamanca",
+"s": "SALAMANCArtv AL DÍA",
+"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0xxaXJaWVRqWXFUcC0xemwwM3FLWV9IMkZ2QmVldE0yUHgyUzJfYTlIWllhWk9FUkpMYzRRb1NEM1VLbnpqenM1aTl1VmpxbUhGaE5oVS1Dd0pyRjFrUGNWMEFzRldWV2FJODNhVlowemU1UUIzaU1NSkFjdXNGZGdDbDV6QV9Xbkd6ZGROYllSRWo4QkxFY3hWcWRhZkNJeVdENQ?oc=5",
+"d": "2026-10-30T07:00:00Z",
+"o": 3,
 "c": 1
 },
 {
@@ -604,49 +626,27 @@
 "c": 1
 },
 {
-"t": "León estrena parque industrial de 250 mil metros cuadrados",
-"s": "Periódico AM",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWR1ZXpJRG5ESEtQd0NGZ2xWUWhldWN6Ny1ZN1lrcUowTWxfQ1lHenJMd0hsLUt5NE9HUDZOeXphc0NyOHpvLXVyY1R5clNRNTZlZThKaEtuSFVCN1NsUUMxN19pS0RleTdIS184NzctckdNUVZDeFpNcFM4VU5EU2M3a0lfcUdPcmw3azhudVZDN0pfcldsTE5EbTdQZ0ZESlpZR3RmXzlUaDFYcUtGVmNmaw?oc=5",
-"d": "2026-10-27T07:00:00Z",
-"o": 4
+"t": "Schneider Electric amplía su capacidad manufacturera en Querétaro con inversión de 3,600 MDP",
+"s": "Cluster Industrial",
+"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejBLQmk1SndtOUpKSWtDWnE0VE8yaE1zVjVhVUU5STlBX25OTjlCV2ZYWmRyYWc1bkJCRzFha3dGaDM1R1R4NzF6di1JMm16NEw5dlRpVlhINnc3OVIyY3dDT2prbWJBT2JhWlp6endaWFRsV0QyakRsZ2lGNHBvMUFXOUx0ZVFTMm00VEZaNFRhcC1VZ1RobzRzdW5WWTR3dDJhV0xqZ1NTc29MdEotTS0tZm9QVHlYR1VldEtzZW9BSFRq?oc=5",
+"d": "2026-10-28T07:00:00Z",
+"o": 6,
+"c": 1
+},
+{
+"t": "Schneider Electric inaugura campus en Querétaro con inversión de 3 mil 600 millones de pesos",
+"s": "Códice Informativo",
+"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkU2Ty0wYnlFZEZFRm9ScUZSamoycWJIZjNKeXdDcHNOX1g2dWRGWUdhUkFQbl8welUtTTJOT0ZhRkRBNVJPOGN0UmVzVEVfRXJHdzFLSnVsdy1ZdUtSaHFtTGtockJ5RnRRQmFRT3pNQjBGam1DQzIyV21FQjRMd0pUeTREQ2F5N0ZSdTVteFZUM3RSYWpmZGhQV2lVSEFtSGFMVUV4S0F4MDI5NWlBUTByTGpXTWFtbmdXcmc1aVM0QkZxamJiU3Jobw?oc=5",
+"d": "2026-10-28T07:00:00Z",
+"o": 6,
+"c": 1
 },
 {
 "t": "Aguascalientes, entre los 8 estados donde el Plan México contempla un nuevo parque industrial",
 "s": "DESDElared",
 "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJNOE9uUDE2LVZlenZRWkJFUDlJRFd3U3ZQMXhvd1lmWmFIRktfRWRnY3ZPeUFtaEVmYmVZbTVCUTlBOTJ5SjFTZGg0T00zQUd4bnhDNHV2aU9xZ3hiVVF3My1TQWRVWlR6UGZKT0xVR29fNnhiLU13OFhTc3kzc0xnbTZrdnpyU05yN24zNm9tcDFQczdSYXh6TDJKZTN4VEZkX1NpY2psWTVpSkdqZTkxZWZwejJzUlk3dzIxTlgzRWdCOXo0aEo2T3ktaVZESEhwcFprR25WZFJhN250cWh2cEpLTHBJZEg0?oc=5",
-"d": "2026-10-26T12:03:40Z",
+"d": "2026-10-26T07:00:00Z",
 "o": 4,
-"c": 1
-},
-{
-"t": "Nuevo parque industrial ayudará al crecimiento económico de Querétaro: Kuri",
-"s": "Plaza de Armas | Querétaro",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE9IZlFSWVhiU1lndWo3VTZnLUJJU0FYUFZRS2NRVmJwenVsT25rNUFPYzVyY2tZZloxMm1Vd3A1LXptSEhha0VXRS1xZEIwZmI0VVBBLS1PWXFUY1hLRzRjZXNTWFI5a0RkQnQ2cFY3R2FaODB3Q09CX2kyUndCTklyU3FXVHo5ZmFDNkhVSWpLREp5NXctTWRSZi05UTd3SXh0dEt3?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 4,
-"c": 1
-},
-{
-"t": "AIFA concentra cinco nuevos parques industriales en CDMX y Edomex; inversión nacional suma 763 mdd",
-"s": "Plana Mayor",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEJQNFQ1MHRGcW00bk9SRXdIRzAxUTg3d0FCSGRLcG91TmhGVnhwSzZna2Z3T244S1BQVTV0RG9xZ25SUFhuSGVCQ0JSd0J3VF9UQnBzd0M4UF82QjMyOV9ZemR0NkYwV1NZN1MtcVV4THlMaS1sd2VUaHR1LXZtQlFjQ2FqX3hLaWRKQ2FjbG1zZXdzdm8wV1dfZ3BWNUhiWmtQS0V6WHdvMkpKS1dNZUVQQ3pkNGpyMnJSZHV1RjVQdw?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 3
-},
-{
-"t": "Gobierno de Querétaro aún no identifica parque industrial incluido en el Plan México",
-"s": "Amanecer Querétaro",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2x1WUt2bVJNN0VDSE5DQUx2aDZhSmRCaHZEUkY2QWJ1aEp2UEp0QkZfX2lidmtTVXMwNU0xUVhNM2pPX2o3V0RRb1dhTTZ0MUtuZHZNUFc1T09fdjZyVnZSbTFVZDRHak1KOER4elA4dElUUExxVV9fT2ZIeFBkSlRJSVEycHVqZUdjdkR0OA?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 4,
-"c": 1
-},
-{
-"t": "Aguascalientes atrae más de 66,400 mdp con 86 inversiones empresariales",
-"s": "MexicoIndustry",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0Ria3VKRHlydWRnNWZvcU1xbnQ2VlE4c2ZtYldrRmpYQ1ptM0xSaGJ0aVRGUnA0VUJJZ1VGLUVzTHl6RGZkU25nczlUeXprR0hNWUc2bDBUUWVhX1BJaTFiYTI5cGl4WXhyZ1pYaUMzTG96WS0xdlp3S3JwQ25VeGZ2N1EtVVE1Wi01MldVYzVuS2dYaHktRUo4b1RkLUhCTExJX0Rjb0xsQQ?oc=5",
-"d": "2026-10-23T07:00:00Z",
-"o": 3,
 "c": 1
 }
 ]
