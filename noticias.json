@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-14T17:58:55Z",
+"actualizado": "2026-11-14T22:21:56Z",
 "temas": [
 {
 "id": "minas",
@@ -60,13 +60,6 @@
 "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVWlQeGRBRllqQWFUcy01dWJJcHYyM1ZFS3F6dXlWSjFnRjR2TGJ4WkdYWFNVNGRXeTQtQmE4WkhCNENXVFNfUEhuWHNHMlBKM0g5R2pXQTNaTkFycDNTeHVsTmYtNUp2X0V3Wl9ieUNXeHBVczBtZjBxVzNBMm9GUXNTSXp5UF9kb01ybDJxMVM2OHlVWmRJdE84a2FBdGlmSkdJODhJZUY0U0pPSWxNM1N5cjB0UHB2ck8tWlNRTHF3SHUzTndzczBfMWJGdm5wWlJCVjdmeTRkU195empsUUNTWTZUU0duMkZ3V2pnUGNvTjlQTmZSVzlSS2tFTWo1WkFyV3dCNWZ1b0hfSVE?oc=5",
 "d": "2026-11-04T07:24:37Z",
 "o": 6
-},
-{
-"t": "El ciclo vicioso del financiamiento en exploración minera",
-"s": "Mexico Business News",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR05DUDRWbDhhSVRQbXdlXzFhSFZONzdiOGozR05TZXd1S0kwZE44YWdNcFBPVzVzRlhYUlVqME1UUzV1Mkh3MmlMcGhnNlNOUFRYd01sV3lMdkQ0TlpaQTZEbVNGa1h1SlY2LVlMUS1JVEg2bjEyckpKR096czVLX0tfTVVsclgwRzBLZXBUVFFlYzBER2RUYURqZTZmUFR2Y0E?oc=5",
-"d": "2026-10-28T06:54:00Z",
-"o": 3
 },
 {
 "t": "Lark inicia operaciones en México con su plataforma de IA para empresas.",
@@ -244,6 +237,20 @@
 "o": 7
 },
 {
+"t": "PPG Comex instalará nueva planta de resinas en Acolman con inversión de 2 mil 400 millones de pesos",
+"s": "Comunicadores MX",
+"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGJCZkZMclVvXy1GSzZLVXM2TVpjdjdLSWlwd0dpcUduY2Z4Nm9RcE1GQ0dVTDRjNXRKUXRlNlBycTl6ZkxJYWtlTUtHc1I0eGlSUVdLVUdlOTN4Y2RmZ3FoeUVSeEl6a0RuelJueEVwNlJNVGxqbjBiRm5KWDJ0X3NkWThEWEIxSnVRUWdqUEJ0TjhxM0ZmV1lDSXNSWWg4QWlGSjIyT2VrRm0yR09rcWVWZkwxanNITDZRQm1aTV83UXZVWWlfTklYd2tJSWVWa1E?oc=5",
+"d": "2026-11-09T17:28:10Z",
+"o": 7
+},
+{
+"t": "PPG Comex invertirá 2,400 millones de pesos en nueva planta de resinas en Estado de México",
+"s": "MexicoIndustry",
+"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3F0SkYtdWM2ZkFYTjdla1I4OXJXSWpPOHNDRWZUM0IycXg2a0RLRUk1QnRMaW1kRzRoY2JmazhLMm11X3pvUU1XQWk2SHd1RFRldFcwQW1WX1VrLVppQktISXBLd1pHMnp1NXZwRzJQREpMVkdVUi1YbmdJOUV5T0kxaHNkQ0lDbm9fWFFVSF9uc3U5VGdSbldiUXJ6UjgxYkkwV1hsZk9yWjNOSGxMaXhkcmJZLTZrUHdwT1p3YnI5MFk?oc=5",
+"d": "2026-11-09T15:30:00Z",
+"o": 7
+},
+{
 "t": "PPG Comex invertirá 2 mil 400 mdp en nueva planta en Acolman",
 "s": "24-horas",
 "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFRUVE5PMFE3a3Rya01LWC1MbGFfaXl0ellobmxwTnp6WjhJQlVCZ1VpQ0NZMmtscWZ0QTlJbzJyM05KZDd4eHREZTYtVjktTVpoSXpfZ0FJZTZfZHBOenFQX0dHaVdZZGMwYjVkTWZoaHlkNUlPWkFHcU5fN0hDRG4tckV6eUlaVGt1NkRnbTVkVElC?oc=5",
@@ -277,20 +284,6 @@
 "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHdFaHdFREhXMzdtUC05aTVMR2JYR0c5YURibmlLQS1zaFo3cExOS1RTeUtfMTU4bndXYV9IalpsODZKaTQyQm9aZzRXbVFtT2kzM2pLSnFDQ2VfVGdtN1ZxZi1reGhQc2pWSUR4bVVLUWplM0Nsak9XbFdaMHFEcUFSWk9TclNKc3FtTVZoV2NSSXJOdF9jN1hzb0NQTUJ5Rk1saUp3?oc=5",
 "d": "2026-10-30T07:00:00Z",
 "o": 7
-},
-{
-"t": "Impulsan Plan México en Hidalgo con nueva planta farmacéutica de Carnot",
-"s": "El Popular, periodismo con causa",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWoxNTF1Q05laU9EbFRPZExqVlRRcmN3NG1aWXNHdVl2ZURNV3R5eEVQYUUzRVpMNFB0Q3pVMzZ0Y3VqdjN2Ykx0VHNaSnBrZ1ZESGJCdEFsN01oMHNhOWxXNWdSWWdrZzNmRlVGN1ZqRlJMWUZMcG9OVjlwVEZEZGw3RW1jdFkxalM5dGE4ZnRhakRJLTlEcTN4U0VEQTZDQzNjNzlaTk45UzZ5WDE4d2R3?oc=5",
-"d": "2026-10-29T07:00:00Z",
-"o": 4
-},
-{
-"t": "Albergará El Marqués nuevo parque industrial",
-"s": "Publimetro México",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemhXNE12T1Z2MnN2a1J2SU5kZXhLWURSWEVjSjNpY3dhckdab1ZrYXJUVExtRjJHVWJfb1lObS1BZHRmRkVYZDVtbGUxWWh0ZFNBdzM4SV9OWlhxTHVaRGYzcVUtVTVtVUU5T0k2SzlCQnZfZk9CWENhUkdQMHVUTkFSdjROWGg3aXg2NTRpOG1zYlh2Rzd1Z0hPb2U?oc=5",
-"d": "2026-10-29T07:00:00Z",
-"o": 4
 }
 ]
 },
@@ -360,13 +353,6 @@
 "id": "licitaciones",
 "nombre": "Licitaciones",
 "items": [
-{
-"t": "Coahuila: Acuerda CFE reactivar pedidos a empresas afines a Tony Flores",
-"s": "vanguardia.com.mx",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVNFVTVhZmpjNmpvQUYzNmx3Z1JSeHk1Vmg3Z0p6c3dud2Q2LXpCb1JDV3h3aS0tZi1PajhJOWl2ZFRKd0t2YjFsWld0VzEzaEp2ZVktcXBjbHVNVDVmTWN1ckRzckphbWMyby1mWVJVRS1nSHpEQ3RZWk5TVm9acjJYYURSMEtUT3ZwMEo5anJYYlVMSEYwNzE4aWZiOXI1WG1va1lkdzF6blJLV21PQW5VMHkwZw?oc=5",
-"d": "2026-11-11T11:00:00Z",
-"o": 3
-},
 {
 "t": "CFE declara desierta licitación de planta a gas de 130MW",
 "s": "BNamericas",
@@ -442,8 +428,15 @@
 "c": 1
 },
 {
+"t": "Pemex reporta pérdida neta de 10 mil 800 mdp en tercer trimestre; deuda financiera es de 77 mil 600 millones",
+"s": "www.cartademexico.com",
+"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVNQd0g1Vkdtb2Vyd0ptak0zdXBFak5VMW9vTnRvYmZ2MkJXWTVHSU15QktWTGZoMkNqckpPdVU0ZmRtbUI5UGtDYjJMTXBnNm5uS1V5aFVxMmwyZ2d3ZGZZT3FVdmZOTWRGUWhnODlMSUxYbzBSLWg4dHVZZ3pYOWtYRnVYUjBJSXIwNGkwbkRtTUlUOGtscHJBYXFacllWaWFhZUUzQUlfejlTQUdQbHJhc3VaSGxKbTZlSF91azRYcXd5Mkg0SVlDcEdUQnJxaTV4NGg0eE9JZw?oc=5",
+"d": "2026-10-31T07:00:00Z",
+"o": 3
+},
+{
 "t": "Gobierno de México suspende licitación de tren de pasajero Querétaro-Saltillo tramo 3",
-"s": "Milenio",
+"s": "MILENIO",
 "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkFpVkU1SXZDUTZFWlBtOUZqWnJGaDE1UC1EQW9BV3NDRF9GRzNPclo0dWtIZ0RIZnJXWUNGaDVMMmFzWndxUlV4dE5pWkUzOEgyNUxMR0JBQzlnTF83ek1oQ2VJQmIxUnlsTzRPd3dnWkFURmNWWTlwUGZLWVFYdGkyc1VFSTh2M1N4UVlEZ1oxcURURkw3RVBB0gGaAUFVX3lxTE13ZmdPZHJPWUlNTjNmVGdFVDZVZW5XYXBmZldJZkZ1TGdaQl9SRzd3MU14Y2RoR09aYjVTYktRQjBDUGVMZjRrV1ctSHNoa2h3Mm1EUC1IVWRLaU05NDNYX18talg0SHNKNnlXeUxULVN5ZmU5bXU4NTJOX1RreTgyUTNyVWZSUzUwMnlwb3dyaXVrMERVVkZtOVE?oc=5",
 "d": "2026-10-28T07:00:00Z",
 "o": 3,
@@ -498,6 +491,14 @@
 "o": 3
 },
 {
+"t": "INVIERTE GOBIERNO DE ZACATECAS 19.3 MDP EN CALLES DE FRESNILLO",
+"s": "ECOdiario",
+"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2poSU14MEFFZFBPRzNla09hS2otYm1tZmhRMVhXRE5BdzljUHI0OG1ydXU4NnRwN3Frb3B5VkszRndsb09VRHFiSmsyVTJBblJQalR0SW5WZkdsQTJlYnBCUGZ2S3F6ZTRrWWpEZXRQbmF0Y2JNd2o1QVAwZTBJcjVmcmg1a0VRWE5TaVU2SVh1OHpD?oc=5",
+"d": "2026-11-11T14:44:56Z",
+"o": 3,
+"c": 1
+},
+{
 "t": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
 "s": "Expansión",
 "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmtDaDJGS2V4NzNfMHNvaUFjRTh1OTZkTm5vd1BrWEpHVGk4RF9hTGxiV1VIQWZISlE3SE0yUEhOakRyaFhvc3B0eVpfdHZmYnVlOHM0bzBlY2NPWi1XX3RfczJ6clVCYXRFUzR5YUV2YkdRdnhDdm1PN0pJTlNJTUthU2V4Z29UY2NMRGNmdVBqTjJXY1l3MzlhMkcxWnfSAawBQVVfeXFMTl8wektfZGNfNTlnckR2S1piSVJob3FYam8tRWxGZno5MnJxR0FWSk9QZG1tNjQwU0tpbEJWbzhuOFpWN21oZ0QtUDk5TTEzSDhBZndXY2NLa3NDY2NmVUlGVEdDYmUwOEJUMFN4QndKSG5NdzdNRXF2eUYyMVVHRG9DSklCbXhKVjJJYmd1Ym0yWVhzNFNzTW9OTDByM3did3hJR0lCNjZvRzFDSA?oc=5",
@@ -531,6 +532,22 @@
 "id": "bajio",
 "nombre": "Bajío",
 "items": [
+{
+"t": "Matan a despachador de gasolinera frente al Parque Industrial Las Colinas, en Silao - Noticias Vespertinas",
+"s": "El Sol de México",
+"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRXdvS1IySk9DMnZCQ1pFT2loVFotLXZ3bEdyTV9pU1FVNVVGR2lxQ2hHMWVLdTJHYXNGSU5aMDVMenNVb2J2N1hSZE1aRHFsM3VnZDRIdHF2STE4MWNMcGcwN3JCMWJEb3hrX0VqdkR6cXE2NWZwOU9yOFh3SnBCUE13T2NzUW1TdGliWDc4Q3RXeWREX0p4cXBadFNRV3M0N2pMSlBzeTE1cWFVX3FfcWNJczU5VGxlWDBzNkNlZFRCNmpjU1l0MEdpYlpTQ2lxWF9rVjRfRQ?oc=5",
+"d": "2026-11-14T20:40:38Z",
+"o": 4,
+"c": 1
+},
+{
+"t": "Matan a despachador de gasolinera frente al parque industrial Las Colinas, en Silao",
+"s": "Zona Franca",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmh2TVp3enNiSWtJYnNzLXFkamxzWkZhN2F2VVVqVmJJa25wTUhqd20wb1cxZUFVYWhKWDlfamxhTXpWQUpMeFQzak9zSFhqLXUxeGY2WTNJZmlyRV9QTS1aWGtLZ3ZFMzJHdldjZWNHTkhJWXlkRVJfMlBVaUZTZnNUd0w2VWprRW5tekJPS2RfVHgtYm5wVjFnQnkteXNQblZyWmc2dnFQbEltRExSazIxdE9qdw?oc=5",
+"d": "2026-11-14T18:14:11Z",
+"o": 4,
+"c": 1
+},
 {
 "t": "Industria aeroespacial en San Luis Potosí: ¿cuánto empleo e inversión genera hoy?",
 "s": "Líder Empresarial",
@@ -568,6 +585,14 @@
 "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3FkQW02WU10VXNncU5sS3lWZE5QN1BQOExTanN0S0I2R09TZzc4d3dlRjA0WjZja1FRUnd6YVRqclA2cWxxTnhjLXB1eTRQU1NPcG1ta2lYdGNnOVZyLWlFamhqTnNOVndPZmo1WGhxS1J0X3hoMzBTRmc5Vk5pQkEwNFRQN0ZoelVHTHdpNzFqNkNUV0hyTVpjNVN6X1FDU25oOGpCZGE2a0hhUkdDRVdXeEVGcnQzYTRF0gHAAUFVX3lxTE11VGVRbTh2YmhnTGs3SmZxTDNsRHRuTHVzYkU4Y0FJMTdIRnBGSFhZcnNWc3drelhwSEo2cm1HWDY1Y3pGVWxibGJzaFFKRVp0MDl0M2ctT2NiM1h5NzlhZEc5OWJDTV9jY1RiX2llRk8xcEFTY3RpUGpIc2hDOE4xUVFzY0RKSEtickMyWmc5Q3ZRd2JpN3hJczVBTDhBQ2w1cVJiazh1UFNmR09iR3FoeTJTMUNaUzJObktkSkxYMQ?oc=5",
 "d": "2026-11-05T08:00:00Z",
 "o": 4,
+"c": 1
+},
+{
+"t": "Schneider Electric invierte en Querétaro",
+"s": "Somos Industria",
+"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUdPSElxUnlqMzdNZlQzV2M5STIyN3FGd2IxeEN2Q0xKcW8xbEVDLVVYYjhvWHl3ZGVqc0ZFMzF0MWNpM0dfLXM5RkxoS3VfbkxDTU5nckczSzU4c2hsMURvOC1QczItOGpBYTRLNTFLTndyQnhZdDdEYXhEWXBjb1Z6MA?oc=5",
+"d": "2026-11-04T14:58:09Z",
+"o": 3,
 "c": 1
 },
 {
@@ -615,14 +640,6 @@
 "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX3VyWWJDNWx0YVlsQXlNUkg5Ui1OaUFHV1hYOXprbmpLRHAwU1ZIVXNfV1QwMlNhTzN6ZUFhOUpYdU8tM2x0U1A0RHNxZEpwLW93ang0S0gtUFJ1cWx3UHl1cWNFT3I0V1lkZFo5YnM2aWVETXVYQXEzeXlaQUpMNm14cnFZR2R0TVpjcmxBMVpHeU91aVZKcm9GZDMwUjdXX0VaWGFnNno1YURLekx1M09xWC1sYjdkLWxXY3NUQVRpNFVHSDN2YlFzVkgwaFZqamU5N19BUjRPeXpqV01EZmpDWTdRV3hvUVVqMmE2Z3hQQdIBjAJBVV95cUxPc3JLNWRQdU9aU1AwRmM0RFdMNHN4SG41aHVacklpY2JHWjBWQWtibXFoYmZKY01SU3lWNjNXejcwMjVMV05ZRU1hMGd6Rk1vNml4VkVPc2FXdEQ0S01OSTZqbU5jQXF2dU1mOFBscFdPZm9SOTFVVWxxdm5MNExiNW8tWkRJb1JjV2ZkVVI0b09fTWNfRHhRQWtCMWZsV2J4aEI3UENMOVNGUk9NUUVDemY0bWJEdnZNdHVwY1ktbTRvQ3ROcEFOei04aHE1dlVfUUdLNzNsUUJlR1RHVGtQRU9sR3ljUEdLNmtXMFNneTE5NUpaVE5LX1FiUmtZZ093WE9BWHFTalZoczhE?oc=5",
 "d": "2026-10-28T07:00:00Z",
 "o": 3,
-"c": 1
-},
-{
-"t": "Schneider Electric inaugura campus en Querétaro con inversión de 3 mil 600 millones de pesos",
-"s": "Códice Informativo",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkU2Ty0wYnlFZEZFRm9ScUZSamoycWJIZjNKeXdDcHNOX1g2dWRGWUdhUkFQbl8welUtTTJOT0ZhRkRBNVJPOGN0UmVzVEVfRXJHdzFLSnVsdy1ZdUtSaHFtTGtockJ5RnRRQmFRT3pNQjBGam1DQzIyV21FQjRMd0pUeTREQ2F5N0ZSdTVteFZUM3RSYWpmZGhQV2lVSEFtSGFMVUV4S0F4MDI5NWlBUTByTGpXTWFtbmdXcmc1aVM0QkZxamJiU3Jobw?oc=5",
-"d": "2026-10-28T07:00:00Z",
-"o": 6,
 "c": 1
 },
 {
