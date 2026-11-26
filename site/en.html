@@ -410,6 +410,8 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 @keyframes inOut{to{opacity:0;visibility:hidden;transform:scale(1.04)}}
 .introPlaying #inicio *{animation-play-state:paused!important}
 
+.h4a{animation:h4a 24s linear infinite}.h4b{animation:h4b 24s linear infinite}.h4c{animation:h4c 24s linear infinite}.h4d{animation:h4d 24s linear infinite}@keyframes h4a{0%,22.5%{opacity:1}25%,97.5%{opacity:0}100%{opacity:1}}@keyframes h4b{0%,22.5%{opacity:0}25%,47.5%{opacity:1}50%,100%{opacity:0}}@keyframes h4c{0%,47.5%{opacity:0}50%,72.5%{opacity:1}75%,100%{opacity:0}}@keyframes h4d{0%,72.5%{opacity:0}75%,97.5%{opacity:1}100%{opacity:0}}.still .h4a,.still .h4b,.still .h4c,.still .h4d{animation:none}
+.v3d{display:block;width:100%;height:auto;background:#14171C;-webkit-mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);-webkit-mask-composite:source-in;mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);mask-composite:intersect}
 </style>
 </head>
 <body>
@@ -560,20 +562,25 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <linearGradient id="svSteel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6B7480"></stop><stop offset="0.45" stop-color="#D9DDE2"></stop><stop offset="1" stop-color="#5B6370"></stop></linearGradient>
 <filter id="svGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.4" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
 </defs></svg>
-<div class="h3a" style="">
+<div class="h4a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — PLASMA CUTTING</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CUTTING</span>
-<img src="img/3d/plasma.webp" alt="CNC plasma table cutting a steel plate with sparks" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/plasma.mp4" poster="img/3d/plasma.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="CNC plasma table cutting a steel plate with sparks"></video>
 </div>
-<div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<div class="h4b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — OXY-FUEL CUTTING</span>
+<span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CUTTING</span>
+<video class="v3d" data-src="img/3d/oxicorte.mp4" poster="img/3d/oxicorte.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="CNC oxy-fuel cutting table with preheat flame and molten slag cutting a thick plate"></video>
+</div>
+<div class="h4c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — WATERJET CUTTING</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CUTTING</span>
-<img src="img/3d/waterjet.webp" alt="CNC waterjet table cutting a thick plate" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/waterjet.mp4" poster="img/3d/waterjet.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="CNC waterjet table cutting a thick plate"></video>
 </div>
-<div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<div class="h4d" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — CUSTOM FABRICATION</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>WELDING</span>
-<img src="img/3d/carro.webp" alt="Mine car fabrication: chassis and body assembly and weld bead" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/carro.mp4" poster="img/3d/carro.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Mine car fabrication: chassis and body assembly and weld bead"></video>
 </div>
 <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: rgba(255,255,255,0.08)"><div class="bar" style="height: 3px; background: #FF7900"></div></div>
 </div>
@@ -602,17 +609,17 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="h3a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — PACKINGS &amp; O-RINGS</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>SEAL KIT</span>
-<img src="img/3d/seals.webp" alt="Exploded view of a seal kit on the rod: o-ring, poly-seal, wiper, wear ring and backup ring" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/seals.mp4" poster="img/3d/seals.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Exploded view of a seal kit on the rod: o-ring, poly-seal, wiper, wear ring and backup ring"></video>
 </div>
 <div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — GEAR PUMP</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span>
-<img src="img/3d/pump.webp" alt="Cutaway of a hydraulic gear pump with oil flowing from suction to discharge" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/pump.mp4" poster="img/3d/pump.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Cutaway of a hydraulic gear pump with oil flowing from suction to discharge"></video>
 </div>
 <div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — HYDRAULIC SYSTEM</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span>
-<img src="img/3d/hyd.webp" alt="Hydraulic system: power unit with tank, motor, pump, directional valves, gauge and cylinder" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/hyd.mp4" poster="img/3d/hyd.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Hydraulic system: power unit with tank, motor, pump, directional valves, gauge and cylinder"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -642,17 +649,17 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="h3a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — LIGHT UNIT</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>LIFTING</span>
-<img src="img/3d/light.webp" alt="Light unit with a small knuckle-boom crane lifting a motor" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/light.mp4" poster="img/3d/light.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Light unit with a small knuckle-boom crane lifting a motor"></video>
 </div>
 <div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — MEDIUM UNIT</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>LIFTING</span>
-<img src="img/3d/medium.webp" alt="Medium unit with a knuckle-boom crane lifting a large hydraulic cylinder" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/medium.mp4" poster="img/3d/medium.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Medium unit with a knuckle-boom crane lifting a large hydraulic cylinder"></video>
 </div>
 <div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — HEAVY UNIT</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>LIFTING</span>
-<img src="img/3d/heavy.webp" alt="Heavy unit with a large knuckle-boom crane lifting a CNC machining center" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/heavy.mp4" poster="img/3d/heavy.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Heavy unit with a large knuckle-boom crane lifting a CNC machining center"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -675,12 +682,12 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="sceneA">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 04 — SIMULATION · ANSYS</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>SOLVING</span>
-<img src="img/3d/ansys.webp" alt="ANSYS finite element simulation: A-frame gantry crane, von Mises equivalent stress" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/ansys.mp4" poster="img/3d/ansys.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="ANSYS finite element simulation: A-frame gantry crane, von Mises equivalent stress"></video>
 </div>
 <div class="sceneB" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 04 — 3D MODELING · CATIA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>ASSEMBLING</span>
-<img src="img/3d/catia.webp" alt="CATIA 3D modeling: hydraulic cylinder assembly (rear cap, barrel, gland and rod)" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/catia.mp4" poster="img/3d/catia.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="CATIA 3D modeling: hydraulic cylinder assembly (rear cap, barrel, gland and rod)"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -695,18 +702,18 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="sceneA">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 05 — DIMENSIONAL INSPECTION · FARO</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>SCANNING</span>
-<img src="img/3d/arm.webp" alt="FARO measuring arm inspecting a machined part on a granite table" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/arm.mp4" poster="img/3d/arm.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Dimensional inspection of a machined part on a granite table"></video>
 </div>
 <div class="sceneB" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 05 — 3D SCAN VS. CAD · FARO</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>SCANNING</span>
-<img src="img/3d/scan.webp" alt="3D scan of a flange with a FARO handheld laser scanner and a deviation map against the CAD model" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/scan.mp4" poster="img/3d/scan.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="3D scan of a flange with a deviation map against the CAD model"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
 <span style="align-self: flex-start; border: 1px solid rgba(255,121,0,0.35); background: rgba(255,121,0,0.12); color: #FFB27A; border-radius: 999px; padding: 6px 14px; font-size: 0.74rem; font-weight: 700; letter-spacing: 0.12em">FARO</span>
 <h3 style="margin: 0; font-family: 'Archivo', sans-serif; font-weight: 800; font-size: 1.6rem; line-height: 1.15">Reverse engineering &amp; rebuilding</h3>
-<div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; color: #B4BAC3"><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>High-precision 3D scanning with <strong style='color: #F2F3F5'>FARO measuring arm</strong> and <strong style='color: #F2F3F5'>FARO Max Evo Elite scanner</strong></span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Digitizing parts and components with no drawings</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Rebuilding and recovery of components and hydraulic cylinders</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Dimensional inspection for operational continuity</span></span></div>
+<div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; color: #B4BAC3"><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>High-precision 3D scanning and measurement with <strong style='color: #F2F3F5'>FARO technology</strong></span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Digitizing parts and components with no drawings</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Rebuilding and recovery of components and hydraulic cylinders</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Dimensional inspection for operational continuity</span></span></div>
 <a class="more" target="_blank" rel="noopener" href="https://wa.me/524621240457?text=Hello%2C%20I%27m%20interested%20in%20reverse%20engineering%20/%203D%20scanning." style="margin-top: auto; padding-top: 18px; border-top: 1px solid #262B33; display: flex; align-items: center; gap: 8px; font-weight: 700; text-decoration: none; min-height: 44px">Request a quote <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
 </div>
 </article>
@@ -739,31 +746,31 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="rise d1" style="flex: 1 1 480px; min-width: 0; position: relative; background-color: #14171C; background-image: linear-gradient(rgba(255,255,255,0.045) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.045) 1px, transparent 1px); background-size: 24px 24px; border: 1px solid #262B33; border-radius: 28px; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; overflow: hidden; box-shadow: 0 40px 80px rgba(0,0,0,0.35)">
 <div class="pl0" style="display: flex; flex-direction: column; gap: 10px">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 001 — HYDRAULICS · POWER TRANSMISSION</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp1.webp" alt="3D model of a hydraulic cylinder cutaway" width="1120" height="660" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp1.mp4" poster="img/3d/bp1.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a hydraulic cylinder cutaway"></video>
 </div>
 <div class="pl1" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 002 — STEEL · STRAIGHTENING</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp2.webp" alt="3D model of a hydraulic straightening press" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp2.mp4" poster="img/3d/bp2.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a hydraulic straightening press"></video>
 </div>
 <div class="pl2" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 003 — MINING · HOIST</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp3.webp" alt="3D model of a double-drum hoist" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp3.mp4" poster="img/3d/bp3.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a double-drum hoist"></video>
 </div>
 <div class="pl3" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 004 — MINING · VENTILATION DOORS</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp4.webp" alt="3D model of mine ventilation doors" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp4.mp4" poster="img/3d/bp4.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of mine ventilation doors"></video>
 </div>
 <div class="pl4" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 005 — HEAVY INDUSTRY · MATERIAL HANDLING</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp5.webp" alt="3D model of a loader bucket" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp5.mp4" poster="img/3d/bp5.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a loader bucket"></video>
 </div>
 <div class="pl5" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 006 — STEEL · LADLE LIFTING</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp6.webp" alt="3D model of a lifting beam with C-hooks and ladle" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp6.mp4" poster="img/3d/bp6.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a lifting beam with C-hooks and ladle"></video>
 </div>
 <div class="pl6" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>DWG 007 — MINING · SCOOPTRAM LOADER</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>RUNNING</span></div>
-<img src="img/3d/bp7.webp" alt="3D model of a scooptram mining loader" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp7.mp4" poster="img/3d/bp7.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="3D model of a scooptram mining loader"></video>
 </div>
 <div aria-hidden="true" style="position: relative; display: flex; justify-content: center; gap: 8px; padding-top: 6px"><span class="pd0" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd1" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd2" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd3" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd4" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd5" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd6" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span></div>
 </div>
@@ -1157,5 +1164,7 @@ b.addEventListener('click',function(){var o=bar.classList.toggle('open');b.setAt
 (function(){var k=document.getElementById('oeiK'),n=0,tm;if(k)k.addEventListener('click',function(){n++;clearTimeout(tm);tm=setTimeout(function(){n=0;},1500);if(n>=3){n=0;location.href='acceso-6d4ade28b1.html';}});})();
 bar.querySelectorAll('.mmenu a').forEach(function(a){a.addEventListener('click',function(){bar.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
+<script>(function(){var vs=[].slice.call(document.querySelectorAll('video.v3d[data-src]'));function go(v){if(v.dataset.src){v.src=v.dataset.src;v.removeAttribute('data-src');}var p=v.play();if(p&&p.catch)p.catch(function(){});}
+if(!('IntersectionObserver' in window)){vs.forEach(go);return;}var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){go(e.target);}else if(!e.target.dataset.src){e.target.pause();}});},{rootMargin:'300px 0px'});vs.forEach(function(v){io.observe(v);});})();</script>
 </body>
 </html>

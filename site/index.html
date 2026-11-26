@@ -410,6 +410,8 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 @keyframes inOut{to{opacity:0;visibility:hidden;transform:scale(1.04)}}
 .introPlaying #inicio *{animation-play-state:paused!important}
 
+.h4a{animation:h4a 24s linear infinite}.h4b{animation:h4b 24s linear infinite}.h4c{animation:h4c 24s linear infinite}.h4d{animation:h4d 24s linear infinite}@keyframes h4a{0%,22.5%{opacity:1}25%,97.5%{opacity:0}100%{opacity:1}}@keyframes h4b{0%,22.5%{opacity:0}25%,47.5%{opacity:1}50%,100%{opacity:0}}@keyframes h4c{0%,47.5%{opacity:0}50%,72.5%{opacity:1}75%,100%{opacity:0}}@keyframes h4d{0%,72.5%{opacity:0}75%,97.5%{opacity:1}100%{opacity:0}}.still .h4a,.still .h4b,.still .h4c,.still .h4d{animation:none}
+.v3d{display:block;width:100%;height:auto;background:#14171C;-webkit-mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);-webkit-mask-composite:source-in;mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);mask-composite:intersect}
 </style>
 </head>
 <body>
@@ -560,20 +562,25 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <linearGradient id="svSteel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6B7480"></stop><stop offset="0.45" stop-color="#D9DDE2"></stop><stop offset="1" stop-color="#5B6370"></stop></linearGradient>
 <filter id="svGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.4" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
 </defs></svg>
-<div class="h3a" style="">
+<div class="h4a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — CORTE POR PLASMA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CORTANDO</span>
-<img src="img/3d/plasma.webp" alt="Mesa CNC de corte por plasma cortando una placa de acero con chispas" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/plasma.mp4" poster="img/3d/plasma.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Mesa CNC de corte por plasma cortando una placa de acero con chispas"></video>
 </div>
-<div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<div class="h4b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — OXICORTE</span>
+<span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CORTANDO</span>
+<video class="v3d" data-src="img/3d/oxicorte.mp4" poster="img/3d/oxicorte.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Mesa CNC de oxicorte con flama de precalentamiento y escoria fundida cortando una placa gruesa"></video>
+</div>
+<div class="h4c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — CORTE POR CHORRO DE AGUA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CORTANDO</span>
-<img src="img/3d/waterjet.webp" alt="Mesa CNC de corte por chorro de agua cortando una placa gruesa" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/waterjet.mp4" poster="img/3d/waterjet.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Mesa CNC de corte por chorro de agua cortando una placa gruesa"></video>
 </div>
-<div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
+<div class="h4d" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 01 — FABRICACIÓN A LA MEDIDA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>SOLDANDO</span>
-<img src="img/3d/carro.webp" alt="Fabricación de un carro minero: armado del chasis, la caja y soldadura del cordón" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/carro.mp4" poster="img/3d/carro.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Fabricación de un carro minero: armado del chasis, la caja y soldadura del cordón"></video>
 </div>
 <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: rgba(255,255,255,0.08)"><div class="bar" style="height: 3px; background: #FF7900"></div></div>
 </div>
@@ -602,17 +609,17 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="h3a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — EMPAQUES Y O-RINGS</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>KIT DE SELLOS</span>
-<img src="img/3d/seals.webp" alt="Vista explotada de un kit de sellos sobre el vástago: o-ring, sello poly-seal, limpiador, anillo guía y anillo de respaldo" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/seals.mp4" poster="img/3d/seals.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Vista explotada de un kit de sellos sobre el vástago: o-ring, sello poly-seal, limpiador, anillo guía y anillo de respaldo"></video>
 </div>
 <div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — BOMBA DE ENGRANES</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span>
-<img src="img/3d/pump.webp" alt="Corte de una bomba hidráulica de engranes con el aceite fluyendo de la succión a la descarga" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/pump.mp4" poster="img/3d/pump.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Corte de una bomba hidráulica de engranes con el aceite fluyendo de la succión a la descarga"></video>
 </div>
 <div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 02 — SISTEMA HIDRÁULICO</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span>
-<img src="img/3d/hyd.webp" alt="Sistema hidráulico: unidad de potencia con tanque, motor, bomba, válvulas direccionales, manómetro y cilindro" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/hyd.mp4" poster="img/3d/hyd.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Sistema hidráulico: unidad de potencia con tanque, motor, bomba, válvulas direccionales, manómetro y cilindro"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -642,17 +649,17 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="h3a" style="">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — UNIDAD LIGERA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN MANIOBRA</span>
-<img src="img/3d/light.webp" alt="Unidad ligera con grúa articulada chica levantando un motor" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/light.mp4" poster="img/3d/light.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Unidad ligera con grúa articulada chica levantando un motor"></video>
 </div>
 <div class="h3b" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — UNIDAD MEDIANA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN MANIOBRA</span>
-<img src="img/3d/medium.webp" alt="Unidad mediana con grúa articulada levantando un cilindro hidráulico de gran formato" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/medium.mp4" poster="img/3d/medium.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Unidad mediana con grúa articulada levantando un cilindro hidráulico de gran formato"></video>
 </div>
 <div class="h3c" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 03 — UNIDAD PESADA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN MANIOBRA</span>
-<img src="img/3d/heavy.webp" alt="Unidad pesada con grúa articulada grande levantando un centro de maquinado CNC" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/heavy.mp4" poster="img/3d/heavy.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Unidad pesada con grúa articulada grande levantando un centro de maquinado CNC"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -675,12 +682,12 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="sceneA">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 04 — SIMULACIÓN · ANSYS</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>CALCULANDO</span>
-<img src="img/3d/ansys.webp" alt="Simulación por elemento finito en ANSYS: grúa pórtico con patas en A, esfuerzo equivalente de Von Mises" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/ansys.mp4" poster="img/3d/ansys.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Simulación por elemento finito en ANSYS: grúa pórtico con patas en A, esfuerzo equivalente de Von Mises"></video>
 </div>
 <div class="sceneB" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 04 — MODELADO 3D · CATIA</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>ENSAMBLANDO</span>
-<img src="img/3d/catia.webp" alt="Modelado 3D en CATIA: ensamble de un cilindro hidráulico (tapa trasera, camisa, tapa delantera y vástago)" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/catia.mp4" poster="img/3d/catia.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Modelado 3D en CATIA: ensamble de un cilindro hidráulico (tapa trasera, camisa, tapa delantera y vástago)"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
@@ -695,18 +702,18 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="sceneA">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 05 — INSPECCIÓN DIMENSIONAL · FARO</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>ESCANEANDO</span>
-<img src="img/3d/arm.webp" alt="Brazo de medición FARO inspeccionando dimensiones de una pieza mecanizada sobre mesa de granito" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/arm.mp4" poster="img/3d/arm.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Inspección dimensional de una pieza mecanizada sobre mesa de granito"></video>
 </div>
 <div class="sceneB" style="position: absolute; inset: 0; padding: 44px 8px 18px; box-sizing: border-box; opacity: 0">
 <span style="position: absolute; left: 22px; top: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C">FIG. 05 — ESCANEO 3D VS. CAD · FARO</span>
 <span style="position: absolute; right: 22px; top: 16px; display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.14em; color: #FFB27A"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>ESCANEANDO</span>
-<img src="img/3d/scan.webp" alt="Escaneo 3D de una brida con escáner láser de mano FARO y mapa de desviaciones contra el modelo CAD" width="1120" height="600" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/scan.mp4" poster="img/3d/scan.jpg" muted loop playsinline autoplay preload="none" width="1120" height="600" role="img" aria-label="Escaneo 3D de una brida con mapa de desviaciones contra el modelo CAD"></video>
 </div>
 </div>
 <div style="flex: 1; padding: 28px 30px 30px; display: flex; flex-direction: column; gap: 16px">
 <span style="align-self: flex-start; border: 1px solid rgba(255,121,0,0.35); background: rgba(255,121,0,0.12); color: #FFB27A; border-radius: 999px; padding: 6px 14px; font-size: 0.74rem; font-weight: 700; letter-spacing: 0.12em">FARO</span>
 <h3 style="margin: 0; font-family: 'Archivo', sans-serif; font-weight: 800; font-size: 1.6rem; line-height: 1.15">Ingeniería inversa y reconstrucción</h3>
-<div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; color: #B4BAC3"><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Escaneo 3D de alta precisión con <strong style='color: #F2F3F5'>brazo de medición FARO</strong> y escáner <strong style='color: #F2F3F5'>FARO Max Evo Elite</strong></span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Digitalización de piezas y componentes sin plano</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Reconstrucción y recuperación de componentes y cilindros hidráulicos</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Inspección dimensional para la continuidad operativa</span></span></div>
+<div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; color: #B4BAC3"><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Escaneo 3D y medición de alta precisión con <strong style='color: #F2F3F5'>tecnología FARO</strong></span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Digitalización de piezas y componentes sin plano</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Reconstrucción y recuperación de componentes y cilindros hidráulicos</span></span><span style="display: flex; gap: 12px"><span style="flex: none; width: 7px; height: 7px; margin-top: 8px; background: #E8650F; transform: rotate(45deg)"></span><span>Inspección dimensional para la continuidad operativa</span></span></div>
 <a class="more" target="_blank" rel="noopener" href="https://wa.me/524621240457?text=Hola%2C%20me%20interesa%20un%20servicio%20de%20ingenier%C3%ADa%20inversa%20/%20escaneo%203D." style="margin-top: auto; padding-top: 18px; border-top: 1px solid #262B33; display: flex; align-items: center; gap: 8px; font-weight: 700; text-decoration: none; min-height: 44px">Solicitar cotización <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
 </div>
 </article>
@@ -739,31 +746,31 @@ a.line [style*="font-size: 0.88rem"],a.line [style*="font-size: 0.85rem"]{font-s
 <div class="rise d1" style="flex: 1 1 480px; min-width: 0; position: relative; background-color: #14171C; background-image: linear-gradient(rgba(255,255,255,0.045) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.045) 1px, transparent 1px); background-size: 24px 24px; border: 1px solid #262B33; border-radius: 28px; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; overflow: hidden; box-shadow: 0 40px 80px rgba(0,0,0,0.35)">
 <div class="pl0" style="display: flex; flex-direction: column; gap: 10px">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 001 — HIDRÁULICA · TRANSMISIÓN DE FUERZA</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp1.webp" alt="Modelo 3D de un cilindro hidráulico en corte" width="1120" height="660" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp1.mp4" poster="img/3d/bp1.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de un cilindro hidráulico en corte"></video>
 </div>
 <div class="pl1" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 002 — SIDERURGIA · ENDEREZADO DE ACERO</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp2.webp" alt="Modelo 3D de una enderezadora hidráulica" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp2.mp4" poster="img/3d/bp2.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de una enderezadora hidráulica"></video>
 </div>
 <div class="pl2" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 003 — MINERÍA · MALACATE</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp3.webp" alt="Modelo 3D de un malacate de doble tambor" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp3.mp4" poster="img/3d/bp3.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de un malacate de doble tambor"></video>
 </div>
 <div class="pl3" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 004 — MINERÍA · PUERTAS DE VENTILACIÓN</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp4.webp" alt="Modelo 3D de puertas de ventilación de mina" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp4.mp4" poster="img/3d/bp4.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de puertas de ventilación de mina"></video>
 </div>
 <div class="pl4" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 005 — INDUSTRIA PESADA · CARGA DE MATERIAL</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp5.webp" alt="Modelo 3D de un cucharón de carga" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp5.mp4" poster="img/3d/bp5.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de un cucharón de carga"></video>
 </div>
 <div class="pl5" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 006 — SIDERURGIA · IZAJE DE OLLAS</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp6.webp" alt="Modelo 3D de un balancín de izaje con ganchos C y olla" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp6.mp4" poster="img/3d/bp6.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de un balancín de izaje con ganchos C y olla"></video>
 </div>
 <div class="pl6" style="position: absolute; inset: 0; padding: 26px 22px 22px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; opacity: 0">
 <div style="display: flex; justify-content: space-between; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.14em; color: #8A929C"><span>PLANO 007 — MINERÍA · CARGADOR SCOOPTRAM</span><span style="display: flex; align-items: center; gap: 6px; color: #FFB27A; white-space: nowrap"><span class="pulse" style="width: 7px; height: 7px; border-radius: 50%; background: #FF7900"></span>EN OPERACIÓN</span></div>
-<img src="img/3d/bp7.webp" alt="Modelo 3D de un cargador minero scooptram" width="1120" height="660" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto">
+<video class="v3d" data-src="img/3d/bp7.mp4" poster="img/3d/bp7.jpg" muted loop playsinline autoplay preload="none" width="1120" height="660" role="img" aria-label="Modelo 3D de un cargador minero scooptram"></video>
 </div>
 <div aria-hidden="true" style="position: relative; display: flex; justify-content: center; gap: 8px; padding-top: 6px"><span class="pd0" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd1" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd2" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd3" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd4" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd5" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span><span class="pd6" style="width: 8px; height: 8px; border-radius: 999px; background: #3A3F47"></span></div>
 </div>
@@ -1157,5 +1164,7 @@ b.addEventListener('click',function(){var o=bar.classList.toggle('open');b.setAt
 (function(){var k=document.getElementById('oeiK'),n=0,tm;if(k)k.addEventListener('click',function(){n++;clearTimeout(tm);tm=setTimeout(function(){n=0;},1500);if(n>=3){n=0;location.href='acceso-6d4ade28b1.html';}});})();
 bar.querySelectorAll('.mmenu a').forEach(function(a){a.addEventListener('click',function(){bar.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
+<script>(function(){var vs=[].slice.call(document.querySelectorAll('video.v3d[data-src]'));function go(v){if(v.dataset.src){v.src=v.dataset.src;v.removeAttribute('data-src');}var p=v.play();if(p&&p.catch)p.catch(function(){});}
+if(!('IntersectionObserver' in window)){vs.forEach(go);return;}var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){go(e.target);}else if(!e.target.dataset.src){e.target.pause();}});},{rootMargin:'300px 0px'});vs.forEach(function(v){io.observe(v);});})();</script>
 </body>
 </html>
